@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+The Black Eyed Peas,False,3,1,1,Imma Be,12
+Ke$ha,False,1,1,2,TiK ToK,20
+Young Money Featuring Lloyd,False,4,3,3,BedRock,13
+Lady Gaga,False,5,2,4,Bad Romance,17
+Lady Antebellum,False,6,3,5,Need You Now,28
+Artists For Haiti,False,2,2,6,We Are The World 25: For Haiti,2
+Train,False,7,7,7,"Hey, Soul Sister",21
+Ludacris,False,8,6,8,How Low,11
+Jason Derulo,False,9,9,9,In My Head,11
+Trey Songz Featuring Fabolous,False,12,10,10,Say Aah,15
+Ke$ha Featuring 3OH!3,False,11,7,11,Blah Blah Blah,7
+David Guetta Featuring Akon,False,10,5,12,Sexy Chick,29
+Justin Bieber Featuring Ludacris,False,19,5,13,Baby,5
+Lady Gaga Featuring Beyonce,False,15,14,14,Telephone,13
+Timbaland Featuring Justin Timberlake,False,13,11,15,Carry Out,12
+Iyaz,False,14,2,16,Replay,27
+Orianthi,False,20,17,17,According To You,12
+Jay-Z + Alicia Keys,False,17,1,18,Empire State Of Mind,24
+Kris Allen,False,21,19,19,Live Like We're Dying,17
+The Black Eyed Peas,False,16,1,20,I Gotta Feeling,37
+B.o.B Featuring Bruno Mars,False,38,21,21,Nothin' On You,4
+The Script,False,28,22,22,Breakeven,12
+Rihanna,False,64,23,23,Rude Boy,2
+Taylor Swift,False,30,2,24,Today Was A Fairytale,5
+Jay Sean Featuring Sean Paul & Lil Jon,False,22,10,25,Do You Remember,16
+New Boyz Featuring Ray J,False,26,26,26,Tie Me Down,19
+Rihanna Featuring Jeezy,False,18,8,27,Hard,14
+Adam Lambert,False,31,28,28,Whataya Want From Me,10
+Boys Like Girls Featuring Taylor Swift,False,23,18,29,Two Is Better Than One,18
+Owl City,False,24,1,30,Fireflies,27
+Jay Sean Featuring Lil Wayne,False,27,1,31,Down,34
+Timbaland Featuring Drake,False,33,32,32,Say Something,7
+Michael Buble,False,25,25,33,Haven't Met You Yet,21
+OneRepublic,False,41,34,34,All The Right Moves,20
+Taylor Swift,False,29,2,35,You Belong With Me,44
+Jason Derulo,False,32,1,36,Whatcha Say,28
+Selena Gomez & The Scene,False,36,29,37,Naturally,9
+"Drake Featuring Kanye West, Lil Wayne & Eminem",False,34,8,38,Forever,23
+Josh Turner,False,35,35,39,Why Don't We Just Dance,15
+Lady Gaga,False,37,6,40,Paparazzi,26
+Jay-Z + Swizz Beatz,False,51,41,41,On To The Next One,6
+Kelly Clarkson,False,40,13,42,Already Gone,30
+The Black Eyed Peas,False,39,7,43,Meet Me Halfway,23
+Kings Of Leon,False,42,4,44,Use Somebody,56
+Alicia Keys,False,44,27,45,Try Sleeping With A Broken Heart,14
+Daughtry,False,48,46,46,Life After You,12
+Usher Featuring Plies,False,56,47,47,Hey Daddy (Daddy's Home),6
+John Mayer,False,50,48,48,Heartbreak Warfare,11
+Miley Cyrus,False,49,2,49,Party In The U.S.A.,28
+Melanie Fiona,False,47,43,50,It Kills Me,14
+Jason Aldean,False,45,40,51,The Truth,16
+Rascal Flatts,False,92,52,52,Unstoppable,3
+Lifehouse,False,57,53,53,Halfway Gone,11
+Carrie Underwood,False,54,54,54,Temporary Home,9
+Mary J. Blige,False,55,55,55,I Am,11
+Blake Shelton Featuring Trace Adkins,False,62,56,56,Hillbilly Bone,9
+Christopher Wilde,True,0,57,57,Hero,1
+Shinedown,False,53,42,58,If You Only Knew,17
+Robin Thicke,False,65,59,59,Sex Therapy,10
+General Larry Platt,False,46,46,60,Pants On The Ground,2
+k.d. lang,True,0,61,61,Hallelujah (Vancouver Winter 2010 Version),1
+Darius Rucker,False,61,61,62,History In The Making,17
+Sade,False,52,52,63,Soldier Of Love,6
+"DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",True,0,64,64,All I Do Is Win,1
+Lady Antebellum,False,75,65,65,American Honey,6
+Zac Brown Band,False,71,66,66,Highway 20 Ride,6
+Billy Currington,False,69,67,67,That's How Country Boys Roll,12
+Snoop Dogg,False,60,41,68,I Wanna Rock,11
+Brad Paisley,False,68,67,69,American Saturday Night,11
+Iyaz,False,43,43,70,Solo,2
+Usher,True,0,71,71,There Goes My Baby,1
+Britney Spears,False,63,1,72,3,20
+Birdman Featuring Lil Wayne & Drake,False,67,26,73,Money To Blow,20
+Gucci Mane,False,81,74,74,Lemonade,3
+Toby Keith,False,73,73,75,Cryin' For Me (Wayman's Song),11
+Pitbull Featuring Akon,False,58,42,76,Shut It Down,12
+Christopher Wilde,True,0,77,77,StarStruck,1
+Miranda Lambert,False,66,38,78,White Liar,19
+Lil Wayne Featuring Nicki Minaj,False,59,44,79,Knockout,3
+Roscoe Dash Featuring Soulja Boy Tell'em,False,85,80,80,All The Way Turnt Up,4
+Christopher Wilde & Anna Margaret,True,0,81,81,Something About The Sunshine,1
+Keith Urban,False,79,79,82,'Til Summer Comes Around,6
+Lil Wayne Featuring Eminem,False,70,18,83,Drop The World,8
+"Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne",False,72,59,84,I Made It (Cash Money Heroes),3
+Rob Thomas,False,78,72,85,Someday,16
+Snoop Dogg Featuring The-Dream,False,74,35,86,Gangsta Luv,18
+Trey Songz Featuring Drake,False,77,42,87,I Invented Sex,18
+Young Money Featuring Gucci Mane,False,86,48,88,Steady Mobbin',7
+3OH!3 Featuring Neon Hitch,True,0,89,89,Follow Me Down,1
+Monica,False,82,82,90,Everything To Me,2
+Lloyd Banks Featuring Juelz Santana,False,76,76,91,"Beamer, Benz, Or Bentley",2
+Easton Corbin,False,83,79,92,A Little More Country Than That,7
+LMFAO Featuring Lil Jon,False,88,68,93,Shots,11
+Pearl Jam,False,91,88,94,Just Breathe,6
+Waka Flocka Flame,False,95,95,95,O Let's Do It,2
+Miley Cyrus,False,0,88,96,When I Look At You,2
+Jay-Z + Mr. Hudson,False,0,41,97,Young Forever,6
+Tim McGraw,False,90,49,98,Southern Voice,18
+Nickelback,False,80,58,99,Never Gonna Be Alone,17
+Mariah Carey Featuring Nicki Minaj,True,0,100,100,Up Out My Face,1

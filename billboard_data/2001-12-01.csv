@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Mary J. Blige,False,1,1,1,Family Affair,19
+Usher,False,2,2,2,U Got It Bad,11
+Enrique Iglesias,False,3,3,3,Hero,10
+Nickelback,False,5,4,4,How You Remind Me,13
+Nelly Furtado,False,6,5,5,Turn Off The Light,16
+Jennifer Lopez Featuring Ja Rule,False,4,1,6,I'm Real,22
+Ginuwine,False,9,4,7,Differences,19
+Ja Rule Featuring Case,False,8,8,8,Livin' It Up,14
+Alicia Keys,False,7,1,9,Fallin',25
+Destiny's Child,False,12,10,10,Emotion,10
+'N Sync,False,11,11,11,Gone,11
+Enya,False,10,10,12,Only Time,21
+P!nk,False,15,13,13,Get The Party Started,6
+Aaliyah,False,14,14,14,Rock The Boat,13
+Staind,False,13,5,15,It's Been Awhile,34
+Five For Fighting,False,16,16,16,Superman (It's Not Easy),14
+JAY-Z,False,19,17,17,"Girls, Girls, Girls",8
+Toya,False,18,18,18,I Do!!,27
+City High Featuring Eve,False,20,19,19,Caramel,8
+Michelle Branch,False,17,12,20,Everywhere,14
+Shakira,False,37,21,21,"Whenever, Wherever",6
+Creed,False,31,22,22,My Sacrifice,6
+Nelly,False,30,23,23,#1,7
+Aaron Tippin,False,27,24,24,Where The Stars And Stripes And The Eagle Fly,7
+Train,False,22,5,25,Drops Of Jupiter (Tell Me),38
+Lifehouse,False,21,2,26,Hanging By A Moment,43
+Britney Spears,False,40,27,27,I'm A Slave 4 U,7
+Petey Pablo,False,25,25,28,Raise Up,17
+Toby Keith,False,35,29,29,I Wanna Talk About Me,8
+Jagged Edge With Nelly,False,24,3,30,Where The Party At,27
+Ja Rule Featuring Ashanti,False,56,31,31,Always On Time,3
+Craig David,False,23,15,32,Fill Me In,26
+Michael Jackson,False,49,33,33,Butterflies,3
+Fat Joe Featuring R. Kelly,False,48,34,34,We Thuggin',6
+The Calling,False,46,35,35,Wherever You Will Go,4
+Maxwell,False,26,22,36,Lifetime,13
+Lenny Kravitz,False,39,37,37,Dig In,8
+3 Doors Down,False,29,24,38,Be Like That,19
+Backstreet Boys,False,28,28,39,Drowning,7
+Blu Cantrell,False,34,2,40,Hit 'Em Up Style (Oops!),31
+Alien Ant Farm,False,32,23,41,Smooth Criminal,15
+Alicia Keys,False,45,42,42,A Woman's Worth,6
+Travis Tritt,False,42,39,43,Love Of A Woman,12
+Eve Featuring Gwen Stefani,False,36,2,44,Let Me Blow Ya Mind,32
+Faith Evans,False,41,41,45,You Gets No Love,9
+"Missy ""Misdemeanor"" Elliott",False,43,15,46,One Minute Man,21
+David Ball,False,53,47,47,Riding With Private Malone,6
+George Strait,False,52,48,48,Run,6
+Reba,False,55,49,49,I'm A Survivor,12
+112,False,47,39,50,Dance With Me,12
+JAY-Z,False,38,8,51,Izzo (H.O.V.A.),19
+Bubba Sparxxx,False,33,15,52,Ugly,14
+Brooks & Dunn,False,50,33,53,Only In America,20
+U2,False,54,52,54,Stuck In A Moment You Can't Get Out Of,10
+"Janet Featuring Missy Elliott, P. Diddy & Carly Simon",False,72,55,55,Son Of A Gun,2
+Alan Jackson,False,62,56,56,Where Were You (When The World Stopped Turning),2
+Garth Brooks,False,61,57,57,Wrapped Up In You,6
+Mr. Cheeks,False,64,58,58,"Lights, Camera, Action!",8
+Fabolous Featuring Nate Dogg,False,51,25,59,Can't Deny It,20
+Tim McGraw,False,59,38,60,Angry All The Time,16
+Jewel,False,70,61,61,Standing Still,3
+Linkin Park,False,69,62,62,In The End,5
+Trace Adkins,False,71,63,63,I'm Tryin',7
+P.O.D.,False,68,64,64,Alive,5
+DMX,False,60,60,65,Who We Be,8
+Incubus,False,67,63,66,Wish You Were Here,11
+Brian McKnight,False,63,51,67,Love Of My Life,12
+Trick Pony,False,57,47,68,On A Night Like This,19
+Alan Jackson,False,65,34,69,Where I Come From,15
+Steve Holy,True,0,70,70,Good Morning Beautiful,1
+Ludacris,False,78,71,71,Roll Out (My Business),4
+Staind,False,74,69,72,Fade,7
+Lonestar,False,75,70,73,With Me,6
+Jagged Edge,False,76,74,74,Goodbye,3
+Lee Greenwood,False,58,16,75,God Bless The USA,10
+Christina Milian,False,66,27,76,AM To PM,15
+Brad Paisley,False,79,77,77,Wrapped Around,3
+P. Diddy Featuring The Neptunes,False,73,66,78,Diddy,6
+Busta Rhymes,False,83,79,79,Break Ya Neck,4
+Michael Jackson,False,77,10,80,You Rock My World,13
+Puddle Of Mudd,False,81,68,81,Control,8
+Angie Stone,False,86,82,82,Brotha,4
+R. Kelly,False,82,36,83,Feelin' On Yo Booty,15
+Juvenile,False,89,84,84,From Her Mama (Mama Got A**),4
+Whitney Houston,False,80,6,85,The Star Spangled Banner,21
+Tyrese,False,84,71,86,What Am I Gonna Do,10
+"R.L., Snoop Dogg & Lil' Kim",False,88,87,87,Do U Wanna Roll (Dolittle Theme),9
+Trick Daddy,False,85,17,88,I'm A Thug,20
+Babyface,False,87,80,89,What If,11
+"Ludacris, LL Cool J & Keith Murray",False,94,90,90,Fatty Girl,5
+Carolyn Dawn Johnson,False,90,59,91,So Complicated,13
+Smash Mouth,False,93,25,92,I'm A Believer,20
+LFO,False,92,44,93,Every Other Time,15
+Trisha Yearwood,False,95,44,94,I Would've Loved You Anyway,18
+All Star Tribute,False,91,27,95,What's Going On,9
+Linkin Park,False,96,79,96,Crawling,17
+Fuel,False,97,64,97,Bad Day,19
+Glenn Lewis,True,0,98,98,Don't You Forget It,1
+Fabolous,True,0,99,99,Young'n (Holla Back),1
+Tammy Cochran,False,100,73,100,Angels In Waiting,9

@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Ludacris Featuring Pharrell,False,1,1,1,Money Maker,11
+Akon Featuring Eminem,False,4,2,2,Smack That,5
+Hinder,False,3,3,3,Lips Of An Angel,15
+Justin Timberlake,False,2,1,4,SexyBack,16
+Justin Timberlake Featuring T.I.,False,8,5,5,My Love,7
+The Fray,False,5,3,6,How To Save A Life,28
+JoJo,False,7,3,7,Too Little Too Late,10
+Snow Patrol,False,6,5,8,Chasing Cars,23
+Diddy Featuring Nicole Scherzinger,False,18,9,9,Come To Me,8
+Nickelback,False,10,8,10,Far Away,14
+Jibbs,False,9,7,11,Chain Hang Low,12
+Chris Brown,False,14,12,12,Say Goodbye,11
+Danity Kane,False,12,8,13,Show Stopper,10
+Evanescence,False,13,10,14,Call Me When You're Sober,10
+"""Weird Al"" Yankovic",False,11,9,15,White & Nerdy,4
+Nelly Furtado,False,16,16,16,Maneater,6
+Fergie,False,15,1,17,London Bridge,14
+The Pussycat Dolls Featuring Snoop Dogg,False,19,3,18,Buttons,24
+Fergie,False,35,19,19,Fergalicious,5
+Ciara Featuring Chamillionaire,False,20,7,20,Get Up,13
+Bow Wow Featuring Chris Brown & Johnta Austin,False,44,21,21,Shortie Like Mine,3
+Gnarls Barkley,False,23,2,22,Crazy,25
+John Mayer,False,26,20,23,Waiting On The World To Change,15
+Carrie Underwood,False,28,24,24,Before He Cheats,8
+Beyonce,False,21,11,25,Ring The Alarm,7
+Chingy Featuring Tyrese,False,17,9,26,Pullin' Me Back,19
+The Fray,False,25,8,27,Over My Head (Cable Car),37
+The Killers,False,24,14,28,When You Were Young,11
+Yung Joc Featuring Brandy 'Ms. B.' Hambrick,False,22,17,29,I Know You See It,17
+Ne-Yo,False,27,7,30,Sexy Love,20
+Unk,False,43,31,31,Walk It Out,7
+Birdman & Lil Wayne,False,51,32,32,Stuntin' Like My Daddy,8
+Panic! At The Disco,False,29,7,33,I Write Sins Not Tragedies,34
+Rascal Flatts,False,31,6,34,What Hurts The Most,38
+Tim McGraw,False,53,35,35,My Little Girl,6
+Heartland,False,34,34,36,I Loved Her First,11
+Mario Vazquez,False,38,37,37,Gallery,14
+Christina Aguilera,False,59,38,38,Hurt,4
+Nelly Furtado Featuring Timbaland,False,30,1,39,Promiscuous,25
+The All-American Rejects,False,58,40,40,It Ends Tonight,4
+Akon Featuring Snoop Dogg,False,56,41,41,I Wanna Love You,4
+E-40 Featuring T-Pain & Kandi Girl,False,33,13,42,U And Dat,24
+Rascal Flatts,False,41,41,43,My Wish,7
+Sean Paul Feat. Keyshia Cole,False,32,3,44,(When You Gonna) Give It Up To Me,22
+Lil Scrappy Featuring Young Buck,False,55,45,45,Money In The Bank,6
+The All-American Rejects,False,42,15,46,Move Along,39
+Sugarland,False,49,41,47,Want To,5
+Dierks Bentley,False,60,48,48,Every Mile A Memory,11
+Blue October,False,37,31,49,Hate Me,28
+Kenny Chesney,False,48,48,50,You Save Me,8
+Lyfe Jennings,False,40,37,51,S.E.X.,14
+Frankie J Featuring Mannie Fresh & Chamillionaire,False,61,43,52,That Girl,11
+Christina Aguilera,False,39,6,53,Ain't No Other Man,20
+Jim Jones,False,63,54,54,We Fly High,3
+Josh Turner,False,46,43,55,Would You Go With Me,17
+My Chemical Romance,False,64,56,56,Welcome To The Black Parade,6
+Keith Urban,False,52,52,57,Once In A Lifetime,8
+JAY-Z,False,72,58,58,Show Me What You Got,3
+Webstar & Young B Featuring The Voice Of Harlem,False,57,45,59,Chicken Noodle Soup.,7
+Augustana,False,54,54,60,Boston,3
+Taylor Swift,False,65,61,61,Tim McGraw,7
+Diddy Featuring Christina Aguilera,True,0,62,62,Tell Me,1
+Rick Ross,False,69,61,63,Push It,8
+George Strait,False,50,35,64,Give It Away,12
+Monica Featuring Dem Franchize Boyz,False,62,48,65,Everytime Tha Beat Drop,12
+Lady Sovereign,False,81,66,66,Love Me Or Hate Me (F**k You!!!!),2
+Mary J. Blige,False,68,67,67,Take Me As I Am,5
+Shareefa Featuring Ludacris,False,66,66,68,Need A Boss,13
+KT Tunstall,False,76,60,69,Suddenly I See,15
+Red Hot Chili Peppers,False,67,50,70,Tell Me Baby,10
+Five For Fighting,False,70,40,71,The Riddle,14
+Jesse McCartney,False,71,33,72,Right Where You Want Me,7
+Lionel Richie,False,75,62,73,I Call It Love,14
+Stone Sour,False,79,71,74,Through Glass,12
+Paula DeAnda Featuring The DEY,False,90,75,75,Walk Away (Remember Me),3
+Corinne Bailey Rae,False,73,64,76,Put Your Records On,17
+Brad Paisley,False,86,77,77,She's Everything,3
+Tenacious D,True,0,78,78,The Pick Of Destiny,1
+OK Go,False,80,38,79,Here It Goes Again,8
+The Game Featuring Junior Reid,False,78,76,80,It's Okay (One Blood),10
+Cherish,False,92,81,81,Unappreciated,4
+30 Seconds To Mars,False,87,65,82,The Kill (Bury Me),14
+Rob Thomas,False,93,76,83,Streetcorner Symphony,4
+Vanessa Hudgens,False,82,79,84,Come Back To Me,6
+Janet & Nelly,False,74,25,85,Call On Me,18
+Nickelback,False,85,85,86,Rockstar,4
+Beyonce,True,0,87,87,Irreplaceable,1
+Steve Holy,False,84,40,88,Brand New Girlfriend,19
+Lonestar,False,99,89,89,Mountains,4
+Alan Jackson,False,89,80,90,Like Red On A Rose,5
+Breaking Benjamin,False,91,50,91,The Diary Of Jane,13
+Mat Kearney,False,96,92,92,Nothing Left To Lose,4
+Montgomery Gentry,False,97,93,93,Some People Change,2
+Fort Minor Featuring Styles Of Beyond,False,88,66,94,Remember The Name,6
+Jason Aldean,False,100,95,95,Amarillo Sky,2
+Jack Ingram,False,98,96,96,Love You,2
+Cassie,True,0,97,97,Long Way 2 Go,1
+"""Weird Al"" Yankovic",False,94,82,98,Canadian Idiot,3
+RBD,True,0,99,99,Tu Amor,1
+The Red Jumpsuit Apparatus,False,0,76,100,Face Down,13

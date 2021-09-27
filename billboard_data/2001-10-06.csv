@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Alicia Keys,False,1,1,1,Fallin',17
+Jennifer Lopez Featuring Ja Rule,False,2,1,2,I'm Real,14
+Jagged Edge With Nelly,False,3,3,3,Where The Party At,19
+Blu Cantrell,False,4,2,4,Hit 'Em Up Style (Oops!),23
+Mary J. Blige,False,8,5,5,Family Affair,11
+Staind,False,6,6,6,It's Been Awhile,26
+Usher,False,5,1,7,U Remind Me,17
+Eve Featuring Gwen Stefani,False,9,2,8,Let Me Blow Ya Mind,24
+JAY-Z,False,10,9,9,Izzo (H.O.V.A.),11
+Janet,False,7,3,10,Someone To Call My Lover,16
+Ginuwine,False,13,11,11,Differences,11
+Michael Jackson,False,14,10,12,You Rock My World,5
+Lifehouse,False,11,2,13,Hanging By A Moment,35
+Train,False,12,5,14,Drops Of Jupiter (Tell Me),30
+"Missy ""Misdemeanor"" Elliott",False,15,15,15,One Minute Man,13
+Craig David,False,17,15,16,Fill Me In,18
+Trick Daddy,False,20,17,17,I'm A Thug,12
+Enya,False,18,18,18,Only Time,13
+Ja Rule Featuring Case,False,23,19,19,Livin' It Up,6
+Sugar Ray,False,21,13,20,When It's Over,19
+112,False,19,4,21,Peaches & Cream,26
+Bubba Sparxxx,False,27,22,22,Ugly,6
+Aaliyah,False,25,23,23,Rock The Boat,5
+Michelle Branch,False,31,24,24,Everywhere,6
+Fabolous Featuring Nate Dogg,False,29,25,25,Can't Deny It,12
+Incubus,False,22,9,26,Drive,34
+Enrique Iglesias,False,44,27,27,Hero,2
+O-Town,False,26,3,28,All Or Nothing,18
+Christina Milian,False,33,29,29,AM To PM,7
+3 Doors Down,False,30,30,30,Be Like That,11
+Nelly Furtado,False,34,31,31,Turn Off The Light,8
+The Isley Brothers Featuring Ronald Isley,False,24,19,32,Contagious,13
+Cyndi Thomson,False,32,26,33,What I Really Meant To Say,19
+Alan Jackson,False,40,34,34,Where I Come From,7
+Brooks & Dunn,False,35,35,35,Only In America,12
+Dave Matthews Band,False,28,22,36,The Space Between,21
+R. Kelly,False,48,37,37,Feelin' On Yo Booty,7
+Alien Ant Farm,False,39,38,38,Smooth Criminal,7
+Uncle Kracker,False,37,5,39,Follow Me,31
+Petey Pablo,False,49,40,40,Raise Up,9
+Blake Shelton,False,36,18,41,Austin,20
+Maxwell,False,42,42,42,Lifetime,5
+Tim McGraw,False,51,38,43,Angry All The Time,8
+Trisha Yearwood,False,46,44,44,I Would've Loved You Anyway,10
+Toya,False,56,32,45,I Do!!,19
+LFO,False,52,44,46,Every Other Time,7
+Toby Keith,False,54,27,47,I'm Just Talkin' About Tonight,17
+Ludacris Featuring Nate Dogg,False,41,24,48,Area Codes,13
+Five For Fighting,False,53,49,49,Superman (It's Not Easy),6
+Dido,False,47,3,50,Thank You,39
+All Star Tribute,True,0,51,51,What's Going On,1
+'N Sync,False,63,52,52,Gone,3
+Nickelback,False,58,53,53,How You Remind Me,5
+Lee Greenwood,False,16,16,54,God Bless The USA,2
+Smash Mouth,False,45,25,55,I'm A Believer,12
+Destiny's Child,False,65,56,56,Emotion,2
+112,False,61,57,57,Dance With Me,4
+U2,False,62,58,58,Stuck In A Moment You Can't Get Out Of,2
+Usher,False,87,59,59,U Got It Bad,3
+Carolyn Dawn Johnson,False,67,59,60,So Complicated,5
+Afroman,False,38,13,61,Because I Got High,8
+Trick Pony,False,76,62,62,On A Night Like This,11
+The Wiseguys,False,55,31,63,Start The Commotion,10
+Brian McKnight,False,66,64,64,Love Of My Life,4
+Travis Tritt,False,68,65,65,Love Of A Woman,4
+Eve 6,False,59,30,66,Here's To The Night,18
+Jaheim,False,74,52,67,Just In Case,15
+Gorillaz,False,57,57,68,Clint Eastwood,7
+Martina McBride,False,86,69,69,When God-Fearin' Women Get The Blues,4
+Faith Evans,True,0,70,70,You Gets No Love,1
+Tyrese,False,79,71,71,What Am I Gonna Do,2
+Reba,False,70,70,72,I'm A Survivor,4
+Incubus,False,73,73,73,Wish You Were Here,3
+Jill Scott,False,81,60,74,The Way,14
+Juvenile,False,71,65,75,Set It Off,9
+"P. Diddy, Black Rob & Mark Curry",False,60,33,76,Bad Boy For Life,11
+Tool,False,72,67,77,Schism,16
+Willa Ford,False,64,22,78,I Wanna Be Bad,18
+Tammy Cochran,True,0,79,79,Angels In Waiting,1
+Jamie O'Neal,False,69,35,80,When I Think About Angels,18
+Keith Urban,False,78,35,81,Where The Blacktop Ends,17
+Sum 41,False,77,66,82,Fat Lip,6
+Fuel,False,80,64,83,Bad Day,11
+Phil Vassar,False,82,56,84,Six-Pack Summer,9
+Faith Hill,False,75,10,85,There You'll Be,20
+Linkin Park,False,84,79,86,Crawling,9
+American Hi-Fi,False,85,41,87,Flavor Of The Weak,16
+Gigi D'Agostino,False,92,78,88,I'll Fly With You (L'amour Toujours),10
+Luther Vandross,False,91,26,89,Take You Out,12
+Destiny's Child,False,83,1,90,Bootylicious,18
+Babyface,False,98,91,91,What If,3
+Erick Sermon Featuring Marvin Gaye,False,89,22,92,Music,19
+Musiq Soulchild Featuring Ayana,False,90,85,93,Girl Next Door,7
+"R.L., Snoop Dogg & Lil' Kim",True,0,94,94,Do U Wanna Roll (Dolittle Theme),1
+Public Announcement Featuring LeLe,False,95,95,95,John Doe,2
+Backstreet Boys,False,93,27,96,More Than That,20
+Whitney Houston,False,50,20,97,The Star Spangled Banner,13
+"Lil' Wayne Featuring Baby, Mack 10 & Mickey",False,96,96,98,Shine,3
+Ian Van Dahl Featuring Marsha,False,0,91,99,Castles In The Sky,9
+Aaliyah Featuring Timbaland,False,99,59,100,We Need A Resolution,16

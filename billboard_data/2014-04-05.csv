@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Pharrell Williams,False,1,1,1,Happy,12
+John Legend,False,3,2,2,All Of Me,24
+Katy Perry Featuring Juicy J,False,2,1,3,Dark Horse,27
+Jason Derulo Featuring 2 Chainz,False,4,3,4,Talk Dirty,14
+Idina Menzel,False,14,5,5,Let It Go,17
+Bastille,False,5,5,6,Pompeii,32
+Lorde,False,6,6,7,Team,26
+OneRepublic,False,7,2,8,Counting Stars,40
+Aloe Blacc,False,10,9,9,The Man,13
+Beyonce Featuring Jay Z,False,8,2,10,Drunk In Love,14
+Pitbull Featuring Ke$ha,False,11,1,11,Timber,24
+American Authors,False,13,12,12,Best Day Of My Life,19
+Kid Ink Featuring Chris Brown,False,15,13,13,Show Me,20
+One Direction,False,16,6,14,Story Of My Life,21
+DJ Snake & Lil Jon,False,21,15,15,Turn Down For What,13
+The Chainsmokers,False,18,16,16,#SELFIE,4
+A Great Big World & Christina Aguilera,False,12,4,17,Say Something,20
+Passenger,False,17,5,18,Let Her Go,34
+Avicii,False,22,19,19,Hey Brother,16
+Ellie Goulding,False,19,13,20,Burn,29
+Avicii,False,25,4,21,Wake Me Up!,39
+Eminem Featuring Rihanna,False,23,1,22,The Monster,21
+Martin Garrix,False,26,23,23,Animals,27
+Imagine Dragons,False,24,6,24,Demons,48
+Lorde,False,20,1,25,Royals,38
+Florida Georgia Line Ft. Jason Derulo & Luke Bryan,False,29,26,26,This Is How We Roll,7
+Justin Timberlake,False,42,27,27,Not A Bad Thing,4
+Brantley Gilbert,False,30,28,28,Bottoms Up,14
+YG Featuring Jeezy & Rich Homie Quan,False,28,19,29,My Hitta,25
+Trey Songz,False,35,30,30,Na Na,9
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,False,34,31,31,Loyal,10
+Ty Dolla $ign Featuring B.o.B,False,32,29,32,Paranoid,14
+Imagine Dragons,False,33,3,33,Radioactive,82
+Shakira Featuring Rihanna,False,31,15,34,Can't Remember To Forget You,10
+Blake Shelton,False,37,35,35,Doin' What She Likes,10
+Demi Lovato,False,39,36,36,Neon Lights,13
+Beyonce,False,36,23,37,Partition,11
+Katy Perry,False,27,1,38,Roar,33
+Naughty Boy Featuring Sam Smith,False,60,39,39,La La La,5
+Jerrod Niemann,False,45,40,40,Drink To That All Night,12
+Keith Urban,False,41,41,41,Cop Car,8
+Dierks Bentley,False,44,40,42,I Hold On,14
+Miley Cyrus,False,40,1,43,Wrecking Ball,31
+Drake Featuring Majid Jordan,False,43,4,44,"Hold On, We're Going Home",33
+Eric Church,False,50,44,45,Give Me Back My Hometown,11
+Paramore,False,63,46,46,Ain't It Fun,4
+Young Thug,False,52,47,47,Stoner,6
+Jhene Aiko,False,53,48,48,The Worst,7
+Sara Bareilles,False,46,23,49,Brave,41
+Thomas Rhett,False,56,50,50,Get Me Some Of That,11
+Bruno Mars,False,38,32,51,Young Girls,12
+Demi Lovato,False,71,38,52,Let It Go,17
+Luke Bryan,False,81,53,53,Play It Again,2
+YG Featuring Drake,False,78,54,54,Who Do You Love?,2
+Randy Houser,False,61,55,55,Goodnight Kiss,11
+Rascal Flatts,False,59,56,56,Rewind,10
+Dan + Shay,False,69,57,57,19 You + Me,12
+Christina Perri,False,64,51,58,Human,7
+Cash Cash Featuring Bebe Rexha,False,57,57,59,Take Me Home,10
+Coldplay,False,51,24,60,Magic,3
+Jason Aldean,False,55,38,61,When She Says Baby,17
+"Kristen Bell, Agatha Lee Monn & Katie Lopez",False,79,55,62,Do You Want To Build A Snowman?,13
+Young Money Featuring Drake,False,65,63,63,Trophies,3
+Austin Mahone Featuring Pitbull,False,70,60,64,Mmm Yeah,5
+Kristen Bell & Idina Menzel,False,85,57,65,For The First Time In Forever,13
+ScHoolboy Q,False,72,62,66,Man Of The Year,6
+Miley Cyrus,False,47,21,67,Adore You,15
+Luke Bryan,False,62,31,68,Drink A Beer,20
+Calvin Harris,True,0,69,69,Summer,1
+MKTO,False,76,70,70,Classic,6
+Scotty McCreery,False,58,52,71,See You Tonight,17
+T-Pain Featuring B.o.B,False,67,62,72,Up Down (Do This All Day),18
+Thompson Square,False,73,69,73,Everything I Shouldn't Be Thinking About,10
+Frankie Ballard,False,54,51,74,Helluva Life,16
+Brett Eldredge,False,75,75,75,Beat Of The Music,7
+Arctic Monkeys,False,74,70,76,Do I Wanna Know?,16
+Jennifer Lopez Featuring French Montana,False,98,77,77,I Luh Ya Papi,2
+Neon Trees,False,84,78,78,Sleeping With A Friend,4
+Miranda Lambert,False,82,63,79,Automatic,5
+Lady Antebellum,False,68,46,80,Compass,20
+Eminem Featuring Nate Ruess,False,86,81,81,Headlights,2
+Jay Z Featuring Beyonce,False,77,77,82,Part II (On The Run),6
+Iggy Azalea Featuring Charli XCX,False,96,83,83,Fancy,3
+Kristen Bell & Santino Fontana,False,49,49,84,Love Is An Open Door,2
+John Newman,False,66,30,85,Love Me Again,18
+Hunter Hayes,False,93,44,86,Invisible,5
+SoMo,False,80,76,87,Ride,11
+Fitz And The Tantrums,False,90,88,88,The Walker,4
+Justin Moore,False,88,88,89,Lettin' The Night Roll,5
+Imagine Dragons,False,83,79,90,On Top Of The World,8
+Tiesto,False,97,91,91,Red Lights,2
+Hillsong UNITED,False,87,83,92,Oceans (Where Feet May Fail),9
+Pitbull Featuring G.R.L.,False,92,81,93,Wild Wild Love,4
+Romeo Santos Featuring Drake,False,94,45,94,Odio,8
+"Future Featuring Pharrell, Pusha T & Casino",False,99,95,95,Move That Doh,2
+Tim McGraw,True,0,96,96,Lookin' For That Girl,1
+K. Michelle,False,95,94,97,Can't Raise A Man,7
+Ellie Goulding,True,0,98,98,Beating Heart,1
+Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard,False,91,91,99,Or Nah,2
+Disclosure Featuring Sam Smith,False,100,100,100,Latch,2

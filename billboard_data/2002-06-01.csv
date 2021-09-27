@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Ashanti,False,1,1,1,Foolish,16
+P. Diddy Featuring Usher & Loon,False,2,2,2,I Need A Girl (Part One),12
+Fat Joe Featuring Ashanti,False,3,2,3,What's Luv?,16
+Usher,False,4,3,4,U Don't Have To Call,17
+Vanessa Carlton,False,5,5,5,A Thousand Miles,14
+Eminem,False,9,6,6,Without Me,4
+Nelly,False,11,7,7,Hot In Herre,5
+Jimmy Eat World,False,8,8,8,The Middle,12
+Michelle Branch,False,6,6,9,All You Wanted,15
+Puddle Of Mudd,False,7,5,10,Blurry,24
+Truth Hurts Featuring Rakim,False,13,11,11,Addictive,7
+Mary J. Blige Featuring Ja Rule,False,12,12,12,Rainy Dayz,10
+P!nk,False,10,8,13,Don't Let Me Get Me,13
+Cam'Ron Featuring Juelz Santana,False,22,14,14,Oh Boy,7
+Default,False,17,15,15,Wasting My Time,22
+No Doubt,False,16,16,16,Hella Good,7
+Shakira,False,14,9,17,Underneath Your Clothes,12
+Jennifer Lopez Featuring Nas,False,26,18,18,I'm Gonna Be Alright,6
+Busta Rhymes Featuring P. Diddy & Pharrell,False,15,11,19,Pass The Courvoisier Part II,14
+Musiq,False,24,20,20,halfcrazy,11
+The Calling,False,21,5,21,Wherever You Will Go,30
+Jennifer Lopez Featuring Ja Rule,False,19,1,22,Ain't It Funny,23
+Linkin Park,False,20,2,23,In The End,31
+Goo Goo Dolls,False,18,18,24,Here Is Gone,11
+"Ja Rule Featuring Charli ""Chuck"" Baltimore",False,27,25,25,Down A** Chick,8
+Nickelback,False,23,1,26,How You Remind Me,39
+Avant,False,32,27,27,Makin' Good Love,11
+Chad Kroeger Featuring Josey Scott,False,48,28,28,Hero,3
+Alan Jackson,False,30,28,29,Drive (For Daddy Gene),12
+'N Sync Featuring Nelly,False,25,5,30,Girlfriend,17
+Aaliyah,False,29,25,31,More Than A Woman,18
+Sheryl Crow,False,34,32,32,Soak Up The Sun,8
+Brandy,False,37,33,33,Full Moon,5
+Big Tymers,False,49,34,34,Still Fly,8
+Steve Azar,False,35,35,35,I Don't Have To Be Me ('til Monday),9
+George Strait,False,36,36,36,Living And Living Well,9
+Enrique Iglesias,False,31,12,37,Escape,15
+Jaheim Featuring Next,False,42,28,38,Anything,15
+Toby Keith,False,38,26,39,My List,16
+Emerson Drive,False,46,40,40,I Should Be Sleeping,12
+Tommy Shane Steiner,False,39,39,41,What If She's An Angel,15
+Celine Dion,False,33,22,42,A New Day Has Come,14
+B2K,False,44,43,43,Gots Ta Be,6
+Nas,False,43,43,44,One Mic,7
+Dirty Vegas,False,55,45,45,Days Go By,4
+Nickelback,False,45,42,46,Too Bad,12
+Brad Paisley,False,50,47,47,I'm Gonna Miss Her (The Fishin' Song),5
+Faith Evans,False,47,14,48,I Love You,19
+Tweet,False,28,7,49,Oops (Oh My),17
+B2K,False,41,37,50,Uh Huh,22
+Ludacris Featuring Sleepy Brown,False,40,22,51,Saturday (Oooh! Ooooh!),16
+Paulina Rubio,False,59,52,52,Don't Say Goodbye,5
+Lonestar,False,63,53,53,Not A Day Goes By,4
+Donell Jones,False,57,54,54,You Know That I Love You,6
+Carolyn Dawn Johnson,False,58,55,55,I Don't Want You To Go,4
+Ying Yang Twins,False,56,56,56,Say I Yi Yi,5
+Phil Vassar,False,54,37,57,That's When I Love You,15
+Craig David,False,62,58,58,Walking Away,2
+Gary Allan,False,65,59,59,The One,3
+Nappy Roots,False,51,51,60,Awnaw,13
+Naughty By Nature Featuring 3LW,False,53,53,61,Feels Good (Don't Worry Bout A Thing),10
+Ruff Endz,False,60,60,62,Someone To Love You,4
+Joe,False,64,63,63,What If A Woman,4
+Kylie Minogue,False,52,7,64,Can't Get You Out Of My Head,19
+John Mayer,True,0,65,65,No Such Thing,1
+Brooks & Dunn,False,75,66,66,My Heart Is Lost To You,2
+Tweet,True,0,67,67,Call Me,1
+Avril Lavigne,True,0,68,68,Complicated,1
+Kenny Chesney,False,67,35,69,Young,17
+Puddle Of Mudd,False,76,70,70,Drift & Die,2
+Staind,False,69,63,71,For You,14
+Korn,False,72,72,72,Here To Stay,2
+Kellie Coffey,True,0,73,73,When You Lie Next To Me,1
+System Of A Down,False,71,70,74,Toxicity,5
+P.O.D.,False,68,28,75,Youth Of The Nation,17
+N.O.R.E.,False,81,76,76,Nothin',2
+Ashanti,True,0,77,77,Happy,1
+Pilar Montenegro,False,74,74,78,Quitame Ese Hombre,2
+Scarface Featuring Jay-Z & Beanie Sigel,False,85,79,79,Guess Who's Back,3
+Angie Stone,False,82,79,80,Wish I Didn't Miss You,11
+Alanis Morissette,False,73,23,81,Hands Clean,18
+Travis Tritt,False,61,55,82,Modern Day Bonnie And Clyde,10
+Khia Featuring DSD,False,83,83,83,"My Neck, My Back",2
+Beanie Sigel & Freeway,False,84,55,84,Roc The Mic,15
+Chris Cagle,False,79,35,85,"I Breathe In, I Breathe Out",17
+Rascal Flatts,False,78,41,86,I'm Movin' On,18
+Alicia Keys,False,77,59,87,How Come You Don't Call Me,9
+Mario,False,88,88,88,Just A Friend 2002,2
+Remy Shand,False,89,89,89,Take A Message,6
+India.Arie,False,66,47,90,Video,30
+Maxwell,False,80,58,91,This Woman's Work,12
+Hoobastank,False,86,68,92,Crawling In The Dark,14
+DJ Sammy & Yanou Featuring Do,True,0,93,93,Heaven,1
+Clipse,False,98,94,94,Grindin',2
+Joe Nichols,True,0,95,95,The Impossible,1
+Tanto Metro & Devonte,False,91,87,96,Give It To Her,11
+Sean Paul,False,97,97,97,Gimme The Light,5
+Amanda Perez,False,92,79,98,Never,16
+iio,False,0,46,99,Rapture (Tastes So Sweet),15
+Jade Anderson,False,96,96,100,Sugarhigh,2

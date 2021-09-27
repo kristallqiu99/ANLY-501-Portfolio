@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+T.I.,False,2,1,1,Whatever You Like,11
+T.I. Featuring Rihanna,False,3,1,2,Live Your Life,4
+P!nk,False,4,1,3,So What,9
+Britney Spears,False,1,1,4,Womanizer,3
+Katy Perry,False,5,5,5,Hot N Cold,12
+Rihanna,False,6,1,6,Disturbia,18
+Kevin Rudolf Featuring Lil Wayne,False,7,5,7,Let It Rock,8
+Ne-Yo,False,9,8,8,Miss Independent,9
+Taylor Swift,True,0,9,9,Fearless,1
+T-Pain Featuring Lil Wayne,False,8,7,10,Can't Believe It,12
+Leona Lewis,False,11,11,11,Better In Time,15
+Kanye West,False,12,3,12,Love Lockdown,5
+Jason Mraz,False,15,6,13,I'm Yours,27
+Taylor Swift,False,14,5,14,Love Story,6
+M.I.A.,False,10,4,15,Paper Planes,14
+Ne-Yo,False,13,7,16,Closer,27
+Nickelback,False,16,10,17,Gotta Be Somebody,3
+Lil Wayne Featuring Bobby Valentino & Kidd Kidd,False,18,18,18,Mrs. Officer,9
+Akon,False,26,17,19,Right Now (Na Na Na),4
+Jordin Sparks,False,19,17,20,One Step At A Time,17
+David Archuleta,False,22,2,21,Crush,10
+The Game Featuring Lil Wayne,False,23,21,22,My Life,11
+Lil Wayne Featuring T-Pain,False,21,10,23,Got Money,21
+Secondhand Serenade,False,25,21,24,Fall For You,19
+Coldplay,False,24,1,25,Viva La Vida,24
+Chris Brown,False,20,2,26,Forever,26
+Christina Aguilera,False,17,7,27,Keeps Gettin' Better,3
+Jennifer Hudson,False,27,27,28,Spotlight,13
+Flo Rida Featuring will.i.am,False,29,9,29,In The Ayer,18
+Saving Abel,False,33,30,30,Addicted,19
+Estelle Featuring Kanye West,False,28,9,31,American Boy,27
+Jay-Z & T.I. Featuring Kanye West & Lil Wayne,False,32,5,32,Swagga Like Us,6
+Ludacris Co-Starring Chris Brown & Sean Garrett,False,36,33,33,What Them Girls Like,8
+Kardinal Offishall Featuring Akon,False,31,5,34,Dangerous,24
+Pitbull Featuring Lil Jon,False,30,30,35,Krazy,4
+Zac Brown Band,False,47,36,36,Chicken Fried,5
+Carrie Underwood,False,37,37,37,Just A Dream,11
+T-Pain Featuring Chris Brown,True,0,38,38,Freeze,1
+Gavin Rossdale,False,34,27,39,Love Remains The Same,20
+Leona Lewis,False,39,1,40,Bleeding Love,36
+Shontelle,False,44,41,41,T-Shirt,7
+Kid Rock,False,35,23,42,All Summer Long,16
+Kenny Chesney With The Wailers,False,43,41,43,Everybody Wants To Go To Heaven,10
+50 Cent,True,0,44,44,Get Up,1
+Jazmine Sullivan,False,38,37,45,Need U Bad,14
+Toby Keith,False,49,46,46,She Never Cried In Front Of Me,15
+Metro Station,False,41,10,47,Shake It,29
+Darius Rucker,False,42,35,48,Don't Think I Don't Think About It,15
+Daughtry,False,48,18,49,What About Now,11
+O.A.R.,False,53,50,50,Shattered (Turn The Car Around),11
+Slim Featuring Yung Joc,False,54,51,51,So Fly,8
+John Legend Featuring Andre 3000,False,58,44,52,Green Light,7
+Young Jeezy Featuring Kanye West,False,51,12,53,Put On,20
+Savage Featuring Soulja Boy Tell'em,False,55,45,54,Swing,12
+Akon Featuring Lil Wayne & Young Jeezy,False,40,40,55,I'm So Paid,2
+Montgomery Gentry,False,63,56,56,Roll With Me,6
+The Rock Heroes,False,57,29,57,All Summer Long,5
+The Killers,False,52,32,58,Human,3
+Lady Gaga Featuring Colby O'Donis,False,60,59,59,Just Dance,11
+Tim McGraw,False,64,60,60,Let It Go,6
+Sugarland,False,71,61,61,Already Gone,4
+Jesse McCartney,False,68,62,62,It's Over,3
+Natasha Bedingfield,False,67,63,63,Angel,5
+Brandy,False,69,64,64,Right Here (Departed),6
+Brad Paisley,False,59,44,65,Waitin' On A Woman,15
+Brad Paisley Duet With Keith Urban,True,0,66,66,Start A Band,1
+Jazmine Sullivan,False,81,67,67,Bust Your Windows,2
+Beyonce,False,100,68,68,If I Were A Boy,2
+Jimmy Wayne,False,65,36,69,Do You Believe Me Now,14
+Matt Nathanson,False,72,69,70,Come On Get Higher,8
+Rehab,False,70,64,71,Bartender Song,17
+Beyonce,True,0,72,72,Single Ladies (Put A Ring On It),1
+Nelly Featuring Ashanti & Akon,False,61,42,73,Body On Me,14
+Luke Bryan,False,78,74,74,Country Man,7
+Jonas Brothers,False,86,75,75,Lovebug,6
+Rascal Flatts,False,83,76,76,Here,3
+Bucky Covington,False,84,77,77,I'll Walk,3
+Theory Of A Deadman,False,75,75,78,Bad Girlfriend,5
+The Offspring,False,96,79,79,"You're Gonna Go Far, Kid",2
+Fall Out Boy,False,73,21,80,I Don't Care,6
+Jamey Johnson,False,85,81,81,In Color,3
+Heidi Newfield,False,62,58,82,Johnny & June,15
+Lady Antebellum,False,91,83,83,Lookin' For A Good Time,2
+T-Pain Featuring Ludacris,True,0,84,84,Chopped 'N' Skrewed,1
+Mike Jones Featuring Trey Songz & Twista,True,0,85,85,Cuddy Buddy,1
+Chuck Wicks,False,90,86,86,All I Ever Wanted,3
+Craig Morgan,True,0,87,87,Love Remembers,1
+September,False,79,74,88,Cry For You,10
+Dierks Bentley,False,82,82,89,Feel That Fire,2
+Ray LaMontagne,True,0,90,90,You Are The Best Thing,1
+Ingrid Michaelson,True,0,91,91,Be OK,1
+Apocalyptica Featuring Adam Gontier,True,0,92,92,I Don't Care,1
+Alicia Keys,False,87,82,93,Superwoman,6
+Fall Out Boy,True,0,94,94,"What A Catch, Donnie",1
+Metallica,False,88,31,95,The Day That Never Comes,8
+Jim Jones & Ron Browz Featuring Juelz Santana,True,0,96,96,Pop Champagne,1
+Luis Fonsi,False,97,92,97,No Me Doy Por Vencido,6
+George Strait,False,77,54,98,Troubadour,15
+Keith Anderson,False,92,48,99,I Still Miss You,19
+Robin Thicke,False,80,59,100,Magic,17

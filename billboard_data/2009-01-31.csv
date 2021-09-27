@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Lady Gaga Featuring Colby O'Donis,False,1,1,1,Just Dance,24
+Beyonce,False,2,1,2,Single Ladies (Put A Ring On It),14
+Kanye West,False,3,3,3,Heartless,11
+T.I. Featuring Rihanna,False,4,1,4,Live Your Life,17
+Taylor Swift,False,5,4,5,Love Story,19
+The All-American Rejects,False,10,6,6,Gives You Hell,10
+Jason Mraz,False,7,6,7,I'm Yours,40
+Katy Perry,False,6,3,8,Hot N Cold,25
+Kevin Rudolf Featuring Lil Wayne,False,8,5,9,Let It Rock,21
+Britney Spears,False,11,3,10,Circus,7
+The Pussycat Dolls,False,18,11,11,I Hate This Part,8
+Britney Spears,False,9,1,12,Womanizer,16
+Kanye West,False,12,3,13,Love Lockdown,18
+T.I.,False,13,1,14,Whatever You Like,24
+Akon,False,14,8,15,Right Now (Na Na Na),17
+The Fray,False,20,15,16,You Found Me,9
+Nickelback,False,17,10,17,Gotta Be Somebody,16
+T.I. Featuring Justin Timberlake,False,30,18,18,Dead And Gone,7
+P!nk,False,16,1,19,So What,22
+P!nk,False,25,20,20,Sober,8
+Ne-Yo,False,15,7,21,Miss Independent,22
+The Veronicas,False,21,21,22,Untouched,8
+David Cook,False,39,17,23,Light On,15
+Jim Jones & Ron Browz Featuring Juelz Santana,False,22,22,24,Pop Champagne,14
+Ne-Yo,False,33,25,25,Mad,7
+Beyonce,False,19,3,26,If I Were A Boy,15
+Rihanna,False,23,18,27,Rehab,11
+John Legend Featuring Andre 3000,False,26,24,28,Green Light,20
+Ludacris Co-Starring T-Pain,False,24,24,29,One More Drink,12
+Zac Brown Band,False,27,20,30,Chicken Fried,18
+Coldplay,False,29,1,31,Viva La Vida,37
+Rihanna,False,28,1,32,Disturbia,31
+Saving Abel,False,31,20,33,Addicted,32
+T-Pain Featuring Ludacris,False,32,27,34,Chopped 'N' Skrewed,14
+Taylor Swift,False,37,13,35,White Horse,10
+Leona Lewis,False,38,11,36,Better In Time,28
+Beyonce,False,51,37,37,Diva,5
+Akon Featuring Lil Wayne & Young Jeezy,False,35,31,38,I'm So Paid,14
+David Archuleta,False,47,2,39,Crush,23
+Lil Wayne Featuring Bobby Valentino & Kidd Kidd,False,34,16,40,Mrs. Officer,22
+Akon Featuring Colby O'Donis & Kardinal Offishall,False,43,19,41,Beautiful,7
+Dierks Bentley,False,44,42,42,Feel That Fire,15
+Keri Hilson Featuring Lil Wayne,False,61,43,43,Turnin Me On,5
+Toby Keith,False,48,44,44,God Love Her,9
+Blake Shelton,False,49,45,45,She Wouldn't Be Gone,13
+O.A.R.,False,41,36,46,Shattered (Turn The Car Around),24
+The Killers,False,42,32,47,Human,16
+Lady Gaga,False,72,48,48,Poker Face,5
+Alan Jackson,False,55,49,49,Country Boy,12
+Soulja Boy Tell 'em Featuring Sammie,False,60,50,50,Kiss Me Thru The Phone,4
+Brooks & Dunn Featuring Reba McEntire,False,52,51,51,Cowgirls Don't Cry,10
+Demi Lovato,False,62,52,52,La La Land,4
+Billy Currington,False,59,53,53,Don't,13
+Plies Featuring Chris J,False,46,31,54,Put It On Ya,9
+Paramore,False,45,33,55,Decode,11
+Fall Out Boy,False,36,21,56,I Don't Care,19
+Keith Urban,False,71,43,57,Sweet Thing,10
+Brad Paisley Duet With Keith Urban,False,58,55,58,Start A Band,14
+Kenny Chesney With Mac McAnally,False,66,59,59,Down The Road,7
+Montgomery Gentry,False,54,33,60,Roll With Me,19
+The-Dream,False,76,61,61,Rockin' That Thang,4
+Shinedown,False,69,60,62,Second Chance,8
+Sugarland,False,53,41,63,Already Gone,17
+Jamey Johnson,False,57,52,64,In Color,16
+Ne-Yo Featuring Jamie Foxx & Fabolous,False,74,65,65,She Got Her Own,6
+Kings Of Leon,False,64,56,66,Sex On Fire,13
+Usher,False,56,45,67,Trading Places,12
+Jamie Foxx Featuring T.I.,False,67,49,68,Just Like Me,6
+The Offspring,False,68,63,69,"You're Gonna Go Far, Kid",15
+Christina Aguilera,False,63,7,70,Keeps Gettin' Better,16
+3OH!3,False,81,56,71,Don't Trust Me,6
+Pitbull Featuring Lil Jon,False,73,30,72,Krazy,17
+Rascal Flatts,False,65,50,73,Here,16
+Musiq Soulchild Featuring Mary J. Blige,False,80,71,74,IfULeave,8
+George Strait,False,87,75,75,River Of Love,6
+Darius Rucker,False,88,76,76,It Won't Be Like This For Long,3
+Selena Gomez,False,0,77,77,Tell Me Something I Don't Know,2
+"Eminem, Dr. Dre & 50 Cent",True,0,78,78,Crack A Bottle,1
+Katy Perry,True,0,79,79,Thinking Of You,1
+Jay-Z & T.I. Featuring Kanye West & Lil Wayne,False,70,5,80,Swagga Like Us,19
+Keyshia Cole Featuring 2Pac,False,82,63,81,Playa Cardz Right,10
+Framing Hanley,False,95,82,82,Lollipop,3
+Lifehouse,False,86,83,83,Broken,13
+Jason Mraz & Colbie Caillat,False,0,82,84,Lucky,2
+Apocalyptica Featuring Adam Gontier,False,85,78,85,I Don't Care,14
+Jazmine Sullivan,False,79,31,86,Bust Your Windows,15
+Metro Station,False,77,42,87,Seventeen Forever,6
+Kid Cudi,True,0,88,88,Day 'N' Nite,1
+Gorilla Zoe,False,93,89,89,Lost,2
+Miranda Cosgrove,False,84,47,90,About You Now,4
+Theory Of A Deadman,False,91,75,91,Bad Girlfriend,16
+Thriving Ivory,True,0,92,92,Angels On The Moon,1
+Lee Ann Womack,True,0,93,93,Last Call,1
+Lady Antebellum,False,83,67,94,Lookin' For A Good Time,15
+Hinder,False,89,85,95,Without You,9
+Bobby V Featuring Yung Joc,False,94,94,96,Beep,3
+Kelly Clarkson,True,0,97,97,My Life Would Suck Without You,1
+Jamie Foxx Featuring T-Pain,True,0,98,98,Blame It,1
+Miranda Lambert,True,0,99,99,More Like Her,1
+The Rock Heroes,False,90,29,100,All Summer Long,15

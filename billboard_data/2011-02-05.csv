@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Bruno Mars,False,2,1,1,Grenade,17
+Katy Perry,False,3,1,2,Firework,14
+Wiz Khalifa,False,5,3,3,Black And Yellow,16
+Enrique Iglesias Featuring Ludacris & DJ Frank E,False,6,4,4,Tonight (I'm Lovin' You),9
+Rihanna Featuring Drake,False,4,1,5,What's My Name?,14
+Britney Spears,False,1,1,6,Hold It Against Me,2
+Ke$ha,False,7,1,7,We R Who We R,13
+P!nk,False,8,1,8,Raise Your Glass,16
+The Black Eyed Peas,False,9,4,9,The Time (Dirty Bit),11
+Pitbull Featuring T-Pain,False,20,10,10,Hey Baby (Drop It To The Floor),17
+P!nk,False,30,11,11,F**kin' Perfect,4
+Bruno Mars,False,10,1,12,Just The Way You Are,27
+Diddy - Dirty Money Featuring Skylar Grey,False,19,13,13,Coming Home,9
+Lil Wayne Featuring Cory Gunz,False,11,9,14,6 Foot 7 Foot,6
+Waka Flocka Flame Featuring Roscoe Dash & Wale,False,14,13,15,No Hands,20
+Far*East Movement Featuring Ryan Tedder,False,17,16,16,Rocketeer,8
+Chris Brown,False,15,15,17,Yeah 3X,13
+Rihanna,False,12,1,18,Only Girl (In The World),20
+Edward Maya & Vika Jigulina,False,16,16,19,Stereo Love,16
+CeeLo Green,False,22,9,20,F**k You! (Forget You),22
+Taio Cruz,False,18,2,21,Dynamite,34
+Taylor Swift,False,26,6,22,Back To December,13
+Nelly,False,21,3,23,Just A Dream,23
+Usher Featuring Pitbull,False,25,4,24,DJ Got Us Fallin' In Love,28
+Usher,False,33,25,25,More,7
+Christina Perri,False,28,26,26,Jar Of Hearts,17
+Trey Songz Featuring Nicki Minaj,False,24,6,27,Bottoms Up,24
+Taio Cruz Featuring Travie McCoy,False,37,28,28,Higher,6
+Far*East Movement Featuring Cataracs & Dev,False,27,1,29,Like A G6,24
+Jeremih Featuring 50 Cent,False,38,30,30,Down On Me,11
+Avril Lavigne,False,13,13,31,What The Hell,2
+Flo Rida Featuring Akon,False,29,29,32,Who Dat Girl,8
+Katy Perry,False,32,1,33,Teenage Dream,27
+Kenny Chesney,False,35,31,34,Somewhere With You,12
+Keri Hilson,False,39,31,35,Pretty Girl Rock,9
+Mike Posner,False,31,16,36,Please Don't Go,18
+Nicki Minaj Featuring Drake,False,44,37,37,Moment 4 Life,6
+Neon Trees,False,34,13,38,Animal,34
+Jason Aldean With Kelly Clarkson,False,43,39,39,Don't You Wanna Stay,12
+OneRepublic,False,36,21,40,Secrets,31
+Plain White T's,False,47,41,41,Rhythm of Love,19
+Train,False,42,42,42,Marry Me,10
+Lil Wayne Featuring Drake,False,40,6,43,Right Above It,23
+Tim McGraw,False,41,26,44,Felt Good On My Lips,12
+The Script,False,80,45,45,For The First Time,4
+Blake Shelton,False,50,46,46,Who Are You When I'm Not Looking,12
+Rick Ross Featuring Drake & Chrisette Michele,False,46,30,47,Aston Martin Music,17
+Enrique Iglesias Featuring Pitbull,False,45,4,48,I Like It,37
+Kanye West Jay Z,False,23,23,49,H*A*M,2
+Linkin Park,False,56,50,50,Waiting For The End,16
+Thompson Square,False,62,51,51,Are You Gonna Kiss Me Or Not,6
+Billy Currington,False,58,52,52,Let Me Down Easy,9
+Keith Urban,False,55,53,53,Put You In A Song,17
+Jamie Foxx Featuring Drake,False,66,54,54,Fall For Your Type,7
+Chris Young,False,60,55,55,Voices,12
+Sick Puppies,False,59,56,56,Maybe,9
+Luke Bryan,False,64,57,57,Someone Else Calling You Baby,13
+Lady Antebellum,False,77,58,58,Hello World,11
+Florence + The Machine,False,61,21,59,Dog Days Are Over,19
+Kanye West,False,74,60,60,All Of The Lights,4
+Trey Songz,False,65,43,61,Can't Be Friends,19
+Chris Brown,False,68,62,62,No BS,7
+David Guetta Featuring Rihanna,False,51,51,63,Who's That Chick?,4
+Dev Featuring The Cataracs,False,69,64,64,Bass Down Low,6
+WILLOW,False,52,11,65,Whip My Hair,14
+The Lonely Island Featuring Akon,False,57,30,66,I Just Had Sex,5
+Fabolous,False,81,67,67,You Be Killin Em,4
+Brad Paisley,False,71,65,68,This Is Country Music,5
+Jerrod Niemann,False,76,69,69,What Do You Want,5
+Lloyd,False,72,64,70,Lay It Down,14
+Lupe Fiasco,False,92,57,71,The Show Goes On,4
+Dr. Dre Featuring Snoop Dogg & Akon,False,67,34,72,Kush,10
+Mann,False,95,73,73,Buzzin',2
+Carrie Underwood,False,63,56,74,Mama's Song,18
+Nicki Minaj,False,54,26,75,Right Thru Me,17
+Troop 41,False,90,76,76,Do The John Wall,5
+Sara Evans,False,82,77,77,A Little Bit Stronger,4
+Yolanda Be Cool & Dcup,False,73,29,78,We No Speak Americano,19
+Zac Brown Band,True,0,79,79,Colder Weather,1
+Eric Church,False,86,78,80,Smoke A Little Smoke,19
+Darius Rucker,False,85,81,81,This,4
+Sunny Sweeney,False,94,82,82,From A Table Away,3
+Twista Featuring Chris Brown,False,83,71,83,Make A Movie,11
+Adele,False,97,68,84,Rolling In The Deep,3
+Justin Bieber Featuring Jaden Smith,False,0,33,85,Never Say Never,6
+Nicki Minaj Featuring Eminem,False,0,56,86,Roman's Revenge,4
+David Guetta Featuring Kid Cudi,False,70,46,87,Memories,16
+Toby Keith,False,89,84,88,Bullets In The Gun,12
+Birdman Featuring Lil Wayne,False,84,64,89,Fire Flame,8
+Rihanna Featuring Britney Spears,False,0,53,90,S&M,2
+The JaneDear Girls,False,98,91,91,Wildflower,2
+Victorious Cast Featuring Victoria Justice,False,75,50,92,Freak The Freak Out,6
+Travis Porter,False,96,93,93,Make It Rain,3
+James Blunt,True,0,94,94,Stay The Night,1
+Cage The Elephant,False,78,78,95,Shake Me Down,2
+Sugarland,False,0,80,96,Little Miss,2
+The Black Keys,False,88,87,97,Tighten Up,4
+Garrett Hedlund & Leighton Meester,False,79,79,98,Give In To Me,2
+Bruno Mars,False,100,85,99,Marry You,8
+Yellowcard,True,0,100,100,"For You, And Your Denial",1

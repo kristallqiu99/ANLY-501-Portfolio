@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+MAGIC!,False,1,1,1,Rude,13
+Iggy Azalea Featuring Charli XCX,False,2,1,2,Fancy,20
+Sam Smith,False,5,3,3,Stay With Me,15
+Ariana Grande Featuring Iggy Azalea,False,3,2,4,Problem,12
+Nico & Vinz,False,4,4,5,Am I Wrong,14
+John Legend,False,7,1,6,All Of Me,41
+Maroon 5,False,8,7,7,Maps,5
+Jason Derulo Featuring Snoop Dogg,False,6,5,8,Wiggle,12
+Disclosure Featuring Sam Smith,False,10,9,9,Latch,18
+Calvin Harris,False,9,7,10,Summer,18
+Sia,False,13,11,11,Chandelier,11
+Pharrell Williams,False,12,1,12,Happy,29
+DJ Snake & Lil Jon,False,14,4,13,Turn Down For What,30
+Charli XCX,False,16,14,14,Boom Clap,7
+OneRepublic,False,17,15,15,Love Runs Out,11
+Katy Perry Featuring Juicy J,False,15,1,16,Dark Horse,44
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona,False,23,17,17,Bailando,12
+Becky G,False,21,18,18,Shower,7
+MKTO,False,18,14,19,Classic,23
+Florida Georgia Line,False,11,11,20,Dirt,2
+Ariana Grande Featuring Zedd,False,19,15,21,Break Free,3
+Clean Bandit Featuring Jess Glynne,False,32,22,22,Rather Be,6
+Kenny Chesney,False,24,23,23,American Kids,5
+5 Seconds Of Summer,True,0,24,24,Everything I Didn't Say,1
+Tinashe Featuring ScHoolboy Q,False,27,25,25,2 On,11
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,False,22,9,26,Loyal,27
+Dierks Bentley,False,29,27,27,Drunk On A Plane,10
+Paramore,False,20,10,28,Ain't It Fun,21
+OneRepublic,False,26,2,29,Counting Stars,57
+Demi Lovato Featuring Cher Lloyd,False,38,30,30,Really Don't Care,7
+KONGOS,False,31,31,31,Come With Me Now,16
+Bastille,False,28,5,32,Pompeii,49
+Jason Derulo Featuring 2 Chainz,False,30,3,33,Talk Dirty,31
+Trey Songz,False,25,21,34,Na Na,26
+Lady Antebellum,False,36,35,35,Bartender,9
+Lee Brice,False,40,36,36,I Don't Dance,14
+Lil Wayne Featuring Drake,False,35,26,37,Believe Me,8
+Justin Timberlake,False,34,8,38,Not A Bad Thing,21
+"""Weird Al"" Yankovic",True,0,39,39,Word Crimes,1
+Jake Owen,False,33,26,40,Beachin',17
+Joe Nichols,False,42,41,41,Yeah,13
+Rixton,False,37,14,42,Me And My Broken Heart,17
+Wiz Khalifa,False,52,43,43,We Dem Boyz,14
+Florida Georgia Line Ft. Jason Derulo & Luke Bryan,False,39,15,44,This Is How We Roll,24
+Iggy Azalea Featuring Rita Ora,False,65,45,45,Black Widow,3
+Nicki Minaj,False,45,24,46,Pills N Potions,9
+ScHoolboy Q Featuring BJ The Chicago Kid,False,53,47,47,Studio,7
+American Authors,False,48,11,48,Best Day Of My Life,36
+Coldplay,False,51,10,49,A Sky Full Of Stars,12
+Tove Lo,False,57,50,50,Habits (Stay High),8
+Chris Young,False,50,48,51,Who I Am With You,13
+Miranda Lambert Duet With Carrie Underwood,False,47,19,52,Somethin' Bad,9
+Tiesto Featuring Matthew Koma,False,49,49,53,Wasted,7
+Meghan Trainor,False,84,54,54,All About That Bass,2
+Colbie Caillat,False,69,55,55,Try,2
+Ed Sheeran,False,41,13,56,Sing,15
+Luke Bryan,False,46,14,57,Play It Again,19
+Jeremih Featuring YG,False,71,58,58,Don't Tell 'Em,4
+T.I. Featuring Iggy Azalea,False,67,58,59,No Mediocre,5
+Pharrell Williams,False,56,56,60,Come Get It Bae,9
+Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard,False,61,48,61,Or Nah,18
+Tim McGraw Featuring Faith Hill,False,62,62,62,Meanwhile Back At Mama's,8
+Michael Jackson & Justin Timberlake,False,55,9,63,Love Never Felt So Good,12
+Sam Hunt,False,73,64,64,Leave The Night On,4
+AJR,False,81,65,65,I'm Ready,7
+Brad Paisley,False,59,59,66,River Bank,11
+Kid Ink Featuring Chris Brown,False,63,63,67,Main Chick,10
+Ingrid Michaelson,False,68,64,68,Girls Chase Boys,15
+Billy Currington,False,64,64,69,We Are Tonight,13
+Iggy Azalea,False,75,54,70,Work,12
+Shakira,False,70,53,71,Dare (La La La),9
+KCamp Featuring 2 Chainz,False,77,49,72,Cut Her Off,15
+Dustin Lynch,False,74,71,73,"Where It's At (Yep, Yep)",11
+5 Seconds Of Summer,False,72,24,74,She Looks So Perfect,16
+Vance Joy,False,85,75,75,Riptide,4
+Childish Gambino,False,89,76,76,V. 3005,7
+Jason Derulo,False,76,56,77,Trumpets,8
+Blake Shelton Featuring Gwen Sebastian,False,60,39,78,My Eyes,12
+Katy Perry,False,58,17,79,Birthday,15
+Lorde,False,78,71,80,Tennis Court,17
+Tyler Farr,False,54,52,81,Whiskey In My Water,17
+YG Featuring Drake,False,80,54,82,Who Do You Love?,19
+Usher,False,79,65,83,Good Kisser,11
+Echosmith,False,87,84,84,Cool Kids,2
+Young Money Featuring Drake,False,82,50,85,Trophies,20
+Chase Rice,False,83,83,86,Ready Set Roll,8
+Cole Swindell,False,91,87,87,Hope You Get Lonely Tonight,5
+Luke Bryan,True,0,88,88,Roller Coaster,1
+Rich Gang Featuring Young Thug & Rich Homie Quan,True,0,89,89,Lifestyle,1
+Fifth Harmony,False,43,43,90,Bo$$,2
+Ed Sheeran,False,86,46,91,Don't,6
+Eric Paslay,False,88,85,92,Song About A Girl,7
+Migos,False,95,93,93,Fight Night,2
+5 Seconds Of Summer,False,93,16,94,Amnesia,3
+John Legend,False,66,66,95,You & I (Nobody In The World),2
+Brantley Gilbert Featuring Justin Moore & Thomas Rhett,False,94,91,96,Small Town Throwdown,6
+Kiesza,True,0,97,97,Hideaway,1
+Trey Songz,False,92,84,98,Foreign,3
+Frankie Ballard,False,100,99,99,Sunshine & Whiskey,2
+Ca$h Out,False,98,98,100,She Twerkin,3

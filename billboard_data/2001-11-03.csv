@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Mary J. Blige,False,3,1,1,Family Affair,15
+Jennifer Lopez Featuring Ja Rule,False,1,1,2,I'm Real,18
+Alicia Keys,False,2,1,3,Fallin',21
+Ginuwine,False,4,4,4,Differences,15
+Enrique Iglesias,False,9,5,5,Hero,6
+Nelly Furtado,False,11,6,6,Turn Off The Light,12
+Staind,False,7,5,7,It's Been Awhile,30
+Usher,False,16,8,8,U Got It Bad,7
+Ja Rule Featuring Case,False,12,9,9,Livin' It Up,10
+Jagged Edge With Nelly,False,5,3,10,Where The Party At,23
+Enya,False,13,11,11,Only Time,17
+Blu Cantrell,False,8,2,12,Hit 'Em Up Style (Oops!),27
+Michelle Branch,False,17,13,13,Everywhere,10
+JAY-Z,False,10,8,14,Izzo (H.O.V.A.),15
+Bubba Sparxxx,False,20,15,15,Ugly,10
+Craig David,False,18,15,16,Fill Me In,22
+Nickelback,False,26,17,17,How You Remind Me,9
+Whitney Houston,False,6,6,18,The Star Spangled Banner,17
+Train,False,21,5,19,Drops Of Jupiter (Tell Me),34
+Usher,False,14,1,20,U Remind Me,21
+Aaliyah,False,22,21,21,Rock The Boat,9
+Destiny's Child,False,23,22,22,Emotion,6
+Lifehouse,False,19,2,23,Hanging By A Moment,39
+Alien Ant Farm,False,24,24,24,Smooth Criminal,11
+3 Doors Down,False,25,25,25,Be Like That,15
+Eve Featuring Gwen Stefani,False,15,2,26,Let Me Blow Ya Mind,28
+'N Sync,False,32,27,27,Gone,7
+Maxwell,False,36,28,28,Lifetime,9
+Petey Pablo,False,30,29,29,Raise Up,13
+Fabolous Featuring Nate Dogg,False,31,25,30,Can't Deny It,16
+Christina Milian,False,27,27,31,AM To PM,11
+"Missy ""Misdemeanor"" Elliott",False,28,15,32,One Minute Man,17
+Brooks & Dunn,False,35,33,33,Only In America,16
+All Star Tribute,False,33,27,34,What's Going On,5
+JAY-Z,False,49,35,35,"Girls, Girls, Girls",4
+Backstreet Boys,False,46,36,36,Drowning,3
+Lee Greenwood,False,84,16,37,God Bless The USA,6
+Tim McGraw,False,43,38,38,Angry All The Time,12
+112,False,40,39,39,Dance With Me,8
+City High Featuring Eve,False,51,40,40,Caramel,4
+Five For Fighting,False,38,38,41,Superman (It's Not Easy),10
+Alan Jackson,False,39,34,42,Where I Come From,11
+Toya,False,44,32,43,I Do!!,23
+Aaron Tippin,False,37,37,44,Where The Stars And Stripes And The Eagle Fly,3
+P!nk,False,69,45,45,Get The Party Started,2
+Faith Evans,False,54,46,46,You Gets No Love,5
+Creed,False,50,47,47,My Sacrifice,2
+Travis Tritt,False,56,48,48,Love Of A Woman,8
+Trick Daddy,False,34,17,49,I'm A Thug,16
+Incubus,False,45,9,50,Drive,38
+Michael Jackson,False,29,10,51,You Rock My World,9
+Janet,False,42,3,52,Someone To Call My Lover,20
+Trick Pony,False,53,53,53,On A Night Like This,15
+R. Kelly,False,47,36,54,Feelin' On Yo Booty,11
+Brian McKnight,False,55,55,55,Love Of My Life,8
+Reba,False,57,56,56,I'm A Survivor,8
+Toby Keith,False,59,57,57,I Wanna Talk About Me,4
+Britney Spears,False,58,58,58,I'm A Slave 4 U,3
+U2,False,52,52,59,Stuck In A Moment You Can't Get Out Of,6
+Lenny Kravitz,False,60,60,60,Dig In,4
+Nelly,False,67,61,61,#1,3
+Carolyn Dawn Johnson,False,61,59,62,So Complicated,9
+George Strait,False,70,63,63,Run,2
+David Ball,False,71,64,64,Riding With Private Malone,2
+Incubus,False,66,63,65,Wish You Were Here,7
+Fat Joe Featuring R. Kelly,False,82,66,66,We Thuggin',2
+Trace Adkins,False,72,67,67,I'm Tryin',3
+Martina McBride,False,65,64,68,When God-Fearin' Women Get The Blues,8
+Staind,False,76,69,69,Fade,3
+Lonestar,False,75,70,70,With Me,2
+Shakira,False,74,71,71,"Whenever, Wherever",2
+Garth Brooks,False,77,72,72,Wrapped Up In You,2
+LFO,False,62,44,73,Every Other Time,11
+P. Diddy Featuring The Neptunes,False,87,74,74,Diddy,2
+Puddle Of Mudd,False,68,68,75,Control,4
+P.O.D.,True,0,76,76,Alive,1
+Tyrese,False,78,71,77,What Am I Gonna Do,6
+Linkin Park,True,0,78,78,In The End,1
+DMX,False,83,79,79,Who We Be,4
+Trisha Yearwood,False,64,44,80,I Would've Loved You Anyway,14
+The Isley Brothers Featuring Ronald Isley,False,63,19,81,Contagious,17
+Mr. Cheeks,False,92,82,82,"Lights, Camera, Action!",4
+Tool,False,81,67,83,Schism,20
+Alicia Keys,False,90,84,84,A Woman's Worth,2
+Smash Mouth,False,79,25,85,I'm A Believer,16
+Tammy Cochran,False,73,73,86,Angels In Waiting,5
+Babyface,False,85,85,87,What If,7
+Jaheim,False,88,52,88,Just In Case,19
+Jill Scott,False,97,60,89,The Way,18
+Linkin Park,False,93,79,90,Crawling,13
+Fuel,False,94,64,91,Bad Day,15
+Ludacris Featuring Nate Dogg,False,89,24,92,Area Codes,17
+Juvenile,False,96,65,93,Set It Off,13
+Gorillaz,False,86,57,94,Clint Eastwood,11
+Jermaine Dupri Featuring Nate Dogg,False,98,95,95,Ballin' Out Of Control,3
+"R.L., Snoop Dogg & Lil' Kim",False,100,94,96,Do U Wanna Roll (Dolittle Theme),5
+American Hi-Fi,False,99,41,97,Flavor Of The Weak,20
+Luther Vandross,False,0,26,98,Take You Out,15
+"Ludacris, LL Cool J & Keith Murray",True,0,99,99,Fatty Girl,1
+Sum 41,False,95,66,100,Fat Lip,10

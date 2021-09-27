@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Ed Sheeran,False,1,1,1,Shape Of You,10
+Bruno Mars,False,3,2,2,That's What I Like,9
+Migos Featuring Lil Uzi Vert,False,2,1,3,Bad And Boujee,18
+Zayn / Taylor Swift,False,4,2,4,I Don't Wanna Live Forever (Fifty Shades Darker),14
+The Weeknd Featuring Daft Punk,False,12,5,5,I Feel It Coming,17
+Kodak Black,False,6,6,6,Tunnel Vision,4
+Rihanna,False,5,5,7,Love On The Brain,22
+The Chainsmokers & Coldplay,False,11,5,8,Something Just Like This,4
+The Chainsmokers,False,7,6,9,Paris,9
+KYLE Featuring Lil Yachty,False,14,10,10,iSpy,12
+Big Sean,False,8,6,11,Bounce Back,19
+Clean Bandit Featuring Sean Paul & Anne-Marie,False,9,9,12,Rockabye,15
+The Chainsmokers Featuring Halsey,False,10,1,13,Closer,33
+"Nicki Minaj, Drake & Lil Wayne",True,0,14,14,No Frauds,1
+Katy Perry Featuring Skip Marley,False,13,4,15,Chained To The Rhythm,5
+Maroon 5 Featuring Future,False,20,16,16,Cold,5
+Kygo x Selena Gomez,False,18,12,17,It Ain't Me,5
+Sam Hunt,False,17,17,18,Body Like A Back Road,7
+Future,False,32,19,19,Mask Off,4
+Shawn Mendes,False,15,15,20,Mercy,26
+James Arthur,False,28,21,21,Say You Won't Let Go,21
+Bruno Mars,False,16,4,22,24K Magic,23
+Marian Hill,False,25,21,23,Down,9
+Julia Michaels,False,27,24,24,Issues,8
+Alessia Cara,False,21,8,25,Scars To Your Beautiful,29
+Migos,False,30,19,26,T-Shirt,9
+Zedd & Alessia Cara,False,34,27,27,Stay,3
+Justin Timberlake,False,24,1,28,Can't Stop The Feeling!,45
+Machine Gun Kelly x Camila Cabello,False,22,4,29,Bad Things,20
+The Weeknd Featuring Daft Punk,False,26,1,30,Starboy,26
+Drake,False,23,8,31,Fake Love,21
+Post Malone Featuring Quavo,False,33,32,32,Congratulations,12
+Rae Sremmurd,False,36,33,33,Swang,13
+Ayo & Teo,False,48,34,34,Rolex,5
+Khalid,False,38,35,35,Location,10
+Maroon 5 Featuring Kendrick Lamar,False,31,6,36,Don't Wanna Know,23
+Jon Pardi,False,42,37,37,Dirt On My Boots,15
+Lady Gaga,False,29,4,38,Million Reasons,17
+Lorde,False,19,19,39,Green Light,3
+Rae Sremmurd Featuring Gucci Mane,False,35,1,40,Black Beatles,27
+DJ Snake Featuring Justin Bieber,False,40,4,41,Let Me Love You,32
+Imagine Dragons,False,41,41,42,Believer,6
+Adele,False,43,26,43,Water Under The Bridge,19
+Chris Brown Featuring Usher & Gucci Mane,False,51,40,44,Party,13
+twenty one pilots,False,44,2,45,Heathens,39
+Auli'i Cravalho,False,60,41,46,How Far I'll Go,14
+Noah Cyrus Featuring Labrinth,False,46,46,47,Make Me (Cry),14
+Calvin Harris Featuring Frank Ocean & Migos,False,52,34,48,Slide,3
+Amine,False,47,11,49,Caroline,28
+Travis Scott,False,57,50,50,Goosebumps,19
+Gucci Mane Featuring Drake,False,54,41,51,Both,13
+Ed Sheeran,False,39,6,52,Castle On The Hill,10
+Luis Fonsi & Daddy Yankee Featuring Justin Bieber,False,56,52,53,Despacito,9
+Michael Ray,False,58,54,54,Think A Little Less,12
+Ariana Grande Featuring Future,False,63,55,55,Everyday,5
+Childish Gambino,False,69,48,56,Redbone,15
+J. Cole,False,64,7,57,Deja Vu,14
+Train,False,68,41,58,Play That Song,16
+Future Featuring Rihanna,False,66,37,59,Selfish,3
+Ed Sheeran,False,37,37,60,Perfect,2
+Nicki Minaj,True,0,61,61,Regret In Your Tears,1
+Little Big Town,False,55,34,62,Better Man,20
+Ed Sheeran,False,53,53,63,Galway Girl,2
+Luke Bryan,False,65,64,64,Fast,8
+XXXTENTACION,False,61,61,65,Look At Me!,6
+Luke Combs,False,73,66,66,Hurricane,5
+DJ Khaled Featuring Beyonce & JAY Z,False,62,57,67,Shining,5
+Brett Young,False,80,68,68,In Case You Didn't Know,6
+Linkin Park Featuring Kiiara,False,79,52,69,Heavy,4
+Jason Aldean,False,70,70,70,Any Ol' Barstool,8
+Nicki Minaj & Lil Wayne,True,0,71,71,Changed It,1
+Frank Ocean,True,0,72,72,Chanel,1
+Big Sean,False,71,38,73,Moves,12
+Future,False,77,46,74,Draco,4
+Starley,False,78,70,75,Call On Me,11
+Alessia Cara,False,89,56,76,How Far I'll Go,15
+The Weeknd,False,76,16,77,Party Monster,17
+Lorde,True,0,78,78,Liability,1
+Russ,False,86,79,79,Losin Control,3
+Lauren Alaina,False,85,80,80,Road Less Traveled,8
+Josh Turner,False,95,81,81,Hometown Girl,3
+Bebe Rexha,False,67,43,82,I Got You,11
+Eric Church Featuring Rhiannon Giddens,False,88,71,83,Kill A Word,14
+Brantley Gilbert,False,87,69,84,The Weekend,11
+Ed Sheeran,False,49,49,85,Dive,2
+Chris Young Featuring Vince Gill,False,82,47,86,Sober Saturday Night,11
+Keith Urban Featuring Carrie Underwood,False,92,53,87,The Fighter,6
+Dierks Bentley,False,0,88,88,Black,7
+Brad Paisley,False,74,67,89,Today,11
+PnB Rock,False,94,51,90,Selfish,19
+Kelsea Ballerini,False,98,91,91,Yeah Boy,5
+Dwayne Johnson,False,0,65,92,You're Welcome,9
+2 Chainz x Gucci Mane x Quavo,False,0,92,93,Good Drank,2
+Ed Sheeran,False,59,59,94,Happier,2
+6LACK,True,0,95,95,Prblms,1
+Future Featuring The Weeknd,False,81,48,96,Comin Out Strong,3
+Shakira Featuring Maluma,False,97,51,97,Chantaje,18
+Nicky Jam,False,0,98,98,El Amante,5
+Migos Featuring Gucci Mane,False,0,48,99,Slippery,6
+Martin Garrix & Dua Lipa,False,0,88,100,Scared To Be Lonely,3

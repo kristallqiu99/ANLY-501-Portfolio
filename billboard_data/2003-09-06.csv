@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+"Nelly, P. Diddy & Murphy Lee",False,3,1,1,Shake Ya Tailfeather,11
+Beyonce Featuring Jay Z,False,1,1,2,Crazy In Love,16
+Chingy,False,2,2,3,Right Thurr,17
+50 Cent,False,4,3,4,P.I.M.P.,15
+Fabolous Featuring Tamia Or Ashanti,False,5,5,5,Into You,13
+Lil Jon & The East Side Boyz Featuring Ying Yang Twins,False,6,6,6,Get Low,19
+Pharrell Featuring Jay-Z,False,7,7,7,Frontin',13
+matchbox twenty,False,8,5,8,Unwell,25
+Beyonce Featuring Sean Paul,False,12,9,9,Baby Boy,4
+The Black Eyed Peas,False,9,8,10,Where Is The Love?,13
+Ginuwine,False,11,8,11,In Those Jeans,13
+Lumidee,False,10,3,12,"Never Leave You - Uh Ooh, Uh Oooh!",15
+Mya,False,16,13,13,My Love Is Like... Wo,11
+Uncle Kracker Featuring Dobie Gray,False,14,9,14,Drift Away,24
+Sean Paul,False,13,13,15,Like Glue,14
+Michelle Branch,False,17,16,16,Are You Happy Now?,15
+Alan Jackson & Jimmy Buffett,False,19,17,17,It's Five O'Clock Somewhere,11
+Bow Wow Featuring Baby,False,25,18,18,Let's Get Down,10
+Ashanti,False,15,2,19,Rock Wit U (Awww Baby),18
+Shania Twain,False,21,20,20,Forever And For Always,16
+Lil' Kim Featuring 50 Cent,False,18,2,21,Magic Stick,20
+Evanescence Featuring Paul McCoy,False,20,5,22,Bring Me To Life,26
+R. Kelly,False,23,23,23,Thoia Thoing,8
+Train,False,24,24,24,Calling All Angels,16
+Jason Mraz,False,29,25,25,The Remedy (I Won't Worry),19
+Christina Aguilera Featuring Lil' Kim,False,31,26,26,Can't Hold Us Down,6
+The Ataris,False,32,27,27,The Boys Of Summer,7
+Thalia Featuring Fat Joe,False,26,22,28,I Want You,13
+Dierks Bentley,False,30,29,29,What Was I Thinkin',12
+Kelly Clarkson,False,22,9,30,Miss Independent,17
+Kenny Chesney,False,28,28,31,"No Shoes, No Shirt, No Problems",11
+Santana Featuring Alex Band Or Chad Kroeger,False,34,32,32,Why Don't You & I,7
+Justin Timberlake,False,38,33,33,Senorita,6
+Aaliyah,False,37,34,34,Come Over,13
+YoungBloodZ Featuring Lil Jon,False,49,35,35,Damn!,5
+Monica,False,27,10,36,So Gone,20
+Young Gunz,False,44,37,37,"Can't Stop, Won't Stop",5
+Sean Paul,False,33,1,38,Get Busy,29
+Tim McGraw,False,40,39,39,Real Good Man,9
+3 Doors Down,False,39,4,40,When I'm Gone,42
+Buddy Jewell,False,41,41,41,Help Pour Out The Rain (Lacey's Song),12
+Luther Vandross,False,42,40,42,Dance With My Father,11
+Brooks & Dunn,False,35,25,43,Red Dirt Road,15
+Brad Paisley,False,36,31,44,Celebrity,13
+Staind,False,48,45,45,So Far Away,6
+Lonestar,False,43,23,46,My Front Porch Looking In,21
+Toby Keith Duet With Willie Nelson,False,45,22,47,Beer For My Horses,19
+Linkin Park,False,53,48,48,Faint,7
+Simple Plan,False,46,45,49,Addicted,11
+Baby Bash Featuring Frankie J,False,56,50,50,Suga Suga,3
+Good Charlotte,False,51,51,51,Girls And Boys,7
+Martina McBride,False,54,52,52,This One's For The Girls,5
+3 Doors Down,False,64,53,53,Here Without You,2
+Jewel,False,47,20,54,Intuition,18
+Hilary Duff,False,55,53,55,So Yesterday,4
+Trace Adkins,False,52,52,56,Then They Do,8
+John Mayer,False,66,57,57,Bigger Than My Body,2
+Busta Rhymes,False,58,58,58,Light Your A** On Fire,5
+R. Kelly,False,59,59,59,Step In The Name Of Love,3
+Keith Urban,False,62,60,60,Who Wouldn't Wanna Be Me,4
+Clay Walker,False,61,61,61,A Few Questions,5
+Maroon 5,False,70,62,62,Harder To Breathe,3
+Heather Headley,False,67,55,63,I Wish I Wasn't,19
+Tyrese,False,57,57,64,Signs Of Love Makin',7
+Gary Allan,False,68,65,65,Tough Little Boys,3
+Rascal Flatts,False,72,66,66,I Melt,3
+Ashanti,False,78,67,67,Rain On Me,2
+Audioslave,False,73,68,68,Show Me How To Live,4
+Mary J. Blige Featuring Method Man,False,50,22,69,Love At 1st Sight,10
+Korn,False,60,38,70,Did My Time,5
+Pat Green,False,77,71,71,Wave On Wave,2
+Nickelback,False,76,72,72,Someday,3
+Mary J. Blige,True,0,73,73,Ooh!,1
+Joe Nichols,False,74,72,74,She Only Smokes When She Drinks,4
+112 Featuring Super Cat,False,75,75,75,Na Na Na,5
+Jagged Edge,True,0,76,76,Walked Outta Heaven,1
+Eagles,False,71,69,77,Hole In The World,6
+David Banner Featuring Lil' Flip,False,69,48,78,Like A Pimp,20
+Live,False,79,79,79,Heaven,2
+Clay Aiken,False,65,1,80,This Is The Night,11
+Marques Houston Featuring Joe Budden & Pied Piper,True,0,81,81,Clubbin,1
+T.I.,False,82,82,82,24's,6
+DMX,False,86,83,83,Where The Hood At,3
+Ludacris Featuring Shawnna,True,0,84,84,Stand Up,1
+Toby Keith,True,0,85,85,I Love This Bar,1
+Brian McComas,False,63,57,86,99.9% Sure (I've Never Been Here Before),9
+Chevelle,False,80,65,87,Send The Pain Below,18
+Billy Currington,False,88,88,88,Walk A Little Straighter,3
+Josh Kelley,False,89,89,89,Amazing,5
+Patty Loveless,False,90,90,90,Lovin' All Night,3
+The White Stripes,False,84,76,91,Seven Nation Army,16
+Tamia,False,83,83,92,Officially Missing You,6
+Erykah Badu,False,93,93,93,Danger,3
+Blu Cantrell Featuring Sean Paul,False,81,70,94,Breathe,19
+Jimmy Wayne,False,85,32,95,Stay Gone,20
+Nappy Roots,False,97,96,96,Roun' The Globe,2
+Javier,False,99,96,97,Crazy,4
+Elephant Man,False,0,98,98,"Pon De River, Pon De Bank",3
+Obie Trice,True,0,99,99,Got Some Teeth,1
+Jane's Addiction,False,87,72,100,Just Because,7

@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Nelly Featuring Kelly Rowland,False,1,1,1,Dilemma,8
+Nelly,False,2,1,2,Hot In Herre,18
+Avril Lavigne,False,3,2,3,Complicated,14
+Mario,False,4,4,4,Just A Friend 2002,15
+"P. Diddy & Ginuwine Featuring Loon, Mario Winans & Tammy Ruggeri",False,5,4,5,I Need A Girl (Part Two),13
+Eve Featuring Alicia Keys,False,6,6,6,Gangsta Lovin',8
+Dixie Chicks,False,13,7,7,Long Time Gone,11
+"Irv Gotti Presents The Inc. Featuring Ja Rule, Ashanti, Charli Baltimore & Vita",False,7,6,8,Down 4 U,11
+Eminem,False,14,9,9,Cleanin' Out My Closet,5
+Ashanti,False,9,9,10,Happy,14
+N.O.R.E.,False,10,10,11,Nothin',15
+P!nk,False,8,8,12,Just Like A Pill,9
+DJ Sammy & Yanou Featuring Do,False,11,8,13,Heaven,14
+John Mayer,False,15,13,14,No Such Thing,14
+Chad Kroeger Featuring Josey Scott,False,12,3,15,Hero,16
+Ludacris Featuring Mystikal & Infamous 2.0,False,19,16,16,Move B***h,13
+Vanessa Carlton,False,16,5,17,A Thousand Miles,27
+Creed,False,20,18,18,One Last Breath,13
+Jimmy Eat World,False,17,5,19,The Middle,25
+Daniel Bedingfield,False,23,20,20,Gotta Get Thru This,6
+Jennifer Lopez Featuring Nas,False,18,10,21,I'm Gonna Be Alright,19
+Kenny Chesney,False,24,22,22,The Good Stuff,13
+Amerie,False,26,23,23,Why Don't We Fall In Love,13
+Eminem,False,21,2,24,Without Me,17
+Kylie Minogue,False,30,25,25,Love At First Sight,10
+Big Tymers,False,22,11,26,Still Fly,21
+Sheryl Crow,False,25,17,27,Soak Up The Sun,21
+Wyclef Jean Featuring Claudette Ortiz,False,29,28,28,Two Wrongs,8
+Styles,False,31,29,29,Good Times,7
+Tim McGraw,False,32,30,30,Unbroken,9
+Darryl Worley,False,38,31,31,I Miss My Friend,12
+Cam'Ron Featuring Juelz Santana,False,28,4,32,Oh Boy,20
+Beenie Man Featuring Janet,False,33,33,33,Feel It Boy,5
+Ashanti,False,27,1,34,Foolish,29
+Angie Martinez Featuring Lil' Mo & Sacario,False,40,35,35,If I Could Go!,11
+Red Hot Chili Peppers,False,34,34,36,By The Way,12
+Tracy Byrd,False,44,37,37,Ten Rounds With Jose Cuervo,9
+The Calling,False,35,5,38,Wherever You Will Go,43
+Musiq,False,37,16,39,halfcrazy,24
+Puddle Of Mudd,False,41,5,40,Blurry,37
+Joe Nichols,False,49,41,41,The Impossible,14
+Sara Evans,False,45,42,42,I Keep Looking,7
+Toby Keith,False,39,25,43,"Courtesy Of The Red, White And Blue (The Angry American)",13
+Dave Matthews Band,False,52,44,44,Where Are You Going,12
+Clipse,False,36,30,45,Grindin',15
+Michelle Branch,False,43,6,46,All You Wanted,28
+Ginuwine,False,54,47,47,Stingy,5
+Ashanti,False,53,48,48,Baby,6
+Default,False,50,13,49,Wasting My Time,35
+"Cam'Ron Featuring Juelz Santana, Freekey Zekey & Toya",True,0,50,50,Hey Ma,1
+Diamond Rio,False,60,51,51,Beautiful Mess,4
+Truth Hurts Featuring Rakim,False,42,9,52,Addictive,20
+No Doubt,False,47,13,53,Hella Good,20
+Hoobastank,False,58,54,54,Running Away,9
+Dirty Vegas,False,51,14,55,Days Go By,17
+Aaliyah,False,67,56,56,I Care 4 U,2
+Fabolous Featuring P. Diddy & Jagged Edge,False,70,57,57,Trade It All,3
+System Of A Down,False,61,58,58,Aerials,3
+Vanessa Carlton,False,69,59,59,Ordinary Day,2
+Keith Urban,False,66,60,60,Somebody Like You,3
+Elvis Presley vs JXL,False,63,50,61,A Little Less Conversation,8
+BBMak,False,68,62,62,Out Of My Heart (Into Your Head),3
+Mark Chesnutt,False,65,63,63,She Was,4
+No Doubt Featuring Lady Saw,True,0,64,64,Underneath It All,1
+Our Lady Peace,False,75,65,65,Somewhere Out There,2
+Alan Jackson,False,76,66,66,Work In Progress,2
+Bruce Springsteen,False,57,52,67,The Rising,5
+Andy Griggs,False,56,52,68,Tonight I Wanna Be Your Man,10
+Michelle Branch,True,0,69,69,Goodbye To You,1
+Faith Hill,True,0,70,70,Cry,1
+Tweet,False,55,31,71,Call Me,14
+Trick Daddy Featuring Cee-Lo & Big Boi,False,71,71,72,In Da Wind,8
+Gary Allan,False,48,37,73,The One,16
+Nappy Roots Featuring Anthony Hamilton,False,79,74,74,Po' Folks,7
+3LW Featuring P. Diddy & Loon,False,80,75,75,I Do (Wanna Get Close To You),5
+Phil Vassar,False,78,76,76,American Child,2
+Ruff Endz,False,59,49,77,Someone To Love You,17
+Jimmy Eat World,False,81,78,78,Sweetness,5
+Monica,False,72,69,79,All Eyez On Me,4
+Jack Johnson,False,73,73,80,Flake,5
+LL Cool J,False,93,81,81,Luv U Better,2
+Lil Wayne,False,74,71,82,Way Of Life,9
+"Faith Evans Featuring Missy ""Misdemeanor"" Elliott",False,62,62,83,Burnin' Up,3
+Craig David,False,77,44,84,Walking Away,15
+Papa Roach,False,84,76,85,She Loves Me Not,7
+Brad Paisley,False,82,29,86,I'm Gonna Miss Her (The Fishin' Song),18
+Khia Featuring DSD,False,64,42,87,"My Neck, My Back",15
+Nivea Featuring Brian & Brandon Casey,False,90,88,88,Don't Mess With My Man,4
+Slum Village Featuring Dwele,False,87,87,89,Tainted,7
+Puddle Of Mudd,False,85,61,90,Drift & Die,15
+Brandy,False,88,18,91,Full Moon,18
+Donell Jones,False,83,54,92,You Know That I Love You,19
+The Hives,False,89,86,93,Hate To Say I Told You So,7
+Marc Anthony,False,94,81,94,I've Got You,9
+"Big Tymers Featuring Tateeze, Boo & Gotti",True,0,95,95,Oh Yeah!,1
+Whitney Houston,False,96,96,96,Whatchulookinat,2
+Yasmeen Featuring Ghostface Killah,False,97,97,97,Blue Jeans,3
+Soluna,False,91,72,98,For All Time,11
+Lonestar,False,86,36,99,Not A Day Goes By,17
+Sean Paul,False,98,89,100,Gimme The Light,18

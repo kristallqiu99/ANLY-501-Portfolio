@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Katy Perry Featuring Snoop Dogg,False,1,1,1,California Gurls,6
+Usher Featuring will.i.am,False,2,1,2,OMG,12
+B.o.B Featuring Hayley Williams,False,3,2,3,Airplanes,10
+Travie McCoy Featuring Bruno Mars,False,4,4,4,Billionaire,12
+Drake,False,10,5,5,Find Your Love,7
+Ke$ha,False,6,4,6,Your Love Is My Drug,19
+Lady Gaga,False,5,5,7,Alejandro,12
+Mike Posner,False,14,8,8,Cooler Than Me,8
+Eminem,False,8,1,9,Not Afraid,7
+Taio Cruz Featuring Ludacris,False,7,1,10,Break Your Heart,17
+The Black Eyed Peas,False,9,9,11,Rock That Body,8
+La Roux,False,13,8,12,Bulletproof,16
+B.o.B Featuring Bruno Mars,False,11,1,13,Nothin' On You,21
+Train,False,12,3,14,"Hey, Soul Sister",38
+3OH!3 Featuring Ke$ha,False,17,9,15,My First Kiss,7
+Jason Derulo,False,19,16,16,Ridin' Solo,12
+Shontelle,False,25,17,17,Impossible,9
+Lady Antebellum,False,15,2,18,Need You Now,45
+Jay-Z + Mr. Hudson,False,16,10,19,Young Forever,23
+The Script,False,21,12,20,Breakeven,29
+Alicia Keys,False,22,21,21,Un-Thinkable (I'm Ready),11
+Miley Cyrus,False,24,8,22,Can't Be Tamed,5
+Rihanna,False,18,1,23,Rude Boy,19
+Jason Derulo,False,20,5,24,In My Head,28
+Carrie Underwood,False,23,23,25,Undo It,8
+Enrique Iglesias Featuring Pitbull,False,32,26,26,I Like It,6
+Nicki Minaj,False,26,26,27,Your Love,3
+Michael Buble,False,28,24,28,Haven't Met You Yet,38
+"DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",False,27,27,29,All I Do Is Win,18
+Miranda Lambert,False,29,28,30,The House That Built Me,13
+Taio Cruz,False,45,26,31,Dynamite,3
+Drake,False,31,14,32,Over,15
+Justin Bieber Featuring Usher,False,48,33,33,Somebody To Love,6
+Nickelback,False,36,34,34,This Afternoon,11
+Lady Gaga Featuring Beyonce,False,30,3,35,Telephone,30
+"Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne",False,35,21,36,I Made It (Cash Money Heroes),20
+Jaron And The Long Road To Love,False,41,37,37,Pray For You,13
+Shakira Featuring Freshlyground,False,43,38,38,Waka Waka (This Time For Africa),2
+Ke$ha,False,38,1,39,TiK ToK,37
+Timbaland Featuring Katy Perry,False,39,37,40,If We Ever Meet Again,14
+Adam Lambert,False,42,10,41,Whataya Want From Me,27
+Zac Brown Band,False,54,42,42,Free,5
+The Black Eyed Peas,False,40,1,43,I Gotta Feeling,54
+Usher,False,52,44,44,There Goes My Baby,14
+Ludacris Featuring Nicki Minaj,False,34,11,45,My Chick Bad,17
+Luke Bryan,False,51,46,46,Rain Is A Good Thing,13
+Brad Paisley,False,49,46,47,Water,10
+Jerrod Niemann,False,53,48,48,"Lover, Lover",8
+Drake Featuring Nicki Minaj,True,0,49,49,Up All Night,1
+Lady Gaga,False,46,2,50,Bad Romance,34
+Jason Aldean,False,57,51,51,Crazy Town,10
+Diddy - Dirty Money Featuring T.I.,False,61,34,52,Hello Good Morning,12
+Clay Walker,False,55,53,53,She Won't Be Lonely Long,12
+Young Jeezy Featuring Plies,False,56,35,54,Lose My Mind,7
+David Guetta & Chris Willis Featuring Fergie & LMFAO,False,62,55,55,Gettin' Over You,8
+Ciara Featuring Ludacris,False,65,56,56,Ride,9
+Drake,True,0,57,57,9 AM In Dallas,1
+Sean Kingston & Justin Bieber,False,47,15,58,Eenie Meenie,13
+Lee Brice,False,60,59,59,Love Like Crazy,7
+Colbie Caillat,False,64,60,60,I Never Told You,13
+T.I. Featuring Keri Hilson,False,63,38,61,Got Your Back,3
+Lil Jon Featuring 3OH!3,False,70,62,62,Hey,2
+Drake Featuring Lil Wayne,False,50,15,63,Miss Me,3
+Ne-Yo,False,67,64,64,Beautiful Monster,2
+Justin Bieber Featuring Jaden Smith,False,33,33,65,Never Say Never,2
+Cali Swag District,False,76,66,66,Teach Me How To Dougie,4
+Joe Nichols,False,68,34,67,Gimmie That Girl,17
+Billy Currington,False,80,68,68,Pretty Good At Drinkin' Beer,3
+Ludacris Featuring Trey Songz,False,72,69,69,Sex Room,4
+V V Brown,False,83,70,70,Shark In The Water,3
+Drake Featuring Alicia Keys,True,0,71,71,Fireworks,1
+Chris Young,False,69,48,72,The Man I Want To Be,16
+Paramore,False,81,73,73,The Only Exception,4
+Martina McBride,False,77,74,74,Wrong Baby Wrong,13
+John Mayer,False,88,25,75,Half Of My Heart,4
+P!nk,False,85,18,76,Glitter In The Air,5
+Train,False,90,77,77,If It's Love,2
+Reba,False,79,78,78,I Keep On Loving You,9
+Keith Urban,False,82,79,79,I'm In,4
+Jamie Foxx Featuring Justin Timberlake & T .I.,False,71,28,80,Winner,11
+Disturbed,True,0,81,81,Another Way To Die,1
+K'Naan,False,89,82,82,Wavin' Flag,3
+Little Big Town,False,87,83,83,Little White Church,3
+Trey Songz,False,86,43,84,Neighbors Know My Name,17
+T.I.,False,78,44,85,I'm Back,14
+Gyptian,False,91,86,86,Hold You (Hold Yuh),4
+Usher Featuring Nicki Minaj,False,74,40,87,Lil Freak,16
+Neon Trees,False,93,88,88,Animal,3
+3OH!3,True,0,89,89,Double Vision,1
+Soulja Boy Tell'em,True,0,90,90,Pretty Boy Swag,1
+Bobby Brackins Featuring Ray J,True,0,91,91,143,1
+Iyaz,False,0,32,92,Solo,18
+The Dirty Heads Featuring Rome,True,0,93,93,Lay Me Down,1
+Lady Antebellum,False,0,80,94,Our Kind Of Love,2
+Jaheim,True,0,95,95,Finding My Way Back,1
+Rodney Atkins,True,0,96,96,Farmer's Daughter,1
+Craig Morgan,True,0,97,97,This Ain't Nothin',1
+Blake Shelton,True,0,98,98,All About Tonight,1
+Drake Featuring T.I. & Swizz Beatz,True,0,99,99,Fancy,1
+B.o.B Featuring Rivers Cuomo,False,0,83,100,Magic,2

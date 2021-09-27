@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Beyonce,False,1,1,1,Single Ladies (Put A Ring On It),10
+T.I. Featuring Rihanna,False,2,1,2,Live Your Life,13
+Lady Gaga Featuring Colby O'Donis,False,3,3,3,Just Dance,20
+Kanye West,False,7,4,4,Heartless,7
+Britney Spears,False,6,1,5,Womanizer,12
+Katy Perry,False,8,3,6,Hot N Cold,21
+Taylor Swift,False,11,5,7,Love Story,15
+Kanye West,False,10,3,8,Love Lockdown,14
+T.I.,False,5,1,9,Whatever You Like,20
+Beyonce,False,9,3,10,If I Were A Boy,11
+Britney Spears,False,4,3,11,Circus,3
+Jason Mraz,False,12,6,12,I'm Yours,36
+Kevin Rudolf Featuring Lil Wayne,False,13,5,13,Let It Rock,17
+Ne-Yo,False,14,7,14,Miss Independent,18
+Akon,False,15,8,15,Right Now (Na Na Na),13
+P!nk,False,16,1,16,So What,18
+Nickelback,False,17,10,17,Gotta Be Somebody,12
+Rihanna,False,21,18,18,Rehab,7
+The All-American Rejects,False,37,19,19,Gives You Hell,6
+Zac Brown Band,False,20,20,20,Chicken Fried,14
+Lil Wayne Featuring Bobby Valentino & Kidd Kidd,False,19,16,21,Mrs. Officer,18
+Jim Jones & Ron Browz Featuring Juelz Santana,False,25,22,22,Pop Champagne,10
+Rihanna,False,22,1,23,Disturbia,27
+John Legend Featuring Andre 3000,False,24,24,24,Green Light,16
+Ludacris Co-Starring T-Pain,False,26,25,25,One More Drink,8
+Saving Abel,False,23,20,26,Addicted,28
+T-Pain Featuring Lil Wayne,False,18,7,27,Can't Believe It,21
+T-Pain Featuring Ludacris,False,27,27,28,Chopped 'N' Skrewed,10
+The Fray,False,30,15,29,You Found Me,5
+Leona Lewis,False,28,11,30,Better In Time,24
+Plies Featuring Chris J,False,65,31,31,Put It On Ya,5
+The Pussycat Dolls,False,58,32,32,I Hate This Part,4
+Akon Featuring Lil Wayne & Young Jeezy,False,31,31,33,I'm So Paid,10
+P!nk,False,49,34,34,Sober,4
+The Veronicas,False,40,35,35,Untouched,4
+Coldplay,False,32,1,36,Viva La Vida,33
+O.A.R.,False,36,36,37,Shattered (Turn The Car Around),20
+Montgomery Gentry,False,33,33,38,Roll With Me,15
+Fall Out Boy,False,62,21,39,I Don't Care,15
+David Cook,False,48,17,40,Light On,11
+The Killers,False,41,32,41,Human,12
+Ne-Yo,False,38,7,42,Closer,36
+Gavin Rossdale,False,35,27,43,Love Remains The Same,29
+Paramore,False,46,34,44,Decode,7
+David Archuleta,False,43,2,45,Crush,19
+Secondhand Serenade,False,44,21,46,Fall For You,28
+Usher,False,45,45,47,Trading Places,8
+Taylor Swift,False,51,13,48,White Horse,6
+Jamie Foxx Featuring T.I.,False,75,49,49,Just Like Me,2
+Sugarland,False,42,41,50,Already Gone,13
+Jay-Z & T.I. Featuring Kanye West & Lil Wayne,False,52,5,51,Swagga Like Us,15
+Jamey Johnson,False,53,52,52,In Color,12
+Jazmine Sullivan,False,39,31,53,Bust Your Windows,11
+Dierks Bentley,False,56,54,54,Feel That Fire,11
+Rascal Flatts,False,50,50,55,Here,12
+Brooks & Dunn Featuring Reba McEntire,False,60,56,56,Cowgirls Don't Cry,6
+Alan Jackson,False,57,57,57,Country Boy,8
+Blake Shelton,False,54,54,58,She Wouldn't Be Gone,9
+Brad Paisley Duet With Keith Urban,False,55,55,59,Start A Band,10
+Brandy,False,34,34,60,Right Here (Departed),15
+Ne-Yo,False,79,61,61,Mad,3
+Metro Station,False,82,62,62,Seventeen Forever,2
+Keyshia Cole Featuring 2Pac,False,67,63,63,Playa Cardz Right,6
+Billy Currington,False,63,63,64,Don't,9
+Toby Keith,False,66,65,65,God Love Her,5
+Christina Aguilera,False,59,7,66,Keeps Gettin' Better,12
+Lady Antebellum,False,70,67,67,Lookin' For A Good Time,11
+Akon Featuring Colby O'Donis & Kardinal Offishall,False,29,19,68,Beautiful,3
+Common Featuring Pharrell,False,73,69,69,Universal Mind Control,3
+Shinedown,False,76,70,70,Second Chance,4
+Kings Of Leon,False,72,56,71,Sex On Fire,9
+Carrie Underwood,False,61,29,72,Just A Dream,20
+Ne-Yo Featuring Jamie Foxx & Fabolous,False,93,73,73,She Got Her Own,2
+The Game Featuring Lil Wayne,False,64,21,74,My Life,20
+Keith Urban,False,74,43,75,Sweet Thing,6
+Musiq Soulchild Featuring Mary J. Blige,False,71,71,76,IfULeave,5
+The Offspring,False,77,68,77,"You're Gonna Go Far, Kid",11
+Matt Nathanson,False,81,63,78,Come On Get Higher,17
+Kenny Chesney With Mac McAnally,False,78,78,79,Down The Road,3
+Apocalyptica Featuring Adam Gontier,False,84,80,80,I Don't Care,10
+Leona Lewis,True,0,81,81,Run,1
+Tim McGraw,False,68,47,82,Let It Go,15
+T.I. Featuring Justin Timberlake,False,99,76,83,Dead And Gone,3
+Pitbull Featuring Lil Jon,False,83,30,84,Krazy,13
+Daughtry,False,85,18,85,What About Now,20
+Busta Rhymes Featuring Ron Browz,False,86,86,86,Arab Money,3
+Lifehouse,False,89,87,87,Broken,9
+Hinder,False,90,88,88,Without You,5
+George Strait,False,87,87,89,River Of Love,3
+Keri Hilson Featuring Lil Wayne,True,0,90,90,Turnin Me On,1
+Kenny Chesney With The Wailers,False,88,41,91,Everybody Wants To Go To Heaven,19
+Lady Gaga,True,0,92,92,Poker Face,1
+Avant,False,91,91,93,When It Hurts,2
+Theory Of A Deadman,False,95,75,94,Bad Girlfriend,12
+3OH!3,False,0,95,95,Don't Trust Me,2
+Beyonce,True,0,96,96,Diva,1
+Bobby V Featuring Yung Joc,True,0,97,97,Beep,1
+Randy Houser,False,92,92,98,Anything Goes,5
+The-Dream,True,0,99,99,Rockin' That Thang,1
+Darius Rucker,True,0,100,100,It Won't Be Like This For Long,1

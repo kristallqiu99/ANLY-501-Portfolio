@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Mario,False,2,1,1,Let Me Love You,11
+Snoop Dogg Featuring Pharrell,False,1,1,2,Drop It Like It's Hot,14
+Ciara Featuring Missy Elliott,False,3,3,3,"1, 2 Step",10
+Destiny's Child Featuring T.I. & Lil Wayne,False,7,4,4,Soldier,6
+Lil Jon & The East Side Boyz Featuring Usher & Ludacris,False,6,5,5,Lovers And Friends,6
+Usher And Alicia Keys,False,4,1,6,My Boo,17
+Nelly Featuring Tim McGraw,False,5,3,7,Over And Over,12
+Ja Rule Featuring R. Kelly & Ashanti,False,8,5,8,Wonderful,12
+Destiny's Child,False,9,3,9,Lose My Breath,15
+Gavin DeGraw,False,12,10,10,I Don't Want To Be,11
+50 Cent,False,13,11,11,Disco Inferno,4
+Kelly Clarkson,False,10,6,12,Breakaway,19
+Ludacris,False,18,13,13,Get Back,7
+Ashanti,False,14,14,14,Only U,7
+Trick Daddy Featuring Lil Jon & Twista,False,11,7,15,Let's Go,16
+The Game Featuring 50 Cent,False,23,16,16,How We Do,6
+Maroon 5,False,15,5,17,She Will Be Loved,24
+Green Day,False,27,18,18,Boulevard Of Broken Dreams,6
+Lloyd Banks Featuring Avant,False,25,19,19,Karma,7
+Ciara Featuring Petey Pablo,False,16,1,20,Goodies,28
+Switchfoot,False,19,17,21,Dare You To Move,14
+Lil Jon & The East Side Boyz Featuring Lil Scrappy,False,22,22,22,What U Gon' Do,9
+Jadakiss Featuring Mariah Carey,False,21,21,23,U Make Me Wanna,7
+Jay-Z/Linkin Park,False,37,24,24,Numb/Encore,6
+"Eminem, Dr. Dre & 50 Cent",False,26,25,25,Encore,7
+T.I.,False,35,26,26,Bring Em Out,6
+Ja Rule Featuring Fat Joe & Jadakiss,False,32,27,27,New York,7
+"N.O.R.E. Featuring Daddy Yankee, Nina Sky, Gem Star & Big Mato",False,17,12,28,Oye Mi Canto,19
+Ryan Cabrera,False,39,29,29,True,4
+John Mayer,False,34,30,30,Daughters,9
+Blake Shelton,False,28,28,31,Some Beach,10
+Anthony Hamilton,False,29,19,32,Charlene,18
+Fabolous,False,20,10,33,Breathe,16
+Lil Wayne,False,24,14,34,Go D.J.,14
+Tim McGraw,False,30,30,35,Back When,11
+Seether Featuring Amy Lee,False,31,20,36,Broken,18
+U2,False,36,31,37,Vertigo,13
+Kelly Clarkson,False,53,38,38,Since U Been Gone,3
+Finger Eleven,False,41,16,39,One Thing,24
+Jesse McCartney,False,49,40,40,Beautiful Soul,4
+Ryan Cabrera,False,42,15,41,On The Way Down,23
+Darryl Worley,False,44,42,42,"Awful, Beautiful Life",8
+JoJo Featuring Bow Wow,False,33,22,43,Baby It's You,13
+Alicia Keys,False,66,44,44,Karma,6
+Young Buck,False,38,17,45,Shorty Wanna Ride,12
+Simple Plan,False,40,40,46,Welcome To My Life,8
+Terror Squad,False,46,1,47,Lean Back,28
+Avril Lavigne,False,57,48,48,Nobody's Home,4
+Avril Lavigne,False,43,9,49,My Happy Ending,23
+Daddy Yankee,False,73,50,50,Gasolina,8
+Eminem,False,45,6,51,Just Lose It,13
+Gretchen Wilson,False,55,52,52,When I Think About Cheatin',4
+Rascal Flatts,False,62,53,53,Bless The Broken Road,3
+Dierks Bentley,False,51,49,54,How Am I Doin',11
+Brad Paisley,False,58,55,55,Mud On The Tires,5
+Keith Urban,False,56,56,56,You're My Better Half,5
+Gary Allan,False,50,32,57,Nothing On But The Radio,16
+Kenny Chesney,False,47,33,58,The Woman With You,12
+Chingy,False,52,20,59,Balla Baby,13
+LeAnn Rimes,False,60,59,60,Nothin 'Bout Love Makes Sense,8
+Lenny Kravitz,False,65,61,61,Lady,4
+Goo Goo Dolls,False,68,62,62,Give A Little Bit,6
+Lonestar,False,59,33,63,Mr. Mom,16
+Shania Twain With Billy Currington Or Mark McGrath,False,61,58,64,Party For Two,9
+Alan Jackson,False,67,64,65,Monday Morning Church,5
+The Killers,False,63,51,66,Somebody Told Me,18
+Gwen Stefani Featuring Eve,False,74,67,67,Rich Girl,2
+Bowling For Soup,False,64,23,68,1985,17
+Trillville Featuring Cutty,False,70,69,69,Some Cut,2
+Rupee,False,69,39,70,Tempted To Touch,13
+Keyshia Cole Featuring Shyne,False,82,71,71,I Changed My Mind,6
+Usher,False,76,72,72,Caught Up,4
+Reba McEntire,False,71,71,73,He Gets That From Me,3
+Eminem,True,0,74,74,Mockingbird,1
+Big & Rich,True,0,75,75,Holy Water,1
+Chevelle,False,72,68,76,Vitamin R (Leading Us Along),7
+Guerilla Black Featuring Mario Winans,False,78,77,77,You're The One,6
+Velvet Revolver,False,77,67,78,Fall To Pieces,15
+Breaking Benjamin,False,79,76,79,So Cold,17
+SHeDAISY,False,75,75,80,Come Home Soon,4
+Crossfade,False,81,81,81,Cold,22
+LL Cool J Featuring 7 Aurelius,False,54,26,82,Hush,15
+Terror Squad,False,84,62,83,Take Me Home,11
+Papa Roach,False,83,69,84,Getting Away With Murder,11
+Phil Vassar,False,80,38,85,In A Real Love,18
+Sugarland,False,89,86,86,Baby Girl,4
+Crime Mob Featuring Lil Scrappy,False,85,76,87,Knuck If You Buck,20
+Gwen Stefani,False,87,47,88,What You Waiting For?,12
+"Juvenile, Wacko & Skip",False,86,31,89,Nolia Clap,19
+Green Day,False,92,61,90,American Idiot,20
+Patti LaBelle Featuring Ron Isley,False,90,89,91,Gotta Go Solo,4
+Beyonce,False,93,57,92,Dangerously In Love,16
+Brooks & Dunn,False,88,38,93,That's What It's All About,19
+Nivea Featuring Lil Jon & YoungBloodZ,False,95,94,94,Okay,2
+Body Head Bangerz Featuring YoungBloodz,False,91,81,95,"I Smoke, I Drank",10
+Monchy & Alexandra,False,96,96,96,Perdidos,2
+Teena Marie Featuring Gerald Levert,True,0,97,97,A Rose By Any Other Name,1
+2Pac Featuring Nate Dogg,True,0,98,98,Thugs Get Lonely Too,1
+Anita Baker,False,99,74,99,You're My Everything,20
+Mannie Fresh,False,0,79,100,Real Big,11

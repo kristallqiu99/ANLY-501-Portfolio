@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Flo Rida,False,1,1,1,Right Round,8
+Lady Gaga,False,3,2,2,Poker Face,14
+Soulja Boy Tell 'em Featuring Sammie,False,4,3,3,Kiss Me Thru The Phone,13
+T.I. Featuring Justin Timberlake,False,2,2,4,Dead And Gone,16
+The All-American Rejects,False,6,4,5,Gives You Hell,19
+Kelly Clarkson,False,5,1,6,My Life Would Suck Without You,10
+Jamie Foxx Featuring T-Pain,False,8,7,7,Blame It,10
+Kanye West,False,7,2,8,Heartless,20
+Carrie Underwood Featuring Randy Travis,False,57,9,9,I Told You So,6
+Lady Gaga Featuring Colby O'Donis,False,10,1,10,Just Dance,33
+Miley Cyrus,False,9,6,11,The Climb,3
+Ne-Yo,False,12,11,12,Mad,16
+Taylor Swift,False,13,4,13,Love Story,28
+Asher Roth,False,17,14,14,I Love College,6
+Keri Hilson Featuring Lil Wayne,False,15,15,15,Turnin Me On,14
+The Fray,False,16,7,16,You Found Me,18
+Britney Spears,False,14,3,17,Circus,16
+Kid Cudi,False,23,18,18,Day 'N' Nite,10
+P!nk,False,20,15,19,Sober,17
+Akon Featuring Colby O'Donis & Kardinal Offishall,False,19,19,20,Beautiful,16
+Rascal Flatts,False,11,11,21,Here Comes Goodbye,4
+"Eminem, Dr. Dre & 50 Cent",False,18,1,22,Crack A Bottle,10
+The-Dream,False,22,22,23,Rockin' That Thang,13
+Jason Mraz,False,25,6,24,I'm Yours,49
+Flo Rida Featuring Wynter,True,0,25,25,Sugar,1
+Britney Spears,False,35,26,26,If U Seek Amy,6
+Ciara Featuring Justin Timberlake,False,86,27,27,Love Sex Magic,2
+Beyonce,False,32,28,28,Halo,9
+Kevin Rudolf Featuring Lil Wayne,False,26,5,29,Let It Rock,30
+Beyonce,False,24,1,30,Single Ladies (Put A Ring On It),23
+The Pussycat Dolls,False,27,11,31,I Hate This Part,17
+Taylor Swift,False,29,13,32,White Horse,19
+Lil Wayne,True,0,33,33,Hot Revolver,1
+Katy Perry,False,28,3,34,Hot N Cold,34
+Brad Paisley,True,0,35,35,Then,1
+Jesse McCartney Featuring Ludacris,False,34,33,36,How Do You Sleep?,7
+Coldplay,False,33,1,37,Viva La Vida,46
+Beyonce,False,30,19,38,Diva,14
+T.I. Featuring Rihanna,False,31,1,39,Live Your Life,26
+Shinedown,False,39,39,40,Second Chance,17
+Darius Rucker,False,36,36,41,It Won't Be Like This For Long,12
+3OH!3,False,45,42,42,Don't Trust Me,15
+Jason Aldean,False,42,42,43,She's Country,10
+Pitbull,False,50,44,44,I Know You Want Me (Calle Ocho),4
+Nickelback,False,37,10,45,Gotta Be Somebody,25
+Plain White T's,False,49,46,46,"1, 2, 3, 4",9
+Yung L.A. Featuring Young Dro & T.I.,False,47,47,47,Ain't I,8
+A R Rahman & The Pussycat Dolls Featuring Nicole Scherzinger,False,48,15,48,Jai Ho! (You Are My Destiny),5
+P!nk,False,46,1,49,So What,31
+Keith Urban,False,38,30,50,Sweet Thing,19
+Katy Perry,False,44,29,51,Thinking Of You,10
+The Veronicas,False,41,17,52,Untouched,17
+Rascal Flatts,True,0,53,53,Forever,1
+The Black Eyed Peas,False,71,54,54,Boom Boom Pow,2
+GS Boyz,False,55,49,55,Stanky Legg,7
+Rodney Atkins,False,53,52,56,It's America,5
+Maino Featuring T-Pain,False,43,39,57,All The Above,4
+Jake Owen,False,58,57,58,Don't Think I Can't Love You,8
+George Strait,False,59,59,59,River Of Love,15
+Jason Mraz & Colbie Caillat,False,60,48,60,Lucky,11
+Soulja Boy Tell'em,False,69,61,61,Turn My Swag On,3
+Carrie Underwood,False,21,21,62,Home Sweet Home,2
+The White Tie Affair,False,67,63,63,Candle (Sick And Tired),3
+Brooks & Dunn Featuring Reba McEntire,False,52,44,64,Cowgirls Don't Cry,19
+Birdman Featuring Lil Wayne,True,0,65,65,Always Strapped,1
+Toby Keith,False,54,36,66,God Love Her,18
+The Ting Tings,False,64,64,67,That's Not My Name,11
+Miley Cyrus,False,56,56,68,Hoedown Throwdown,2
+Bow Wow Featuring Johnta Austin,False,76,69,69,You Can Get It All,3
+Kings Of Leon,False,66,64,70,Use Somebody,8
+Keyshia Cole,False,62,62,71,You Complete Me,7
+Mims,False,65,61,72,Move (If You 'W'anna),9
+Sugarland,False,74,73,73,It Happens,3
+Tim McGraw,False,68,68,74,Nothin' To Die For,6
+Mike Jones,False,77,75,75,Next To You,3
+Seether,False,78,76,76,Careless Whisper,3
+Rick Ross Featuring John Legend,False,87,77,77,Magnificent,3
+Lil Wayne Featuring Shanell AKA SNL,False,80,15,78,Prom Queen,8
+Kenny Chesney With Mac McAnally,False,63,47,79,Down The Road,16
+Bobby V Featuring Yung Joc,False,61,55,80,Beep,12
+The Lonely Island Featuring T-Pain,False,75,65,81,I'm On A Boat,6
+Jazmine Sullivan,False,81,74,82,"Lions, Tigers & Bears",7
+Zac Brown Band,False,94,83,83,Whatever It Is,2
+Demi Lovato,False,0,68,84,Don't Forget,2
+Ciara Featuring Young Jeezy,False,82,72,85,Never Ever,5
+Keith Urban,False,51,51,86,Kiss A Girl,2
+John Rich,False,79,75,87,Shuttin' Detroit Down,4
+Jennifer Hudson,False,84,84,88,If This Isn't Love,4
+Ne-Yo Featuring Jamie Foxx & Fabolous,False,73,54,89,She Got Her Own,15
+Jamie Foxx Featuring T.I.,False,72,49,90,Just Like Me,15
+Pleasure P,True,0,91,91,Boyfriend #2,1
+Musiq Soulchild,False,98,92,92,sobeautiful,2
+Martina McBride,False,88,88,93,Ride,4
+Keith Urban,True,0,94,94,I'm In,1
+Taylor Swift,False,40,11,95,You're Not Sorry,5
+Gorilla Zoe,False,95,71,96,Lost,11
+Eli Young Band,True,0,97,97,Always The Love Songs,1
+Montgomery Gentry,False,100,98,98,One In Every Crowd,2
+MGMT,False,92,91,99,Kids,3
+Lady Antebellum,True,0,100,100,I Run To You,1

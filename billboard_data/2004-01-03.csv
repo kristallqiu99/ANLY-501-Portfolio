@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+OutKast,False,1,1,1,Hey Ya!,12
+OutKast Featuring Sleepy Brown,False,2,2,2,The Way You Move,15
+Kelis,False,3,3,3,Milkshake,14
+Alicia Keys,False,5,4,4,You Don't Know My Name,8
+Ludacris Featuring Shawnna,False,4,1,5,Stand Up,18
+Jagged Edge,False,6,6,6,Walked Outta Heaven,18
+Baby Bash Featuring Frankie J,False,8,7,7,Suga Suga,20
+3 Doors Down,False,7,5,8,Here Without You,19
+Twista Featuring Kanye West & Jamie Foxx,False,18,9,9,Slow Jamz,5
+Beyonce,False,17,10,10,"Me, Myself And I",8
+No Doubt,False,14,11,11,It's My Life,10
+Nickelback,False,16,12,12,Someday,20
+Beyonce Featuring Sean Paul,False,12,1,13,Baby Boy,21
+Chingy Featuring Ludacris & Snoop Dogg,False,9,3,14,Holidae In,16
+YoungBloodZ Featuring Lil Jon,False,13,4,15,Damn!,22
+R. Kelly,False,11,9,16,Step In The Name Of Love,20
+JAY-Z,False,10,10,17,Change Clothes,8
+Lil Jon & The East Side Boyz Featuring Ying Yang Twins,False,15,2,18,Get Low,36
+Avant,False,19,19,19,Read Your Mind,14
+Tupac Featuring The Notorious B.I.G.,False,20,19,20,Runnin (Dying To Live),12
+Santana Featuring Alex Band Or Chad Kroeger,False,22,8,21,Why Don't You & I,24
+Trapt,False,25,16,22,Headstrong,37
+Dido,False,26,23,23,White Flag,16
+Linkin Park,False,27,24,24,Numb,9
+G Unit,False,21,13,25,Stunt 101,10
+Murphy Lee Featuring Jermaine Dupri,False,23,17,26,Wat Da Hook Gon Be,13
+Nick Cannon Featuring R. Kelly,False,33,27,27,Gigolo,8
+Staind,False,28,24,28,So Far Away,23
+Simple Plan,False,24,24,29,Perfect,10
+Sheryl Crow,False,30,30,30,The First Cut Is The Deepest,11
+Kenny Chesney,False,29,29,31,There Goes My Life,9
+Ying Yang Twins Featuring Lil Jon & The East Side Boyz,False,34,32,32,Salt Shaker,8
+Kanye West,False,39,33,33,Through The Wire,6
+Alan Jackson,False,44,34,34,Remember When,4
+matchbox twenty,False,31,23,35,Bright Lights,15
+Christina Aguilera,False,36,36,36,The Voice Within,6
+Liz Phair,False,32,32,37,Why Can't I?,16
+Westside Connection Featuring Nate Dogg,False,52,38,38,Gangsta Nation,5
+Brooks & Dunn,False,42,39,39,You Can't Take The Honky Tonk Out Of The Girl,9
+Eamon,False,58,40,40,F**k It (I Don't Want You Back),5
+"Nelly, P. Diddy & Murphy Lee",False,40,1,41,Shake Ya Tailfeather,28
+Toby Keith,False,41,26,42,I Love This Bar,18
+Clay Aiken,False,43,43,43,Invisible,7
+Stacie Orrico,False,38,30,44,(There's Gotta Be) More To Life,16
+Jessica Simpson,False,65,45,45,With You,2
+Bow Wow Featuring Jagged Edge,False,54,46,46,My Baby,5
+Mary J. Blige Featuring Eve,False,47,47,47,Not Today,4
+Maroon 5,False,37,18,48,Harder To Breathe,20
+matchbox twenty,False,48,5,49,Unwell,42
+Michelle Branch,False,45,36,50,Breathe,9
+Sarah McLachlan,False,51,51,51,Fallen,11
+Cassidy Featuring R. Kelly,False,71,52,52,Hotel,3
+Musiq,False,53,53,53,Forthenight,9
+Toby Keith,False,69,54,54,American Soldier,2
+Three Days Grace,False,55,55,55,(I Hate) Everything About You,6
+Joe,False,49,48,56,More & More,7
+Tim McGraw,False,61,57,57,Watch The Wind Blow By,4
+Ruben Studdard,True,0,58,58,Sorry 2004,1
+Rodney Atkins,False,59,59,59,Honesty (Write Me A List),14
+Terri Clark,False,60,60,60,I Wanna Do It All,4
+Mya,False,57,56,61,Fallen,6
+Shania Twain,False,62,62,62,She's Not Just A Pretty Face,5
+George Strait,False,46,38,63,Cowboys Like Us,14
+Brad Paisley,False,72,64,64,Little Moments,3
+B2K Featuring Fabolous,False,79,65,65,Badaboom,3
+Tracy Byrd,False,66,66,66,Drinkin' Bone,6
+Jet,False,73,67,67,Are You Gonna Be My Girl,3
+The Offspring,False,74,68,68,Hit That,3
+Montgomery Gentry,False,64,45,69,Hell Yeah,10
+Chris Cagle,False,56,53,70,Chicks Dig It,10
+Ashanti,False,50,7,71,Rain On Me,19
+Marques Houston Featuring Joe Budden & Pied Piper,False,63,39,72,Clubbin,18
+Puddle Of Mudd,False,76,72,73,Away From Me,7
+Ludacris,True,0,74,74,Splash Waterfalls,1
+Incubus,True,0,75,75,Megalomaniac,1
+"Marques Houston Featuring Jermaine ""JD"" Dupri",False,82,76,76,Pop That Booty,4
+Fountains Of Wayne,False,70,21,77,Stacy's Mom,13
+Missy Elliott,False,68,27,78,Pass That Dutch,12
+Pat Green,False,77,39,79,Wave On Wave,19
+Trapt,False,80,69,80,Still Frame,8
+Rascal Flatts,False,78,34,81,I Melt,20
+Sean Paul Featuring Sasha,True,0,82,82,I'm Still In Love With You,1
+Britney Spears Featuring Madonna,False,81,35,83,Me Against The Music,11
+Ginuwine,False,83,78,84,Love You More,10
+Big Tymers Featuring R. Kelly,False,97,85,85,Gangsta Girl,2
+Lonestar,False,75,61,86,Walking In Memphis,9
+A Perfect Circle,False,89,61,87,Weak And Powerless,15
+Gary Allan,False,87,32,88,Tough Little Boys,20
+Juvenile Featuring Mannie Fresh,True,0,89,89,In My Life,1
+Barenaked Ladies,False,86,82,90,Another Postcard (Chimps),12
+Lasgo,False,95,91,91,Alone,2
+Ryan Duarte,False,92,92,92,You,2
+Too Short Featuring Lil Jon & The East Side Boyz,False,94,92,93,Shake That Monkey,7
+John Mayer,False,90,33,94,Bigger Than My Body,19
+Josh Turner,False,91,91,95,Long Black Train,4
+Trillville,False,96,96,96,Neva Eva,3
+Live,False,85,59,97,Heaven,19
+Monica,False,84,75,98,Knock Knock,15
+Petey Pablo,True,0,99,99,Freek-A-Leek,1
+Michael Jackson,False,100,83,100,One More Chance,5

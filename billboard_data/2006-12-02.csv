@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Akon Featuring Snoop Dogg,False,17,1,1,I Wanna Love You,8
+Akon Featuring Eminem,False,2,2,2,Smack That,9
+Beyonce,False,4,3,3,Irreplaceable,5
+Justin Timberlake Featuring T.I.,False,1,1,4,My Love,11
+Fergie,False,3,3,5,Fergalicious,9
+Hinder,False,5,3,6,Lips Of An Angel,19
+Ludacris Featuring Pharrell,False,6,1,7,Money Maker,15
+The Fray,False,7,3,8,How To Save A Life,32
+Snow Patrol,False,9,5,9,Chasing Cars,27
+Bow Wow Featuring Chris Brown & Johnta Austin,False,14,10,10,Shortie Like Mine,7
+Justin Timberlake,False,10,1,11,SexyBack,20
+The All-American Rejects,False,11,11,12,It Ends Tonight,8
+JAY-Z,False,8,8,13,Show Me What You Got,7
+Chris Brown,False,12,10,14,Say Goodbye,15
+Nickelback,False,13,8,15,Far Away,18
+Jim Jones,False,19,16,16,We Fly High,7
+JoJo,False,15,3,17,Too Little Too Late,14
+Unk,False,21,18,18,Walk It Out,11
+Carrie Underwood,False,16,16,19,Before He Cheats,12
+Evanescence,False,22,10,20,Call Me When You're Sober,14
+Diddy Featuring Nicole Scherzinger,False,20,9,21,Come To Me,12
+John Mayer,False,27,20,22,Waiting On The World To Change,19
+Christina Aguilera,False,23,22,23,Hurt,8
+Birdman & Lil Wayne,False,24,21,24,Stuntin' Like My Daddy,12
+Gwen Stefani,False,36,25,25,Wind It Up,3
+Danity Kane,False,18,8,26,Show Stopper,14
+My Chemical Romance,False,25,13,27,Welcome To The Black Parade,10
+Ciara Featuring Chamillionaire,False,29,7,28,Get Up,17
+Lil Scrappy Featuring Young Buck,False,37,29,29,Money In The Bank,10
+Paula DeAnda Featuring The DEY,False,43,30,30,Walk Away (Remember Me),7
+Rascal Flatts,False,28,28,31,My Wish,11
+Fergie,False,30,1,32,London Bridge,18
+Sugarland,False,32,32,33,Want To,9
+Ciara,False,45,34,34,Promise,2
+Brad Paisley,False,35,35,35,She's Everything,7
+"""Weird Al"" Yankovic",False,26,9,36,White & Nerdy,8
+The Pussycat Dolls Featuring Snoop Dogg,False,38,3,37,Buttons,28
+Tim McGraw,False,41,35,38,My Little Girl,10
+The Killers,False,39,14,39,When You Were Young,15
+Rascal Flatts,False,33,6,40,What Hurts The Most,42
+Kenny Chesney,False,42,41,41,You Save Me,12
+The Fray,False,44,8,42,Over My Head (Cable Car),41
+Gnarls Barkley,False,40,2,43,Crazy,29
+Jibbs,False,34,7,44,Chain Hang Low,16
+KT Tunstall,False,52,45,45,Suddenly I See,19
+The Game,True,0,46,46,Let's Ride,1
+Fat Joe Featuring Lil Wayne,False,55,47,47,Make It Rain,3
+Taylor Swift,False,47,47,48,Tim McGraw,11
+Keith Urban,False,31,31,49,Once In A Lifetime,12
+Cherish,False,57,50,50,Unappreciated,8
+Stone Sour,False,56,51,51,Through Glass,16
+Nelly Furtado,False,50,16,52,Maneater,10
+The Pussycat Dolls Featuring Timbaland,False,77,53,53,Wait A Minute,2
+Lady Sovereign,False,53,45,54,Love Me Or Hate Me (F**k You!!!!),6
+Diddy Featuring Christina Aguilera,False,60,55,55,Tell Me,5
+Heartland,False,51,34,56,I Loved Her First,15
+Mario Vazquez,False,49,35,57,Gallery,18
+Brooke Hogan Featuring Paul Wall,False,58,33,58,About Us,15
+Beyonce,False,54,11,59,Ring The Alarm,11
+Mary J. Blige,False,61,58,60,Take Me As I Am,9
+Vanessa Hudgens,False,64,61,61,Come Back To Me,10
+Rodney Atkins,False,75,62,62,Watching You,3
+Rick Ross,False,62,57,63,Push It,12
+Montgomery Gentry,False,69,64,64,Some People Change,6
+U2 & Green Day,True,0,65,65,The Saints Are Coming,1
+Nelly Furtado,False,93,66,66,Say It Right,2
+Augustana,False,67,54,67,Boston,7
+Rob Thomas,False,73,68,68,Streetcorner Symphony,8
+Chingy Featuring Jermaine Dupri,False,90,69,69,Dem Jeans,3
+Plain White T's,False,68,68,70,Hate (I Really Don't Like You),3
+The Game Featuring Junior Reid,False,96,71,71,It's Okay (One Blood),14
+RBD,False,71,65,72,Tu Amor,5
+George Strait,False,78,73,73,It Just Comes Natural,3
+OK Go,False,72,38,74,Here It Goes Again,12
+Dierks Bentley,False,63,48,75,Every Mile A Memory,15
+Lionel Richie,False,74,62,76,I Call It Love,18
+Nickelback,False,76,76,77,Rockstar,8
+Shareefa Featuring Ludacris,False,66,62,78,Need A Boss,17
+George Strait,False,65,35,79,Give It Away,16
+Jason Aldean,False,80,80,80,Amarillo Sky,6
+Lyfe Jennings,False,70,37,81,S.E.X.,18
+Lonestar,False,87,82,82,Mountains,8
+Hellogoodbye,False,84,83,83,Here (In Your Arms),3
+Beyonce Featuring Jay Z,False,86,84,84,Upgrade U,3
+Snoop Dogg Featuring R. Kelly,True,0,85,85,That's That,1
+Lloyd Featuring Lil Wayne,False,94,86,86,You,2
+30 Seconds To Mars,False,85,65,87,The Kill (Bury Me),18
+Red Hot Chili Peppers,False,79,50,88,Tell Me Baby,14
+(+44),True,0,89,89,When Your Heart Stops Beating,1
+Breaking Benjamin,False,91,50,90,The Diary Of Jane,17
+Ludacris Featuring Mary J. Blige,True,0,91,91,Runaway Love,1
+Jack Ingram,False,88,87,92,Love You,6
+John Legend,False,95,61,93,Save Room,4
+Webstar & Young B Featuring The Voice Of Harlem,False,83,45,94,Chicken Noodle Soup.,11
+Monica Featuring Dem Franchize Boyz,False,89,48,95,Everytime Tha Beat Drop,16
+Five For Fighting,False,81,40,96,The Riddle,18
+Mat Kearney,False,92,92,97,Nothing Left To Lose,6
+The Red Jumpsuit Apparatus,False,98,76,98,Face Down,15
+Hannah Montana,False,82,47,99,If We Were A Movie,4
+Young Jeezy,True,0,100,100,I Luv It,1

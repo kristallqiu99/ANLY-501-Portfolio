@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Adele,False,1,1,1,Rolling In The Deep,24
+"Pitbull Featuring Ne-Yo, Afrojack & Nayer",False,2,2,2,Give Me Everything,12
+LMFAO Featuring Lauren Bennett & GoonRock,False,3,3,3,Party Rock Anthem,13
+Katy Perry,False,31,4,4,Last Friday Night (T.G.I.F.),4
+Katy Perry Featuring Kanye West,False,4,1,5,E.T.,19
+Lady Gaga,False,6,3,6,The Edge Of Glory,6
+Jason Aldean,False,9,7,7,Dirt Road Anthem,11
+Nicki Minaj,False,10,8,8,Super Bass,8
+Bruno Mars,False,5,4,9,The Lazy Song,17
+Lupe Fiasco,False,11,9,10,The Show Goes On,25
+The Black Eyed Peas,False,8,3,11,Just Can't Get Enough,18
+Jennifer Lopez Featuring Pitbull,False,7,3,12,On The Floor,17
+Lil Wayne,False,13,12,13,How To Love,4
+Jason Derulo,False,18,14,14,Don't Wanna Go Home,5
+Britney Spears Featuring Nicki Minaj & Ke$ha,False,12,3,15,Till The World Ends,16
+Bad Meets Evil Featuring Bruno Mars,True,0,16,16,Lighters,1
+OneRepublic,False,20,16,17,Good Life,12
+Chris Brown Featuring Lil Wayne & Busta Rhymes,False,15,6,18,Look At Me Now,20
+"DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",False,17,10,19,I'm On One,5
+Hot Chelle Rae,False,22,20,20,Tonight Tonight,10
+Blake Shelton,False,21,13,21,Honey Bee,11
+Selena Gomez & The Scene,False,27,22,22,Who Says,14
+Wiz Khalifa,False,16,13,23,Roll Up,19
+Kelly Rowland Featuring Lil Wayne,False,23,21,24,Motivation,10
+Ke$ha,False,19,7,25,Blow,22
+Lady Antebellum,False,24,7,26,Just A Kiss,7
+Zac Brown Band Featuring Jimmy Buffett,False,29,27,27,Knee Deep,6
+Luke Bryan,False,28,22,28,Country Girl (Shake It For Me),9
+CeeLo Green,False,26,2,29,F**k You! (Forget You),43
+Jeremih Featuring 50 Cent,False,25,4,30,Down On Me,32
+Taylor Swift,False,37,11,31,Mean,14
+Brad Paisley Duet With Carrie Underwood,False,59,32,32,Remind Me,2
+Chris Brown,False,39,33,33,She Ain't You,10
+Big Sean Featuring Chris Brown,False,43,34,34,My Last,13
+Rihanna Featuring Britney Spears,False,30,1,35,S&M,23
+The Band Perry,False,46,19,36,If I Die Young,30
+P!nk,False,33,2,37,F**kin' Perfect,25
+The Script,False,35,23,38,For The First Time,25
+Tinie Tempah Featuring Eric Turner,False,32,12,39,Written In The Stars,18
+Katy Perry,False,40,1,40,Firework,35
+Enrique Iglesias With Usher Featuring Lil Wayne,False,47,18,41,Dirty Dancer,6
+The Band Perry,False,42,42,42,You Lie,16
+Jessie J Featuring B.o.B,False,34,23,43,Price Tag,20
+Miguel,False,41,36,44,Sure Thing,15
+Chris Young,False,45,45,45,Tomorrow,15
+Martin Solveig & Dragonette,False,48,46,46,Hello,11
+Kanye West,False,38,18,47,All Of The Lights,25
+Bruno Mars,False,44,1,48,Just The Way You Are,48
+Jake Owen,False,51,49,49,Barefoot Blue Jean Night,8
+Kenny Chesney Featuring Grace Potter,False,57,50,50,You And Tequila,4
+T-Pain Featuring Chris Brown,False,52,33,51,Best Love Song,13
+Coldplay,False,14,14,52,Every Teardrop Is A Waterfall,3
+Rihanna,False,60,53,53,California King Bed,5
+David Guetta Featuring Flo Rida & Nicki Minaj,False,58,14,54,Where Them Girls At,7
+Justin Moore,False,55,55,55,If Heaven Wasn't So Far Away,13
+Lady Gaga,False,49,1,56,Born This Way,19
+Dia Frampton,False,78,57,57,Heartless,2
+Brad Paisley Featuring Alabama,False,53,38,58,Old Alabama,11
+Eric Church,False,62,59,59,Homeboy,14
+New Boyz Featuring The Cataracs & Dev,False,50,26,60,Backseat,18
+Rihanna,False,63,61,61,Man Down,4
+Maroon 5,False,65,62,62,Never Gonna Leave This Bed,8
+Keith Urban,False,54,52,63,Without You,15
+Javier Colon,True,0,64,64,Angel,1
+Eli Young Band,False,69,59,65,Crazy Girl,15
+Shania Twain,True,0,66,66,Today Is Your Day,1
+Taylor Swift,False,66,41,67,The Story Of Us,7
+Dierks Bentley,False,67,67,68,Am I The Only One,7
+YC Featuring Future,False,61,42,69,Racks,12
+Foster The People,False,72,70,70,Pumped Up Kicks,8
+Beyonce,False,75,71,71,Best Thing I Never Had,3
+Scotty McCreery,False,68,11,72,I Love You This Big,4
+Nicole Scherzinger Featuring 50 Cent,False,80,73,73,Right There,5
+Lupe Fiasco Featuring Trey Songz,False,70,70,74,Out Of My Head,4
+Pitbull Featuring Marc Anthony,True,0,75,75,Rain Over Me,1
+Vicci Martinez,True,0,76,76,Jolene,1
+Rodney Atkins,False,83,77,77,Take A Back Road,3
+Beyonce,False,64,29,78,Run The World (Girls),9
+Lil Wayne Featuring Rick Ross,False,76,22,79,John,13
+Dr. Dre Featuring Eminem & Skylar Grey,False,71,4,80,I Need A Doctor,20
+Andy Grammer,False,85,81,81,Keep Your Head Up,3
+Trey Songz Featuring Drake,False,87,82,82,Unusual,3
+Trace Adkins,False,89,83,83,Just Fishin',3
+Marsha Ambrosius,False,82,74,84,Far Away,14
+Gym Class Heroes Featuring Adam Levine,True,0,85,85,Stereo Hearts,1
+Ace Hood,False,79,60,86,Hustle Hard,11
+Seether,False,81,72,87,Country Song,14
+Miranda Lambert,False,77,44,88,Heart Like Mine,19
+Britney Spears,False,0,73,89,I Wanna Go,2
+Casey Weston,True,0,90,90,Black Horse And The Cherry Tree,1
+Mumford & Sons,False,84,27,91,The Cave,20
+Joe Jonas,True,0,92,92,See No More,1
+Jennifer Lopez Featuring Lil Wayne,False,88,72,93,I'm Into You,5
+Victorious Cast Featuring Victoria Justice,False,86,86,94,Best Friend's Brother,3
+Kirk Franklin,False,90,85,95,I Smile,13
+Afrojack Featuring Eva Simons,True,0,96,96,Take Over Control,1
+Toby Keith,False,95,95,97,Made In America,2
+Billy Currington,True,0,98,98,Love Done Gone,1
+Xenia,True,0,99,99,Price Tag,1
+Paramore,False,36,36,100,Monster,2

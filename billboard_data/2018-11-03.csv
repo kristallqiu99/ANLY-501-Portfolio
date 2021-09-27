@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Maroon 5 Featuring Cardi B,False,1,1,1,Girls Like You,22
+Travis Scott,False,7,2,2,Sicko Mode,12
+Juice WRLD,False,3,2,3,Lucid Dreams,24
+Marshmello & Bastille,False,6,4,4,Happier,10
+Post Malone,False,4,3,5,Better Now,26
+Kodak Black Featuring Travis Scott & Offset,False,2,2,6,ZEZE,2
+5 Seconds Of Summer,False,9,7,7,Youngblood,21
+Lil Baby & Gunna,False,8,4,8,Drip Too Hard,6
+Post Malone & Swae Lee,True,0,9,9,Sunflower (Spider-Man: Into The Spider-Verse),1
+Khalid & Normani,False,14,9,10,Love Lies,36
+"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",False,16,11,11,Taki Taki,4
+Halsey,False,23,12,12,Without Me,3
+Bad Bunny Featuring Drake,False,5,5,13,MIA,2
+Lady Gaga & Bradley Cooper,False,10,5,14,Shallow,4
+Imagine Dragons,False,13,13,15,Natural,14
+Sheck Wes,False,21,16,16,Mo Bamba,9
+"Cardi B, Bad Bunny & J Balvin",False,12,1,17,I Like It,29
+Ella Mai,False,11,11,18,Trip,12
+Tyga Featuring Offset,False,17,8,19,Taste,22
+"benny blanco, Halsey & Khalid",False,22,20,20,Eastside,15
+Panic! At The Disco,False,27,21,21,High Hopes,12
+Drake,False,20,2,22,Nonstop,17
+Drake,False,15,1,23,In My Feelings,17
+Ariana Grande,False,19,8,24,God Is A Woman,15
+6ix9ine Featuring Nicki Minaj & Murda Beatz,False,18,3,25,FEFE,14
+Future & Juice WRLD,True,0,26,26,Fine China,1
+Lil Baby & Drake,False,28,6,27,Yes Indeed,24
+Selena Gomez,False,24,18,28,Back To You,24
+"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",False,29,16,29,Big Bank,21
+lovelytheband,False,33,30,30,Broken,15
+Bazzi Featuring Camila Cabello,False,32,31,31,Beautiful,12
+Ella Mai,False,25,5,32,Boo'd Up,30
+Lil Wayne,False,36,7,33,Uproar,4
+Khalid,False,71,34,34,Better,6
+Kanye West & Lil Pump,False,26,6,35,I Love It,7
+Bebe Rexha,False,37,36,36,I'm A Mess,15
+Luke Combs,False,44,37,37,She Got The Best Of Me,11
+Taylor Swift,False,34,12,38,Delicate,33
+Gucci Mane X Bruno Mars X Kodak Black,False,41,30,39,Wake Up In The Sky,6
+Lauv,False,39,27,40,I Like Me Better,37
+Ariana Grande,False,52,22,41,Breathin,10
+Lil Baby,False,30,28,42,Close Friends,3
+XXXTENTACION,False,40,1,43,Sad!,34
+Post Malone Featuring Ty Dolla $ign,False,38,1,44,Psycho,35
+Cardi B Featuring Kehlani,False,46,28,45,Ring,14
+Dan + Shay,False,47,21,46,Tequila,33
+"Zedd, Maren Morris & Grey",False,43,5,47,The Middle,39
+6ix9ine Featuring Bobby Shmurda,False,51,25,48,STOOPID,3
+Lil Baby & Gunna Featuring Drake,False,35,15,49,Never Recover,3
+Ariana Grande,False,49,3,50,No Tears Left To Cry,27
+NF,False,58,51,51,Lie,13
+Dan + Shay,False,63,52,52,Speechless,7
+Flipp Dinero,False,76,53,53,Leave Me Alone,6
+Cardi B,True,0,54,54,Money,1
+Lil Wayne Featuring Kendrick Lamar,False,42,2,55,Mona Lisa,4
+Kane Brown,False,66,56,56,Lose It,15
+Lady Gaga,False,50,41,57,Always Remember Us This Way,3
+Lil' Duval Featuring Snoop Dogg & Ball Greezy,False,59,56,58,Smile (Living My Best Life),9
+Quavo,False,53,52,59,W O R K I N  M E,11
+Tiesto & Dzeko Featuring Preme & Post Malone,False,62,52,60,Jackie Chan,16
+Jimmie Allen,False,69,61,61,Best Shot,6
+Shawn Mendes X Zedd,False,68,62,62,Lost In Japan,5
+Mitchell Tenpenny,False,72,63,63,Drunk Me,11
+Bryce Vine,False,64,46,64,Drew Barrymore,11
+Billie Eilish,True,0,65,65,When The Party's Over,1
+Lil Peep & XXXTENTACION,False,55,13,66,Falling Down,6
+Lady Gaga,False,54,36,67,I'll Never Love Again,3
+French Montana Featuring Drake,False,67,47,68,No Stylist,5
+Meek Mill Featuring Jeremih & PnB Rock,False,73,69,69,Dangerous,10
+Russell Dickerson,False,65,52,70,Blue Tacoma,10
+Chris Young,False,78,71,71,Hangin' On,8
+Future & Juice WRLD Featuring Young Scooter,True,0,72,72,Jet Lag,1
+"DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",False,45,5,73,No Brainer,13
+Eminem,False,57,43,74,Venom,4
+Lauren Daigle,False,75,44,75,You Say,15
+Cole Swindell,False,56,49,76,Break Up In The End,16
+Calvin Harris & Sam Smith,False,80,65,77,Promises,10
+Eminem Featuring Joyner Lucas,False,74,6,78,Lucky You,8
+Eminem,False,70,3,79,Killshot,6
+Lil Mosey,False,92,80,80,Noticed,5
+Maren Morris,False,85,81,81,Rich,3
+Future & Juice WRLD,True,0,82,82,Astronauts,1
+Khalid & Kane Brown,True,0,83,83,Saturday Nights,1
+Old Dominion,False,79,48,84,Hotel Key,17
+Daniel Caesar Featuring H.E.R.,False,81,75,85,Best Part,14
+Yella Beezy,False,82,69,86,That's On Me,13
+Chris Janson,False,87,82,87,Drunk Girl,9
+Khalid Featuring Empress Of,True,0,88,88,Suncity,1
+Khalid,True,0,89,89,Vertigo,1
+Lil Uzi Vert,False,77,24,90,New Patek,6
+Lil Yachty Featuring Juice WRLD,True,0,91,91,Yacht Club,1
+Juice WRLD,True,0,92,92,Make It Back,1
+Dua Lipa & BLACKPINK,True,0,93,93,Kiss And Make Up,1
+Eric Church,False,89,68,94,Desperate Man,12
+Pardison Fontaine Featuring Cardi B,False,0,92,95,Backin' It Up,2
+Weezer,False,84,51,96,Africa,15
+Silk City x Dua Lipa,False,97,96,97,Electricity,3
+Lil Yachty Featuring Playboi Carti,True,0,98,98,Get Dripped,1
+Jason Aldean Featuring Miranda Lambert,False,98,32,99,Drowns The Whiskey,18
+Dierks Bentley Featuring Brothers Osborne,True,0,100,100,Burning Man,1

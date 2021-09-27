@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Bruno Mars,False,1,1,1,Locked Out Of Heaven,12
+Rihanna,False,2,1,2,Diamonds,13
+The Lumineers,False,3,3,3,Ho Hey,29
+Taylor Swift,False,10,3,4,I Knew You Were Trouble.,10
+Justin Bieber Featuring Nicki Minaj,False,7,5,5,Beauty And A Beat,11
+Ke$ha,False,4,2,6,Die Young,13
+Maroon 5,False,5,1,7,One More Night,27
+Flo Rida,False,6,6,8,I Cry,13
+Phillip Phillips,False,8,7,9,Home,26
+Macklemore & Ryan Lewis Featuring Wanz,False,13,10,10,Thrift Shop,12
+Swedish House Mafia Featuring John Martin,False,12,11,11,Don't You Worry Child,14
+will.i.am & Britney Spears,False,15,12,12,Scream & Shout,4
+P!nk,False,14,13,13,Try,9
+fun.,False,9,3,14,Some Nights,44
+Ne-Yo,False,11,6,15,Let Me Love You (Until You Learn To Love Yourself),21
+Alicia Keys Featuring Nicki Minaj,False,16,11,16,Girl On Fire,16
+Ed Sheeran,False,17,17,17,The A Team,24
+Imagine Dragons,False,19,18,18,It's Time,29
+PSY,False,18,2,19,Gangnam Style,16
+Kendrick Lamar,False,21,17,20,Swimming Pools (Drank),19
+Mariah Carey,False,25,21,21,All I Want For Christmas Is You,4
+Florida Georgia Line Featuring Nelly,False,20,16,22,Cruise,19
+"Kanye West, Jay-Z, Big Sean",False,22,12,23,Clique,16
+"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",False,32,24,24,F**kin Problems,8
+Miguel,False,23,17,25,Adorn,21
+Calvin Harris Featuring Florence Welch,False,33,26,26,Sweet Nothing,7
+Pitbull Featuring TJR,False,30,27,27,Don't Stop The Party,10
+Alex Clare,False,24,7,28,Too Close,39
+Taylor Swift,False,27,1,29,We Are Never Ever Getting Back Together,20
+Kelly Clarkson,False,49,30,30,Catch My Breath,9
+Nicki Minaj,False,26,22,31,Va Va Voom,10
+Of Monsters And Men,False,31,31,32,Little Talks,31
+2 Chainz,False,42,33,33,I'm Different,6
+Lil Wayne Featuring Detail,False,39,34,34,No Worries,16
+Justin Bieber Featuring Big Sean,False,28,6,35,As Long As You Love Me,27
+Hunter Hayes,False,37,16,36,Wanted,35
+The Script Featuring will.i.am,False,38,36,37,Hall Of Fame,13
+Juicy J Featuring Lil Wayne & 2 Chainz,False,35,29,38,Bandz A Make Her Dance,15
+Mumford & Sons,False,34,23,39,I Will Wait,20
+Frank Ocean,False,36,32,40,Thinkin Bout You,24
+One Direction,False,46,41,41,Little Things,6
+Chris Brown,False,29,10,42,Don't Wake Me Up,26
+Carly Rae Jepsen,False,45,1,43,Call Me Maybe,44
+The Band Perry,False,41,40,44,Better Dig Two,8
+Ellie Goulding,False,43,2,45,Lights,53
+Maroon 5,False,58,46,46,Daylight,3
+P!nk,False,44,5,47,Blow Me (One Last Kiss),25
+Ellie Goulding,False,47,47,48,Anything Could Happen,11
+Gotye Featuring Kimbra,False,48,1,49,Somebody That I Used To Know,51
+Gary Allan,False,54,50,50,Every Storm (Runs Out Of Rain),12
+Zac Brown Band,False,50,48,51,Goodbye In Her Eyes,11
+Imagine Dragons,False,55,52,52,Radioactive,17
+OneRepublic,False,52,36,53,Feel Again,17
+Justin Moore,False,53,51,54,Til My Last Day,15
+Randy Houser,False,57,55,55,How Country Feels,12
+Kip Moore,False,51,51,56,Beer Money,14
+Jason Aldean With Luke Bryan & Eric Church,False,60,57,57,The Only Way I Know,7
+The Weeknd,False,61,58,58,Wicked Games,8
+2 Chainz Featuring Kanye West,False,62,47,59,Birthday Song,20
+Cassadee Pope,True,0,60,60,Cry,1
+T.I. Featuring Lil Wayne,False,64,50,61,Ball,10
+Bruno Mars,False,0,62,62,When I Was Your Man,2
+Muse,False,65,60,63,Madness,18
+Wiz Khalifa Featuring The Weeknd,False,63,63,64,Remember You,5
+Luke Bryan,False,59,29,65,Kiss Tomorrow Goodbye,18
+Little Big Town,False,66,66,66,Tornado,7
+Chris Brown,False,68,67,67,Don't Judge Me,8
+Eric Church,False,56,56,68,Creepin',18
+Hunter Hayes,False,73,69,69,Somebody's Heartbreak,5
+Chief Keef,False,82,70,70,Love Sosa,2
+Brad Paisley,False,69,68,71,Southern Comfort Zone,12
+Kendrick Lamar Featuring Drake,False,77,72,72,Poetic Justice,9
+Adele,False,72,8,73,Skyfall,12
+One Direction,False,78,3,74,Live While We're Young,12
+Tim McGraw,False,79,75,75,One Of Those Nights,4
+Taylor Swift,False,75,7,76,Begin Again,12
+Rick Ross Featuring Wale & Drake,False,76,71,77,Diced Pineapples,12
+Big Sean,False,89,78,78,Guap,2
+Ludacris Featuring Usher & David Guetta,False,80,72,79,Rest Of My Life,5
+Kenny Chesney,False,74,72,80,El Cerrito Place,11
+Trinidad James,False,96,81,81,All Gold Everything,2
+Future,False,91,82,82,Neva End,3
+"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",False,85,82,83,Celebration,7
+Cassadee Pope,False,0,25,84,Over You,2
+Carrie Underwood,False,90,85,85,Two Black Cadillacs,2
+Greg Bates,False,67,66,86,Did It For The Girl,14
+Future,False,83,50,87,Turn On The Lights,20
+The Lumineers,False,81,81,88,Stubborn Love,3
+Kacey Musgraves,False,88,88,89,Merry Go 'round,2
+Jake Owen,False,71,51,90,The One That Got Away,20
+Jonn Hart Featuring IamSU!,False,93,91,91,Who Booty,2
+Passion Pit,False,86,85,92,Take A Walk,17
+Dierks Bentley,False,84,84,93,Tip It On Back,5
+Bridgit Mendler,False,87,78,94,Ready Or Not,10
+Kid Cudi,True,0,95,95,King Wizard,1
+Kelly Rowland Featuring Lil Wayne,False,94,88,96,Ice,10
+Meek Mill Featuring Kirko Bangz,False,92,88,97,Young & Gettin' It,8
+Ludacris Featuring Kelly Rowland,False,98,97,98,Representin',4
+Ke$ha,True,0,99,99,C'mon,1
+Casey James,True,0,100,100,Crying On A Suitcase,1

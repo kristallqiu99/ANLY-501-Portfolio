@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Mariah Carey,False,2,1,1,We Belong Together,8
+Gwen Stefani,False,1,1,2,Hollaback Girl,10
+Ciara Featuring Ludacris,False,3,2,3,Oh,11
+50 Cent,False,4,4,4,Just A Lil Bit,11
+The Black Eyed Peas,False,6,5,5,Don't Phunk With My Heart,7
+The Game Featuring 50 Cent,False,5,2,6,Hate It Or Love It,17
+Kelly Clarkson,False,8,2,7,Since U Been Gone,25
+Kelly Clarkson,False,18,8,8,Behind These Hazel Eyes,7
+Will Smith,False,11,9,9,Switch,14
+Rob Thomas,False,7,6,10,Lonely No More,16
+Bobby Valentino,False,9,8,11,Slow Down,14
+The Killers,False,12,11,12,Mr. Brightside,17
+Backstreet Boys,False,14,13,13,Incomplete,7
+Akon,False,10,4,14,Lonely,15
+3 Doors Down,False,16,15,15,Let Me Go,18
+50 Cent Featuring Olivia,False,13,1,16,Candy Shop,18
+Gorillaz,False,74,17,17,Feel Good Inc,2
+Pretty Ricky,False,25,18,18,Grind With Me,8
+Green Day,False,15,2,19,Boulevard Of Broken Dreams,28
+Ying Yang Twins,False,19,19,20,Wait (The Whisper Song),15
+Weezer,False,21,13,21,Beverly Hills,8
+"Trick Daddy Featuring Ludacris, Lil' Kim & Cee-Lo",False,20,20,22,Sugar (Gimme Some),20
+Brooke Valentine Featuring Lil Jon & Big Boi,False,24,23,23,Girlfight,14
+Nelly Featuring Jung Tru & King Jacob,False,55,24,24,Errtime,2
+Frankie J Featuring Baby Bash,False,17,3,25,Obsession (No Es Amor),19
+Howie Day,False,26,26,26,Collide,17
+System Of A Down,False,43,27,27,B.Y.O.B.,8
+Destiny's Child,False,23,23,28,Girl,10
+Coldplay,False,30,8,29,Speed Of Sound,5
+Baby Bash Featuring Akon,False,37,30,30,Baby I'm Back,15
+50 Cent,False,22,3,31,Disco Inferno,26
+Green Day,False,31,19,32,Holiday,9
+Lifehouse,False,42,28,33,You And Me,16
+Ciara Featuring Missy Elliott,False,32,2,34,"1, 2 Step",32
+Gwen Stefani Featuring Eve,False,29,7,35,Rich Girl,24
+The Pussycat Dolls Featuring Busta Rhymes,False,49,36,36,Don't Cha,5
+112 Featuring Foxy Brown,False,34,33,37,U Already Know,14
+Cassidy,False,39,38,38,I'm A Hustla,12
+Papa Roach,False,41,39,39,Scars,17
+Kelly Clarkson,False,38,6,40,Breakaway,41
+Amerie,False,28,8,41,1 Thing,17
+Keith Urban,False,44,42,42,Making Memories Of Us,7
+Mario,False,35,1,43,Let Me Love You,33
+Trillville Featuring Cutty,False,27,14,44,Some Cut,24
+Alicia Keys,False,36,20,45,Karma,28
+Natalie,False,40,13,46,Goin' Crazy,17
+R. Kelly,False,51,47,47,Trapped In The Closet,5
+Usher,False,46,8,48,Caught Up,26
+Gavin DeGraw,False,59,49,49,Chariot,8
+The Game Featuring 50 Cent,False,47,4,50,How We Do,28
+Dierks Bentley,False,57,51,51,Lot Of Leavin' Left To Do,10
+Fantasia,False,48,21,52,Truth Is,20
+Dave Matthews Band,False,33,16,53,American Baby,4
+T.I.,False,45,23,54,U Don't Know Me,20
+Rascal Flatts,False,66,55,55,Fast Cars And Freedom,5
+Anna Nalick,False,60,56,56,Breathe (2 AM),6
+Mario,False,54,52,57,How Could You,12
+Craig Morgan,False,71,51,58,That's What I Love About Sunday,18
+Trace Adkins,False,61,59,59,Songs About Me,11
+Nine Inch Nails,False,50,31,60,The Hand That Feeds,9
+Shakira Feat. Alejandro Sanz,False,80,61,61,La Tortura,5
+Gretchen Wilson,False,56,56,62,Homewrecker,11
+Simple Plan,False,73,63,63,Untitled (How Can This Happen To Me?),3
+Mariah Carey,False,53,16,64,It's Like That,19
+Foo Fighters,False,62,35,65,Best Of You,4
+Webbie Featuring Bun B,False,84,66,66,Give Me That,5
+Faith Evans,False,58,47,67,Again,11
+George Strait,False,70,68,68,You'll Be There,7
+Missy Elliott Featuring Ciara & Fat Man Scoop,False,72,69,69,Lose Control,3
+Ludacris,False,52,19,70,Number One Spot,14
+Fantasia,False,78,71,71,Free Yourself,6
+Audioslave,False,67,32,72,Be Yourself,11
+Bowling For Soup,False,65,46,73,Almost,16
+Joe Nichols,False,64,64,74,What's A Guy Gotta Do,14
+Jo Dee Messina,False,63,63,75,My Give A Damn's Busted,16
+Marques Houston Featuring Young Rome,False,76,76,76,All Because Of You,5
+Mary J. Blige Featuring The Game & 50 Cent,False,77,77,77,MJB Da MVP,6
+Jet,False,68,37,78,Look What You've Done,19
+Sugarland,False,90,79,79,Something More,3
+Toby Keith,True,0,80,80,As Good As I Once Was,1
+Kenny Chesney,False,75,48,81,Anything But Mine,17
+Destiny's Child,False,83,82,82,Cater 2 U,6
+Kanye West,False,86,83,83,Diamonds From Sierra Leone,3
+Montgomery Gentry,False,79,53,84,Gone,18
+Bow Wow Featuring Omarion,False,93,85,85,Let Me Hold You,2
+Jack Johnson,False,85,66,86,"Sitting, Waiting, Wishing",14
+D.H.T.,True,0,87,87,Listen To Your Heart,1
+Fat Joe Featuring Nelly,True,0,88,88,Get It Poppin',1
+Omarion,False,82,27,89,O,20
+Frankie J,False,94,90,90,How To Deal,2
+Mike Jones,True,0,91,91,Back Then,1
+Josh Gracin,False,87,39,92,Nothin' To Lose,20
+Kenny Chesney,True,0,93,93,Keg In The Closet,1
+Mike Jones Featuring Slim Thug & Paul Wall,False,81,60,94,Still Tippin',12
+Juanes,False,89,89,95,La Camisa Negra,9
+Jesse McCartney,False,91,91,96,She's No You,3
+The Game,True,0,97,97,Dreams,1
+Teairra Mari,True,0,98,98,Make Her Feel Good,1
+Darryl Worley,False,100,99,99,If Something Should Happen,2
+Keith Anderson,True,0,100,100,Pickin' Wildflowers,1

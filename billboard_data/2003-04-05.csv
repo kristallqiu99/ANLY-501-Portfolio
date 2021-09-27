@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+50 Cent,False,1,1,1,In Da Club,13
+R. Kelly,False,2,2,2,Ignition,22
+Aaliyah,False,4,3,3,Miss You,19
+Kid Rock Featuring Sheryl Crow Or Allison Moorer,False,5,4,4,Picture,19
+Jennifer Lopez Featuring LL Cool J,False,3,1,5,All I Have,15
+Sean Paul,False,16,6,6,Get Busy,7
+3 Doors Down,False,12,7,7,When I'm Gone,20
+Tyrese,False,7,7,8,How You Gonna Act Like That,14
+JAY-Z,False,11,9,9,Excuse Me Miss,8
+Ja Rule Featuring Ashanti,False,6,2,10,Mesmerize,15
+Avril Lavigne,False,9,4,11,I'm With You,18
+Snoop Dogg Featuring Pharrell & Uncle Charlie Wilson,False,13,12,12,Beautiful,9
+"Missy ""Misdemeanor"" Elliott Featuring Ludacris",False,8,8,13,Gossip Folks,15
+Busta Rhymes & Mariah Carey Featuring The Flipmode Squad,False,18,14,14,I Know What You Want,5
+Justin Timberlake,False,14,3,15,Cry Me A River,16
+Christina Aguilera,False,15,2,16,Beautiful,20
+Nas,False,19,17,17,I Can,6
+Ginuwine Featuring Baby,False,20,18,18,Hell Yeah,7
+Fabolous Featuring Mike Shorey & Lil' Mo,False,29,19,19,Can't Let You Go,5
+Lil' Kim Featuring Mr. Cheeks,False,21,20,20,The Jump Off,9
+50 Cent Featuring Nate Dogg,False,47,21,21,21 Questions,3
+B2K & P. Diddy,False,17,1,22,"Bump, Bump, Bump",19
+Darryl Worley,False,28,23,23,Have You Forgotten?,4
+Amanda Perez,False,24,24,24,Angel,10
+Wayne Wonder,False,31,25,25,No Letting Go,13
+50 Cent,False,22,13,26,Wanksta,19
+Eminem,False,23,15,27,Superman,10
+Justin Timberlake,False,37,28,28,Rock Your Body,3
+Santana Featuring Michelle Branch,False,26,5,29,The Game Of Love,27
+Joe Nichols,False,27,27,30,Brokenheartsville,11
+John Mayer,False,32,18,31,Your Body Is A Wonderland,23
+t.A.T.u.,False,30,20,32,All The Things She Said,14
+Field Mob,False,25,18,33,Sick Of Being Lonely,17
+Kenny Chesney,False,35,34,34,Big Star,7
+Alan Jackson,False,36,35,35,That'd Be Alright,9
+Norah Jones,False,34,30,36,Don't Know Why,28
+Nivea Featuring Brian & Brandon Casey,False,33,8,37,Don't Mess With My Man,35
+Linkin Park,False,38,38,38,Somewhere I Belong,4
+Evanescence Featuring Paul McCoy,False,43,39,39,Bring Me To Life,4
+Tim McGraw,False,40,40,40,She's My Kind Of Rain,6
+B2K,False,55,41,41,Girlfriend,5
+Coldplay,False,44,42,42,Clocks,10
+Dixie Chicks,False,10,7,43,Landslide,29
+matchbox twenty,False,49,44,44,Unwell,3
+Vivian Green,False,39,39,45,Emotional Rollercoaster,8
+Mark Wills,False,41,23,46,19 Somethin',20
+Celine Dion,False,45,45,47,I Drove All Night,8
+Audioslave,False,50,48,48,Like A Stone,6
+Martina McBride,False,53,49,49,Concrete Angel,4
+Jaheim,False,57,50,50,Put That Woman First,3
+Gary Allan,False,42,25,51,Man To Man,14
+Eminem,True,0,52,52,Sing For The Moment,1
+TLC,False,59,53,53,Damaged,2
+Good Charlotte,False,56,54,54,The Anthem,2
+Daniel Bedingfield,True,0,55,55,If You're Not The One,1
+Keith Urban,False,60,56,56,Raining On Sunday,4
+Baby Featuring Clipse,False,48,45,57,What Happened To That Boy,8
+Counting Crows Featuring Vanessa Carlton,False,63,58,58,Big Yellow Taxi,2
+Diamond Rio,False,65,59,59,I Believe,3
+DMX,False,67,60,60,X Gon' Give It To Ya,9
+Red Hot Chili Peppers,False,61,57,61,Can't Stop,9
+No Doubt,False,62,62,62,Running,2
+Smilez & Southstar,False,54,28,63,Tell Me (What's Goin' On),14
+Floetry,False,72,64,64,Say Yes,2
+Bowling For Soup,False,68,65,65,Girl All The Bad Guys Want,2
+Uncle Kracker Featuring Dobie Gray,False,75,66,66,Drift Away,2
+Simple Plan,False,51,51,67,I'd Do Anything,8
+Chris Cagle,False,71,68,68,What A Beautiful Day,2
+Foo Fighters,False,69,69,69,Times Like These,5
+Queens Of The Stone Age,False,64,51,70,No One Knows,15
+Trapt,True,0,71,71,Headstrong,1
+Rascal Flatts,True,0,72,72,Love You Out Loud,1
+Randy Travis,True,0,73,73,Three Wooden Crosses,1
+The Isley Brothers Featuring Ronald Isley,True,0,74,74,What Would You Do?,1
+2Pac Featuring Trick Daddy,True,0,75,75,Still Ballin,1
+JC Chasez,False,58,35,76,Blowin' Me Up (With Her Love),14
+2Pac,False,73,19,77,Thugz Mansion,18
+Sixpence None The Richer,False,79,78,78,Don't Dream It's Over,3
+Marques Houston,False,74,63,79,That Girl,5
+Nivea,False,77,58,80,Laundromat,7
+Lil' Mo Featuring Fabolous,False,91,81,81,4 Ever,3
+Blake Shelton,False,70,28,82,The Baby,18
+Phil Collins,False,82,76,83,Can't Stop Loving You,10
+Seether,False,78,61,84,Fine Again,15
+Good Charlotte,False,87,20,85,Lifestyles Of The Rich And Famous,17
+Chevelle,False,81,56,86,The Red,19
+Toby Keith,False,66,66,87,Rock You Baby,4
+Saliva,False,80,51,88,Always,17
+Montgomery Gentry,False,94,89,89,Speed,3
+Madonna,True,0,90,90,American Life,1
+Aaron Lines,False,85,38,91,You Can't Hide Beautiful,15
+Killer Mike Featuring Big Boi,False,84,60,92,A.D.I.D.A.S.,8
+Fleetwood Mac,False,93,93,93,Peacekeeper,2
+Fat Joe Featuring Tony Sunshine & Armageddon,False,86,86,94,All I Need,8
+Trina Featuring Ludacris,False,92,83,95,B R Right,13
+Talib Kweli,False,99,96,96,Get By,2
+Dixie Chicks,False,52,25,97,Travelin' Soldier,10
+Shania Twain,False,89,63,98,Up!,10
+Bone Crusher Featuring Killer Mike & T.I.,True,0,99,99,Never Scared,1
+Kelly Rowland,False,97,97,100,Can't Nobody,5

@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Post Malone,False,2,1,1,Circles,12
+Lewis Capaldi,False,1,1,2,Someone You Loved,28
+Lizzo,False,4,3,3,Good As Hell,13
+Maroon 5,False,5,4,4,Memories,9
+Selena Gomez,False,8,1,5,Lose You To Love Me,5
+Shawn Mendes & Camila Cabello,False,3,1,6,Senorita,22
+Chris Brown Featuring Drake,False,7,5,7,No Guidance,24
+Billie Eilish,False,74,8,8,Everything I Wanted,2
+Dan + Shay & Justin Bieber,False,10,4,9,"10,000 Hours",7
+Lizzo,False,6,1,10,Truth Hurts,29
+Lil Nas X,False,9,5,11,Panini,22
+Arizona Zervas,False,27,12,12,Roxanne,3
+SHAED,False,14,13,13,Trampoline,25
+Travis Scott,False,12,1,14,HIGHEST IN THE ROOM,7
+Taylor Swift,False,26,10,15,Lover,14
+Lil Baby,False,19,16,16,Woah,2
+Billie Eilish,False,13,1,17,Bad Guy,34
+DaBaby,False,67,18,18,BOP,8
+Tones And I,False,23,19,19,Dance Monkey,7
+Mustard & Roddy Ricch,False,25,20,20,Ballin',18
+Young Thug Featuring Gunna,False,16,11,21,Hot,14
+Old Dominion,False,20,20,22,One Man Band,13
+Ed Sheeran Featuring Khalid,False,15,13,23,Beautiful People,21
+Jonas Brothers,False,18,18,24,Only Human,23
+Luke Combs,False,11,11,25,Even Though I'm Leaving,12
+Lil Tecca,False,17,4,26,Ran$om,25
+Lil Nas X Featuring Billy Ray Cyrus,False,21,1,27,Old Town Road,38
+Juice WRLD & YoungBoy Never Broke Again,False,22,10,28,Bandit,7
+Wale Featuring Jeremih,False,28,22,29,On Chill,15
+Ed Sheeran & Justin Bieber,False,24,2,30,I Don't Care,28
+Mariah Carey,False,39,3,31,All I Want For Christmas Is You,32
+Khalid,False,29,3,32,Talk,41
+Post Malone Featuring Young Thug,False,30,3,33,Goodbyes,20
+Lil Baby & DaBaby,False,34,21,34,Baby,18
+Sam Smith,False,31,24,35,How Do You Sleep?,18
+Summer Walker,False,33,16,36,Playing Games,12
+Chris Brown Featuring Gunna,False,36,36,37,Heat,12
+Jonas Brothers,False,32,1,38,Sucker,38
+Halsey,False,42,39,39,Graveyard,10
+DaBaby,False,37,7,40,Suge,34
+blackbear,False,45,41,41,Hot Girl Bummer,10
+Dua Lipa,False,46,30,42,Don't Start Now,3
+NF,False,43,41,43,Time,18
+Tory Lanez & T-Pain,False,83,44,44,Jerry Sprunger,2
+Marshmello & Kane Brown,False,40,36,45,One Thing Right,22
+Drake Featuring Rick Ross,False,35,7,46,Money In The Grave,23
+Lady Antebellum,False,54,47,47,What If I Never Get Over You,13
+Sam Smith & Normani,False,41,7,48,Dancing With A Stranger,45
+A Boogie Wit da Hoodie Featuring Lil Uzi Vert,True,0,49,49,Reply,1
+Maren Morris,False,48,48,50,The Bones,9
+Doja Cat & Tyga,False,47,47,51,Juicy,4
+Kanye West,False,38,7,52,Follow God,4
+Thomas Rhett,False,53,53,53,Remember You Young,10
+Rod Wave,False,56,54,54,Heart On Ice,2
+Jhene Aiko Featuring Big Sean,True,0,55,55,None Of Your Concern,1
+YNW Melly & 9lokknine,False,44,34,56,223's,11
+Post Malone Featuring Ozzy Osbourne & Travis Scott,False,49,8,57,Take What You Want,11
+NLE Choppa,False,51,37,58,Camelot,10
+DaBaby,False,52,21,59,VIBEZ,8
+Harry Styles,True,0,60,60,Watermelon Sugar,1
+Matt Stell,False,57,36,61,Prayed For You,16
+Sam Hunt,False,65,62,62,Kinfolks,6
+"Layton Greene, Lil Baby, City Girls & PnB Rock",False,60,60,63,Leave Em Alone,7
+DaBaby Featuring Offset,False,64,59,64,Baby Sitter,15
+Keith Urban,False,70,65,65,We Were,12
+Tory Lanez Featuring Chris Brown,True,0,66,66,The Take,1
+Jon Pardi,False,71,67,67,Heartache Medication,8
+Post Malone Featuring DaBaby,False,66,16,68,Enemies,11
+Ellie Goulding & Juice WRLD,False,68,56,69,Hate Me,15
+Dustin Lynch,False,76,70,70,Ridin' Roads,3
+Niall Horan,False,63,63,71,Nice To Meet Ya,6
+Camila Cabello,False,55,52,72,Liar,11
+Russell Dickerson,False,58,50,73,Every Little Thing,12
+Kenny Chesney,False,75,73,74,Tip Of My Tongue,19
+Trevor Daniel,True,0,75,75,Falling,1
+Billie Eilish,False,80,46,76,All The Good Girls Go To Hell,5
+Harry Styles,False,0,17,77,Lights Up,4
+YoungBoy Never Broke Again,False,69,57,78,Make No Sense,6
+"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",False,59,11,79,Hot Girl Summer,15
+Chris Lane,False,77,39,80,I Don't Know About You,20
+YoungBoy Never Broke Again,False,73,44,81,Lonely Child,6
+Lil Mosey x Gunna,False,62,62,82,Stuck In A Dream,4
+Kelsea Ballerini,False,89,82,83,homecoming queen?,3
+Chris Janson,False,61,48,84,Good Vibes,12
+Joji,False,79,69,85,Slow Dancing In The Dark,7
+J Balvin & Bad Bunny,False,84,84,86,La Cancion,6
+Tory Lanez Featuring Snoop Dogg,True,0,87,87,Beauty In The Benz,1
+DaniLeigh Featuring Chris Brown,False,91,88,88,Easy,3
+Khalid,True,0,89,89,Up All Night,1
+Diplo Presents Thomas Wesley Featuring Morgan Wallen,False,0,78,90,Heartless,3
+Y2K & bbno$,False,94,55,91,Lalala,20
+Karol G & Nicki Minaj,False,78,78,92,Tusa,2
+Jason Aldean,True,0,93,93,We Back,1
+YoungBoy Never Broke Again,False,86,50,94,Self Control,11
+Kane Brown,True,0,95,95,Homesick,1
+Chance The Rapper Featuring MadeinTYO & DaBaby,False,85,58,96,Hot Shower,8
+Trippie Redd Featuring DaBaby,True,0,97,97,Death,1
+Ant Saunders,False,81,81,98,Yellow Hearts,2
+Blake Shelton Featuring Trace Adkins,True,0,99,99,Hell Right,1
+Black Eyed Peas X J Balvin,True,0,100,100,RITMO (Bad Boys For Life),1

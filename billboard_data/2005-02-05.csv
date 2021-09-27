@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Mario,False,1,1,1,Let Me Love You,16
+Ciara Featuring Missy Elliott,False,2,2,2,"1, 2 Step",15
+Lil Jon & The East Side Boyz Featuring Usher & Ludacris,False,3,3,3,Lovers And Friends,11
+Destiny's Child Featuring T.I. & Lil Wayne,False,4,4,4,Soldier,11
+Snoop Dogg Featuring Pharrell,False,5,1,5,Drop It Like It's Hot,19
+The Game Featuring 50 Cent,False,6,6,6,How We Do,11
+50 Cent,False,7,7,7,Disco Inferno,9
+Green Day,False,8,8,8,Boulevard Of Broken Dreams,11
+T.I.,False,14,9,9,Bring Em Out,11
+Nelly Featuring Tim McGraw,False,10,3,10,Over And Over,17
+Kelly Clarkson,False,12,6,11,Breakaway,24
+Usher And Alicia Keys,False,9,1,12,My Boo,22
+Gavin DeGraw,False,11,10,13,I Don't Want To Be,16
+Usher,False,24,14,14,Caught Up,9
+Ludacris,False,13,13,15,Get Back,12
+Kelly Clarkson,False,20,16,16,Since U Been Gone,8
+Ashanti,False,15,13,17,Only U,12
+Eminem,False,26,18,18,Mockingbird,6
+Lloyd Banks Featuring Avant,False,17,17,19,Karma,12
+Jesse McCartney,False,23,20,20,Beautiful Soul,9
+Maroon 5,False,22,5,21,She Will Be Loved,29
+Ryan Cabrera,False,18,18,22,True,9
+Ja Rule Featuring R. Kelly & Ashanti,False,16,5,23,Wonderful,17
+John Mayer,False,19,19,24,Daughters,14
+Gwen Stefani Featuring Eve,False,28,25,25,Rich Girl,7
+Jay-Z/Linkin Park,False,25,23,26,Numb/Encore,11
+Destiny's Child,False,21,3,27,Lose My Breath,20
+Jennifer Lopez,False,41,28,28,Get Right,3
+Alicia Keys,False,29,29,29,Karma,11
+Brad Paisley,False,34,30,30,Mud On The Tires,10
+Rascal Flatts,False,37,31,31,Bless The Broken Road,8
+Daddy Yankee,False,32,32,32,Gasolina,13
+Keith Urban,False,36,33,33,You're My Better Half,10
+Fantasia,False,51,34,34,Truth Is,3
+Switchfoot,False,27,17,35,Dare You To Move,19
+Mariah Carey,False,53,36,36,It's Like That,2
+Ciara Featuring Petey Pablo,False,30,1,37,Goodies,33
+Trillville Featuring Cutty,False,47,38,38,Some Cut,7
+John Legend,False,48,39,39,Ordinary People,5
+Lenny Kravitz,False,43,40,40,Lady,9
+Avril Lavigne,False,45,41,41,Nobody's Home,9
+Gretchen Wilson,False,39,39,42,When I Think About Cheatin',9
+Trick Daddy Featuring Lil Jon & Twista,False,35,7,43,Let's Go,21
+Darryl Worley,False,33,30,44,"Awful, Beautiful Life",13
+Finger Eleven,False,46,16,45,One Thing,29
+Frankie J Featuring Baby Bash,False,63,46,46,Obsession (No Es Amor),2
+Maroon 5,False,58,47,47,Sunday Morning,5
+Goo Goo Dolls,False,49,48,48,Give A Little Bit,11
+Lil Jon & The East Side Boyz Featuring Lil Scrappy,False,31,22,49,What U Gon' Do,14
+Blake Shelton,False,44,28,50,Some Beach,15
+Omarion,False,59,51,51,O,3
+LeAnn Rimes,False,54,52,52,Nothin 'Bout Love Makes Sense,13
+50 Cent Featuring Olivia,True,0,53,53,Candy Shop,1
+Alan Jackson,False,57,54,54,Monday Morning Church,10
+Josh Gracin,False,60,55,55,Nothin' To Lose,3
+Snoop Dogg,False,62,56,56,Let's Get Blown,5
+Ja Rule Featuring Fat Joe & Jadakiss,False,40,27,57,New York,12
+T.I.,False,65,58,58,U Don't Know Me,3
+Reba McEntire,False,61,59,59,He Gets That From Me,8
+Eminem,False,64,60,60,Like Toy Soldiers,2
+U2,False,52,31,61,Vertigo,18
+Jadakiss Featuring Mariah Carey,False,38,21,62,U Make Me Wanna,12
+Tim McGraw,False,55,30,63,Back When,16
+"Eminem, Dr. Dre & 50 Cent",False,56,25,64,Encore,12
+Twista Featuring Faith Evans,True,0,65,65,Hope,1
+Nivea Featuring Lil Jon & YoungBloodZ,False,80,66,66,Okay,7
+Sugarland,False,69,67,67,Baby Girl,9
+Billy Dean,False,74,68,68,Let Them Be Little,2
+Nelly,True,0,69,69,N Dey Say,1
+Jet,False,70,70,70,Look What You've Done,2
+Fabolous Featuring Mike Shorey,False,77,71,71,Baby,3
+Lee Ann Womack,False,73,72,72,I May Hate Myself In The Morning,2
+3 Doors Down,True,0,73,73,Let Me Go,1
+Craig Morgan,True,0,74,74,That's What I Love About Sunday,1
+Lil Wayne,False,66,14,75,Go D.J.,19
+Montgomery Gentry,True,0,76,76,Gone,1
+Rupee,False,75,39,77,Tempted To Touch,18
+Big & Rich,False,76,75,78,Holy Water,6
+"Trick Daddy Featuring Ludacris, Lil' Kim & Cee-Lo",False,85,79,79,Sugar (Gimme Some),3
+Young Buck,False,72,17,80,Shorty Wanna Ride,17
+Dierks Bentley,False,79,49,81,How Am I Doin',16
+Simple Plan,False,78,40,82,Welcome To My Life,13
+JoJo Featuring Bow Wow,False,68,22,83,Baby It's You,18
+Velvet Revolver,False,84,67,84,Fall To Pieces,20
+Papa Roach,False,86,69,85,Getting Away With Murder,16
+Kenny Chesney,False,82,33,86,The Woman With You,17
+Shania Twain With Billy Currington Or Mark McGrath,False,81,58,87,Party For Two,14
+Chevelle,False,88,68,88,Vitamin R (Leading Us Along),12
+Body Head Bangerz Featuring YoungBloodz,False,91,81,89,"I Smoke, I Drank",15
+Chingy,False,87,20,90,Balla Baby,18
+Keyshia Cole Featuring Shyne,False,93,71,91,I Changed My Mind,11
+Monchy & Alexandra,False,94,92,92,Perdidos,7
+Eminem,False,90,6,93,Just Lose It,18
+Patti LaBelle Featuring Ron Isley,False,92,89,94,Gotta Go Solo,9
+Terror Squad,False,95,62,95,Take Me Home,16
+Guerilla Black Featuring Mario Winans,False,89,77,96,You're The One,11
+Daryl Hall John Oates,False,99,97,97,I'll Be Around,3
+Akon,False,98,92,98,Ghetto,5
+Gwen Stefani,False,97,47,99,What You Waiting For?,17
+2Pac Featuring Nate Dogg,False,0,98,100,Thugs Get Lonely Too,4

@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Maroon 5,False,1,1,1,One More Night,14
+PSY,False,11,2,2,Gangnam Style,3
+fun.,False,3,3,3,Some Nights,31
+Taylor Swift,False,2,1,4,We Are Never Ever Getting Back Together,7
+P!nk,False,5,5,5,Blow Me (One Last Kiss),12
+Flo Rida,False,4,1,6,Whistle,19
+Justin Bieber Featuring Big Sean,False,6,6,7,As Long As You Love Me,14
+Owl City & Carly Rae Jepsen,False,9,8,8,Good Time,13
+Alex Clare,False,8,8,9,Too Close,26
+Ellie Goulding,False,7,2,10,Lights,40
+Neon Trees,False,10,6,11,Everybody Talks,28
+Carly Rae Jepsen,False,13,1,12,Call Me Maybe,31
+Katy Perry,False,14,2,13,Wide Awake,18
+Chris Brown,False,21,14,14,Don't Wake Me Up,13
+Nicki Minaj,False,17,15,15,Pound The Alarm,9
+Hunter Hayes,False,22,16,16,Wanted,22
+"Kanye West, Big Sean, Pusha T, 2 Chainz",False,20,13,17,Mercy,25
+"Kanye West, Jay-Z, Big Sean",False,12,12,18,Clique,3
+Gotye Featuring Kimbra,False,16,1,19,Somebody That I Used To Know,38
+Maroon 5 Featuring Wiz Khalifa,False,15,2,20,Payphone,23
+Demi Lovato,False,18,16,21,Give Your Heart A Break,25
+Phillip Phillips,False,23,9,22,Home,13
+David Guetta Featuring Sia,False,19,7,23,Titanium,24
+Carrie Underwood,False,28,24,24,Blown Away,12
+Jason Mraz,False,26,8,25,I Won't Give Up,38
+Train,False,30,26,26,50 Ways To Say Goodbye,11
+Rihanna,False,24,5,27,Where Have You Been,23
+Ne-Yo,False,37,28,28,Let Me Love You (Until You Learn To Love Yourself),8
+2 Chainz Featuring Drake,False,25,24,29,No Lie,20
+Cher Lloyd,False,27,12,30,Want U Back,15
+Miguel,False,35,31,31,Adorn,8
+The Lumineers,False,38,32,32,Ho Hey,16
+Jason Aldean,False,32,12,33,Take A Little Ride,10
+Christina Aguilera,True,0,34,34,Your Body,1
+Little Big Town,False,29,22,35,Pontoon,16
+One Direction,False,31,4,36,What Makes You Beautiful,32
+Imagine Dragons,False,33,33,37,It's Time,16
+fun. Featuring Janelle Monae,False,34,1,38,We Are Young,40
+"French Montana Featuring Rick Ross, Drake, Lil Wayne",False,42,39,39,Pop That,11
+Dustin Lynch,False,43,40,40,Cowboys And Angels,19
+Frank Ocean,False,41,39,41,Thinkin Bout You,11
+Trey Songz,False,44,35,42,Heart Attack,25
+Lee Brice,False,49,43,43,Hard To Love,15
+David Guetta Featuring Chris Brown & Lil Wayne,False,55,44,44,I Can Only Imagine,7
+Mumford & Sons,False,73,23,45,I Will Wait,7
+Trey Songz Featuring T.I.,False,51,43,46,2 Reasons,12
+Luke Bryan,False,57,47,47,Kiss Tomorrow Goodbye,5
+Florida Georgia Line Featuring Nelly,False,59,48,48,Cruise,6
+The Wanted,False,46,3,49,Glad You Came,37
+Jana Kramer,False,54,50,50,Why Ya Wanna,21
+Calvin Harris Featuring Ne-Yo,False,39,17,51,Let's Go,20
+Ed Sheeran,False,61,52,52,The A Team,11
+Of Monsters And Men,False,53,49,53,Little Talks,25
+Future,False,56,54,54,Turn On The Lights,7
+Alicia Keys Featuring Nicki Minaj,False,40,37,55,Girl On Fire,3
+P!nk,True,0,56,56,Try,1
+2 Chainz Featuring Kanye West,False,65,57,57,Birthday Song,7
+matchbox twenty,False,52,40,58,She's So Mean,13
+Rascal Flatts,False,70,59,59,Come Wake Me Up,9
+Easton Corbin,False,60,60,60,Lovin' You Is Fun,12
+Tim McGraw,False,62,57,61,Truck Yeah,12
+Karmin,False,64,62,62,Hello,4
+Juicy J Featuring Lil Wayne & 2 Chainz,False,71,63,63,Bandz A Make Her Dance,2
+Miranda Lambert,False,76,64,64,Fastest Girl In Town,9
+Jake Owen,False,77,65,65,The One That Got Away,7
+Linkin Park,False,66,30,66,Burn It Down,23
+OneRepublic,False,78,61,67,Feel Again,4
+Swedish House Mafia Featuring John Martin,True,0,68,68,Don't You Worry Child,1
+Usher Featuring Rick Ross,False,68,46,69,Lemme See,18
+"Kanye West, R. Kelly",True,0,70,70,To The World,1
+Kenny Chesney,False,72,23,71,Come Over,19
+Meek Mill Featuring Drake,False,69,57,72,Amen,14
+Chief Keef Featuring Lil Reese,False,0,73,73,I Don't Like,2
+Kelly Clarkson,False,63,42,74,Dark Side,14
+Blake Shelton,False,75,43,75,Over,15
+Brandy Featuring Chris Brown,False,81,76,76,Put It Down,6
+Love And Theft,False,67,32,77,Angel Eyes,19
+Eric Church,False,80,78,78,Creepin',5
+Muse,False,82,79,79,Madness,5
+Lil Wayne Featuring Detail,False,58,58,80,No Worries,3
+Kendrick Lamar,False,92,81,81,Swimming Pools (Drank),6
+"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",True,0,82,82,Celebration,1
+Enrique Iglesias Featuring Sammy Adams,False,94,83,83,Finally Found You,2
+Beyonce,False,90,84,84,Dance For You,3
+Keith Urban,False,74,55,85,For You,17
+Trey Songz,False,87,86,86,Dive In,4
+Carly Rae Jepsen Featuring Justin Bieber,True,0,87,87,Beautiful,1
+Keyshia Cole Featuring Lil Wayne,False,84,84,88,Enough Of No Love,8
+Passion Pit,False,85,85,89,Take A Walk,4
+Dierks Bentley,False,93,33,90,5-1-5-0,20
+John Legend Featuring Ludacris,False,88,79,91,Tonight (Best You Ever Had),11
+Justin Moore,False,98,92,92,Til My Last Day,2
+Imagine Dragons,False,91,91,93,Radioactive,4
+Jerrod Niemann,False,97,94,94,Shinin' On Me,4
+"Wale Featuring Rick Ross, Meek Mill & T-Pain",False,83,64,95,Bag Of Money,13
+Olly Murs Featuring Chiddy Bang,False,96,96,96,Heart Skips A Beat,2
+Usher,True,0,97,97,Numb,1
+J. Cole Featuring Missy Elliott,False,99,61,98,Nobody's Perfect,19
+Kip Moore,True,0,99,99,Beer Money,1
+Greg Bates,True,0,100,100,Did It For The Girl,1

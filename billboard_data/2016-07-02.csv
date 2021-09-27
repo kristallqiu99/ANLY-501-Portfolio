@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Drake Featuring WizKid & Kyla,False,1,1,1,One Dance,11
+Justin Timberlake,False,3,1,2,Can't Stop The Feeling!,6
+Desiigner,False,2,1,3,Panda,17
+The Chainsmokers Featuring Daya,False,4,4,4,Don't Let Me Down,18
+Fifth Harmony Featuring Ty Dolla $ign,False,5,4,5,Work From Home,16
+Calvin Harris Featuring Rihanna,False,7,6,6,This Is What You Came For,7
+Rihanna,False,9,7,7,Needed Me,20
+Sia Featuring Sean Paul,False,13,8,8,Cheap Thrills,18
+Mike Posner,False,8,4,9,I Took A Pill In Ibiza,22
+Kent Jones,False,11,10,10,Don't Mind,7
+Lukas Graham,False,6,2,11,7 Years,22
+P!nk,False,10,10,12,Just Like Fire,9
+twenty one pilots,False,15,13,13,Ride,14
+Nick Jonas Featuring Tove Lo,False,27,14,14,Close,12
+Ariana Grande,False,14,8,15,Dangerous Woman,14
+Rihanna Featuring Drake,False,12,1,16,Work,21
+Florida Georgia Line,False,17,17,17,H.O.L.Y.,7
+Meghan Trainor,False,31,18,18,Me Too,5
+Justin Bieber,False,19,1,19,Love Yourself,31
+Adele,False,28,20,20,Send My Love (To Your New Lover),5
+twenty one pilots,False,21,2,21,Stressed Out,39
+Zara Larsson & MNEK,False,16,13,22,Never Forget You,18
+Drake,False,24,21,23,Controlla,7
+Ruth B,False,25,24,24,Lost Boy,17
+DNCE,False,22,9,25,Cake By The Ocean,35
+Zayn,False,20,1,26,Pillowtalk,20
+James Bay,False,32,27,27,Let It Go,26
+Flo Rida,False,23,4,28,My House,32
+Drake Featuring Rihanna,False,33,29,29,Too Good,7
+Future Featuring The Weeknd,False,26,18,30,Low Life,19
+"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",False,29,27,31,All The Way Up,12
+G-Eazy x Bebe Rexha,False,30,7,32,"Me, Myself & I",33
+Justin Bieber,False,36,1,33,Sorry,34
+Jeremih,False,35,19,34,Oui,24
+O.T. Genasis Featuring Young Dolph,False,37,35,35,Cut It,17
+Flume Featuring Kai,False,46,36,36,Never Be Like You,11
+Luke Bryan,False,43,37,37,"Huntin', Fishin' And Lovin' Every Day",12
+Beyonce,False,41,11,38,Sorry,8
+X Ambassadors,False,48,39,39,Unsteady,5
+DJ Khaled Featuring Drake,False,18,18,40,For Free,2
+Tim McGraw,False,40,30,41,Humble And Kind,19
+Kevin Gates,False,39,17,42,2 Phones,24
+Future,False,44,43,43,Wicked,9
+Selena Gomez,False,52,44,44,Kill Em With Kindness,3
+Drake Featuring The Throne,False,42,16,45,Pop Style,11
+Bryson Tiller,False,38,26,46,Exchange,34
+Thomas Rhett,False,45,41,47,T-Shirt,16
+Carrie Underwood,False,58,48,48,Church Bells,6
+Kevin Gates,False,53,49,49,Really Really,24
+Ariana Grande,False,47,47,50,Into You,5
+MadeinTYO,False,55,51,51,Uber Everywhere,11
+Alessia Cara,False,51,50,52,Wild Things,17
+Jason Aldean,False,60,43,53,Lights Come On,10
+Meghan Trainor,False,50,3,54,No,15
+gnash Featuring Olivia O'Brien,False,61,55,55,I Hate U I Love U,9
+Fetty Wap,False,63,56,56,Wake Up,5
+Keith Urban,False,62,57,57,Wasted Time,8
+Dierks Bentley,False,57,35,58,Somewhere On A Beach,20
+Jon Pardi,False,67,59,59,Head Over Boots,16
+Dan + Shay,False,59,59,60,From The Ground Up,4
+Eric Church,False,68,61,61,Record Year,9
+Blake Shelton,False,54,36,62,Came Here To Forget,15
+Shawn Mendes,False,34,34,63,Treat You Better,2
+OneRepublic,False,74,64,64,Wherever I Go,5
+Dreezy Featuring Jeremih,False,65,62,65,Body,13
+Disturbed,False,66,42,66,The Sound Of Silence,17
+Kiiara,False,79,67,67,Gold,4
+Grace Featuring G-Eazy,False,71,68,68,You Don't Own Me,7
+Drake,False,69,33,69,Hype,7
+Shakira,False,0,63,70,Try Everything,7
+"Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner",True,0,71,71,Champions,1
+Kelsea Ballerini,False,81,72,72,Peter Pan,3
+Drake,False,72,49,73,Childs Play,7
+Jake Owen,False,83,74,74,American Country Love Song,4
+Sam Hunt,False,82,75,75,Make You Miss Me,3
+ScHoolboy Q Featuring Kanye West,False,0,76,76,THat Part,2
+Pitbull Featuring Enrique Iglesias,False,64,64,77,Messin' Around,7
+Major Lazer Featuring Nyla & Fuse ODG,False,76,73,78,Light It Up,14
+Drake,False,73,40,79,Still Here,7
+Kenny Chesney,False,80,72,80,Noise,10
+Chris Young Duet With Cassadee Pope,False,78,40,81,Think Of You,18
+Drake Featuring Future,False,77,38,82,Grammys,7
+Daya,False,86,83,83,"Sit Still, Look Pretty",3
+Chris Lane,False,93,84,84,Fix,3
+Nicky Jam,False,89,85,85,With You Tonight / Hasta El Amanecer,4
+Charlie Puth Featuring Selena Gomez,False,0,78,86,We Don't Talk Anymore,2
+D.R.A.M. Featuring Lil Yachty,True,0,87,87,Broccoli,1
+Coldplay,False,0,64,88,Hymn For The Weekend,3
+Rihanna,False,96,62,89,Kiss It Better,11
+Jacob Sartorius,True,0,90,90,Sweatshirt,1
+Chance The Rapper Featuring Lil Wayne & 2 Chainz,False,99,86,91,No Problem,4
+Lil Uzi Vert,True,0,92,92,Money Longer,1
+Drake Featuring PARTYNEXTDOOR,False,85,47,93,With You,7
+Wale,True,0,94,94,My PYT,1
+The Lumineers,False,90,66,95,Ophelia,8
+Belly Featuring The Weeknd,False,84,68,96,Might Not,17
+Kanye West,False,97,37,97,Father Stretch My Hands Pt. 1,8
+DNCE,True,0,98,98,Toothbrush,1
+Dierks Bentley Featuring Elle King,False,0,98,99,Different For Girls,2
+Alan Walker,False,92,80,100,Faded,8

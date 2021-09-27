@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Katy Perry,False,1,1,1,Firework,9
+Bruno Mars,False,3,2,2,Grenade,12
+Rihanna Featuring Drake,False,2,1,3,What's My Name?,9
+P!nk,False,4,1,4,Raise Your Glass,11
+Ke$ha,False,5,1,5,We R Who We R,8
+Bruno Mars,False,7,1,6,Just The Way You Are,22
+Rihanna,False,6,1,7,Only Girl (In The World),15
+The Black Eyed Peas,False,8,4,8,The Time (Dirty Bit),6
+Lil Wayne Featuring Cory Gunz,True,0,9,9,6 Foot 7 Foot,1
+Nelly,False,9,3,10,Just A Dream,18
+Trey Songz Featuring Nicki Minaj,False,10,6,11,Bottoms Up,19
+Wiz Khalifa,False,11,11,12,Black And Yellow,11
+Enrique Iglesias Featuring Ludacris & DJ Frank E,False,15,13,13,Tonight (I'm Lovin' You),4
+Far*East Movement Featuring Cataracs & Dev,False,12,1,14,Like A G6,19
+Usher Featuring Pitbull,False,13,4,15,DJ Got Us Fallin' In Love,23
+Edward Maya & Vika Jigulina,False,19,16,16,Stereo Love,11
+Taio Cruz,False,14,2,17,Dynamite,29
+Waka Flocka Flame Featuring Roscoe Dash & Wale,False,16,16,18,No Hands,15
+Diddy - Dirty Money Featuring Skylar Grey,False,24,19,19,Coming Home,4
+Chris Brown,False,22,20,20,Yeah 3X,8
+Mike Posner,False,17,16,21,Please Don't Go,13
+Katy Perry,False,20,1,22,Teenage Dream,22
+Neon Trees,False,21,13,23,Animal,29
+CeeLo Green,False,23,9,24,F**k You! (Forget You),17
+OneRepublic,False,25,21,25,Secrets,26
+Taylor Swift,False,34,6,26,Back To December,8
+Pitbull Featuring T-Pain,False,32,27,27,Hey Baby (Drop It To The Floor),12
+Lil Wayne Featuring Drake,False,29,6,28,Right Above It,18
+Nicki Minaj,False,26,26,29,Right Thru Me,12
+Rick Ross Featuring Drake & Chrisette Michele,False,33,30,30,Aston Martin Music,12
+T.I. Featuring Eminem,False,18,18,31,That's All She Wrote,2
+Flo Rida Featuring David Guetta,False,30,9,32,Club Can't Handle Me,25
+Enrique Iglesias Featuring Pitbull,False,31,4,33,I Like It,32
+The Band Perry,False,28,19,34,If I Die Young,24
+WILLOW,False,27,11,35,Whip My Hair,9
+Kenny Chesney,False,37,36,36,Somewhere With You,7
+Eminem Featuring Lil Wayne,False,38,23,37,No Love,16
+Chris Brown Featuring Tyga & Kevin McCall,False,36,14,38,Deuces,25
+Michael Jackson Duet With Akon,False,65,39,39,Hold My Hand,5
+Tim McGraw,False,41,26,40,Felt Good On My Lips,7
+Far*East Movement Featuring Ryan Tedder,False,60,41,41,Rocketeer,3
+Keri Hilson,False,45,42,42,Pretty Girl Rock,4
+Jason Aldean,False,39,39,43,My Kinda Party,17
+Eminem Featuring Rihanna,False,40,1,44,Love The Way You Lie,26
+Dr. Dre Featuring Snoop Dogg & Akon,False,52,34,45,Kush,5
+Christina Perri,False,49,34,46,Jar Of Hearts,12
+Sugarland,False,43,17,47,Stuck Like Glue,21
+The Ready Set,False,42,27,48,Love Like Woe,19
+Trey Songz,False,44,43,49,Can't Be Friends,14
+David Guetta Featuring Kid Cudi,False,46,46,50,Memories,11
+Blake Shelton,False,54,51,51,Who Are You When I'm Not Looking,7
+Taylor Swift,False,50,3,52,Mine,20
+Jeremih Featuring 50 Cent,False,62,53,53,Down On Me,6
+Zac Brown Band Featuring Alan Jackson,False,47,32,54,As She's Walking Away,19
+Plain White T's,False,55,55,55,Rhythm of Love,14
+Florence + The Machine,False,48,21,56,Dog Days Are Over,14
+Yolanda Be Cool & Dcup,False,51,29,57,We No Speak Americano,14
+Carrie Underwood,False,56,56,58,Mama's Song,13
+Reba,False,53,53,59,Turn On The Radio,14
+Jason Aldean With Kelly Clarkson,False,70,56,60,Don't You Wanna Stay,7
+Keith Urban,False,61,60,61,Put You In A Song,12
+Billy Currington,False,71,62,62,Let Me Down Easy,4
+Chris Young,False,69,63,63,Voices,7
+Lloyd,False,64,64,64,Lay It Down,9
+Rascal Flatts,False,58,48,65,Why Wait,18
+Sick Puppies,False,76,66,66,Maybe,4
+George Strait,False,66,63,67,The Breath You Take,16
+Miranda Lambert,False,63,61,68,Only Prettier,16
+Flo Rida Featuring Akon,False,67,55,69,Who Dat Girl,3
+Birdman Featuring Lil Wayne,False,82,70,70,Fire Flame,3
+Twista Featuring Chris Brown,False,80,71,71,Make A Movie,6
+Linkin Park,False,74,72,72,Waiting For The End,11
+Train,False,85,73,73,Marry Me,5
+Dev Featuring The Cataracs,False,94,74,74,Bass Down Low,2
+Jamie Foxx Featuring Drake,False,95,75,75,Fall For Your Type,2
+Brad Paisley,False,72,48,76,Anything Like Me,16
+Mumford & Sons,False,81,61,77,Little Lion Man,19
+Luke Bryan,False,78,75,78,Someone Else Calling You Baby,8
+Lady Antebellum,False,77,70,79,Hello World,6
+Taio Cruz Featuring Travie McCoy,True,0,80,80,Higher,1
+Chris Brown,False,89,81,81,No BS,2
+Nicki Minaj Featuring Drake,True,0,82,82,Moment 4 Life,1
+Coldplay,False,35,25,83,Christmas Lights,3
+Kanye West Featuring Pusha T,False,73,12,84,Runaway,11
+Toby Keith,False,84,84,85,Bullets In The Gun,7
+P!nk,True,0,86,86,F**kin' Perfect,1
+Eric Church,False,87,78,87,Smoke A Little Smoke,14
+Usher,False,0,76,88,More,2
+Miguel Featuring J. Cole,False,79,58,89,All I Want Is You,14
+Jerrod Niemann,True,0,90,90,What Do You Want,1
+Diddy - Dirty Money Featuring Drake,False,0,91,91,Loving You No More,2
+Thompson Square,True,0,92,92,Are You Gonna Kiss Me Or Not,1
+R. Kelly,True,0,93,93,When A Woman Loves,1
+Fabolous,True,0,94,94,You Be Killin Em,1
+Daughtry,False,96,36,95,September,20
+Shakira Featuring El Cata or Dizzee Rascal,False,90,32,96,Loca,11
+The Script,True,0,97,97,For The First Time,1
+Sean Kingston Featuring Nicki Minaj,False,86,36,98,Letting Go (Dutty Love),20
+Glee Cast,False,57,57,99,"Baby, It's Cold Outside",2
+Mariah Carey,True,0,100,100,Oh Santa!,1

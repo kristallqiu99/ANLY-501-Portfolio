@@ -1,0 +1,2 @@
+"0","data_frame_unique <-  data_frame[!duplicated(data_frame$title),]"
+"0","head(data_frame_unique)"

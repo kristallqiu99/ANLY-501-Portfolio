@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+'N Sync,False,1,1,1,It's Gonna Be Me,14
+Sisqo,False,55,2,2,Incomplete,7
+matchbox twenty,False,2,1,3,Bent,15
+Vertical Horizon,False,3,1,4,Everything You Want,29
+Aaliyah,False,4,1,5,Try Again,21
+Destiny's Child,False,8,6,6,"Jumpin', Jumpin'",13
+Joe,False,5,4,7,I Wanna Know,32
+Nine Days,False,6,6,8,Absolutely (Story Of A Girl),14
+Creed,False,7,7,9,Higher,40
+Janet,False,15,10,10,Doesn't Really Matter,8
+Toni Braxton,False,10,2,11,He Wasn't Man Enough,21
+P!nk,False,9,7,12,There You Go,23
+LeAnn Rimes,False,50,13,13,I Need You,11
+Jagged Edge,False,11,11,14,Let's Get Married,14
+Ruff Endz,False,12,12,15,No More,6
+BBMak,False,13,13,16,Back Here,15
+Nelly,False,21,17,17,(Hot S**t) Country Grammar,15
+3 Doors Down,False,22,18,18,Kryptonite,18
+Sting Featuring Cheb Mami,False,19,19,19,Desert Rose,13
+Marc Anthony,False,20,2,20,You Sang To Me,24
+Next,False,24,21,21,Wifey,11
+Faith Hill,False,18,2,22,Breathe,40
+Jessica Simpson,False,25,23,23,I Think I'm In Love With You,6
+Enrique Iglesias,False,14,1,24,Be With You,19
+Christina Aguilera,False,17,3,25,I Turn To You,17
+Dr. Dre Featuring Snoop Dogg,False,23,23,26,The Next Episode,11
+Avant,False,29,23,27,Separated,15
+Mandy Moore,False,31,28,28,I Wanna Be With You,8
+Jay-Z Featuring UGK,False,26,18,29,Big Pimpin',16
+Eminem,False,16,4,30,The Real Slim Shady,14
+Da Brat Featuring Tyrese,False,28,28,31,What'Chu Like,10
+Son By Four,False,30,30,32,Purest Of Pain (A Puro Dolor),18
+Everclear,False,37,33,33,Wonderful,5
+Macy Gray,False,27,5,34,I Try,25
+Lee Ann Womack,False,32,32,35,I Hope You Dance,13
+Lara Fabian,False,40,36,36,I Will Love Again,9
+Lonestar,False,39,37,37,What About Now,9
+Jo Dee Messina,False,44,38,38,That's The Way,7
+Santana Featuring Rob Thomas,False,41,1,39,Smooth,54
+Donell Jones,False,34,29,40,Where I Wanna Be,16
+Rascal Flatts,False,46,41,41,Prayin' For Daylight,14
+Lonestar,False,42,1,42,Amazed,53
+Lucy Pearl,False,36,36,43,Dance Tonight,12
+Alan Jackson,False,49,44,44,It Must Be Love,7
+Westlife,False,33,20,45,Swear It Again,19
+Sisqo,False,43,3,46,Thong Song,28
+Santana Featuring The Product G&B,False,48,1,47,Maria Maria,26
+No Doubt,False,38,38,48,Simple Kind Of Life,6
+Britney Spears,False,35,9,49,Oops!...I Did It Again,16
+Chad Brock,False,45,22,50,Yes!,18
+Eric Heatherly,False,53,51,51,Flowers On The Wall,15
+Whitney Houston & Enrique Iglesias,False,60,52,52,Could I Have This Kiss Forever,8
+Reba McEntire,False,51,51,53,I'll Be,13
+Ideal Featuring Lil' Mo,False,54,54,54,Whatever,9
+Billy Gilman,False,56,55,55,One Voice,8
+SoulDecision Featuring Thrust,False,64,56,56,Faded,5
+Christina Aguilera,True,0,57,57,Come On Over Baby (All I Want Is You),1
+Don Henley,False,62,58,58,Taking You Home,7
+Sister Hazel,False,66,59,59,Change Your Mind,4
+Lil' Kim,False,67,60,60,No Matter What They Say,4
+SHeDAISY,False,70,61,61,I Will...But,4
+Goo Goo Dolls,False,57,24,62,Broadway,16
+Savage Garden,False,58,24,63,Crash And Burn,18
+Kelly Price,False,69,64,64,As We Lay,4
+Dixie Chicks,False,68,65,65,Cold Day In July,7
+Kandi,True,0,66,66,Don't Think I'm Not,1
+Carl Thomas,False,52,20,67,I Wish,20
+Alice Deejay,False,65,27,68,Better Off Alone,18
+Toni Braxton,False,76,69,69,Just Be A Man About It,2
+Tim McGraw,False,59,58,70,Some Things Never Change,13
+Papa Roach,False,75,71,71,Last Resort,2
+Red Hot Chili Peppers,False,72,72,72,Californication,2
+Keith Urban,False,73,73,73,Your Everything,4
+Brooks & Dunn,False,74,74,74,You'll Always Be Loved By Me,9
+Common,True,0,75,75,The Light,1
+Backstreet Boys,False,61,30,76,The One,11
+Joe,True,0,77,77,Treat Her Like A Lady,1
+Stone Temple Pilots,False,78,78,78,Sour Girl,5
+DMX Featuring Sisqo,False,86,79,79,What You Want,6
+Darryl Worley,False,80,80,80,When You Need My Love,9
+Splender,False,71,62,81,I Think God Can Explain,9
+Toby Keith,True,0,82,82,Country Comes To Town,1
+Clay Davidson,False,63,49,83,Unconditional,20
+Creed,False,79,68,84,With Arms Wide Open,13
+Baha Men,False,92,85,85,Who Let The Dogs Out,3
+Debelah Morgan,False,91,86,86,Dance With Me,2
+Metallica,False,82,76,87,I Disappear,13
+Whitney Houston & Deborah Cox,False,77,70,88,"Same Script, Different Cast",8
+Lil' Zane Featuring 112,False,83,83,89,Callin' Me,2
+Clay Walker,False,81,40,90,The Chain Of Love,17
+Eve & Jadakiss,False,88,88,91,Got It All,4
+504 Boyz,False,85,17,92,Wobble Wobble,17
+Madison Avenue,False,93,93,93,Don't Call Me Baby,5
+Mary Mary,False,84,28,94,Shackles (Praise You),20
+Mariah Carey Featuring Snoop Dogg,False,90,28,95,Crybaby,7
+LFO,True,0,96,96,West Side Story,1
+Mya Featuring Jadakiss,False,94,50,97,Best Of Me,17
+Ghostface Killah,True,0,98,98,Cherchez LaGhost,1
+"Torrey Carter Featuring Missy ""Misdemeanor"" Elliott",False,87,86,99,Take That,7
+A*Teens,False,95,95,100,Dancing Queen,5

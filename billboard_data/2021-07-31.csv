@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+BTS,FALSE,7,1,1,Butter,9
+Olivia Rodrigo,FALSE,2,1,2,Good 4 U,10
+Dua Lipa,FALSE,4,2,3,Levitating,42
+The Kid LAROI & Justin Bieber,FALSE,3,3,4,Stay,2
+Doja Cat Featuring SZA,FALSE,5,3,5,Kiss Me More,15
+Ed Sheeran,FALSE,6,5,6,Bad Habits,4
+BTS,FALSE,1,1,7,Permission To Dance,2
+Lil Nas X,FALSE,8,1,8,Montero (Call Me By Your Name),17
+Olivia Rodrigo,FALSE,10,3,9,Deja Vu,16
+The Weeknd & Ariana Grande,FALSE,9,1,10,Save Your Tears,32
+Justin Bieber Featuring Daniel Caesar & Giveon,FALSE,11,1,11,Peaches,18
+Silk Sonic (Bruno Mars & Anderson .Paak),FALSE,12,1,12,Leave The Door Open,20
+Polo G,FALSE,14,1,13,Rapstar,15
+Normani Featuring Cardi B,TRUE,0,14,14,Wild Side,1
+Walker Hayes,FALSE,21,15,15,Fancy Like,5
+Giveon,FALSE,18,16,16,Heartbreak Anniversary,23
+The Weeknd,FALSE,17,1,17,Blinding Lights,85
+Masked Wolf,FALSE,15,6,18,Astronaut In The Ocean,23
+Doja Cat & The Weeknd,FALSE,19,11,19,You Right,4
+The Kid LAROI,FALSE,20,8,20,Without You,33
+Luke Combs,FALSE,22,2,21,Forever After All,39
+DJ Khaled Featuring Lil Baby & Lil Durk,FALSE,23,20,22,Every Chance I Get,12
+Post Malone,FALSE,13,13,23,Motley Crew,2
+Marshmello X Jonas Brothers,FALSE,28,24,24,Leave Before You Love Me,9
+Megan Thee Stallion,FALSE,25,16,25,Thot Shit,6
+Nelly & Florida Georgia Line,FALSE,29,23,26,Lil Bit,18
+Cole Swindell,FALSE,27,26,27,Single Saturday Night,12
+Chris Young + Kane Brown,FALSE,24,21,28,Famous Friends,17
+Maroon 5 Featuring Megan Thee Stallion,FALSE,26,13,29,Beautiful Mistakes,20
+BIA Featuring Nicki Minaj,FALSE,16,16,30,Whole Lotta Money,2
+Doja Cat,FALSE,34,24,31,Ain't Shit,4
+Glass Animals,FALSE,35,19,32,Heat Waves,27
+Roddy Ricch,FALSE,33,20,33,Late At Night,7
+Dan + Shay,FALSE,31,31,34,Glad You Exist,24
+Maneskin,FALSE,41,35,35,Beggin',4
+Jason Aldean,FALSE,30,30,36,Blame It On You,13
+Chase Rice Featuring Florida Georgia Line,FALSE,40,37,37,Drinkin' Beer. Talkin' God. Amen.,8
+Kali Uchis,FALSE,36,25,38,Telepatia,22
+Olivia Rodrigo,FALSE,45,9,39,Traitor,9
+Saweetie Featuring Doja Cat,FALSE,32,14,40,Best Friend,28
+24kGoldn Featuring iann dior,FALSE,43,1,41,Mood,50
+Machine Gun Kelly X blackbear,FALSE,44,20,42,My Ex's Best Friend,49
+Olivia Rodrigo,FALSE,42,1,43,Drivers License,28
+Bad Bunny,FALSE,38,10,44,Yonaguni,7
+Rauw Alejandro,FALSE,47,32,45,Todo de Ti,8
+Doja Cat,FALSE,63,38,46,Need To Know,6
+Drake Featuring Lil Baby,FALSE,37,2,47,Wants And Needs,20
+Moneybagg Yo,FALSE,46,33,48,Wockesha,13
+Pop Smoke Featuring Kanye West & Pusha T,TRUE,0,49,49,Tell The Vision,1
+Trippie Redd Featuring Lil Uzi Vert,TRUE,0,50,50,Holy Smokes,1
+Lainey Wilson,FALSE,59,51,51,Things A Man Oughta Know,10
+Ariana Grande,FALSE,48,27,52,pov,20
+Miranda Lambert,FALSE,54,41,53,Settling Down,19
+Pop Smoke Featuring 21 Savage & 42 Dugg,TRUE,0,54,54,Bout A Million,1
+Keith Urban Duet With P!nk,FALSE,52,52,55,One Too Many,32
+DaBaby,FALSE,51,39,56,Ball If I Want To,5
+Duncan Laurence,FALSE,58,57,57,Arcade,15
+Ryan Hurd With Maren Morris,FALSE,56,56,58,Chasing After You,12
+Elle King & Miranda Lambert,FALSE,53,53,59,Drunk (And I Don't Wanna Go Home),13
+Regard x Troye Sivan x Tate McRae,FALSE,61,60,60,You,6
+Luke Bryan,FALSE,73,61,61,Waves,5
+AJR,FALSE,60,54,62,Way Less Sad,13
+Dierks Bentley,FALSE,55,26,63,Gone,19
+Pop Smoke Featuring Chris Brown,TRUE,0,64,64,Woo Baby,1
+Justin Moore,FALSE,70,65,65,We Didn't Have Much,5
+Thomas Rhett,FALSE,71,66,66,Country Again,12
+Wizkid Featuring Justin Bieber & Tems,FALSE,72,67,67,Essence,3
+Olivia Rodrigo,FALSE,57,16,68,Favorite Crime,9
+"J. Cole, 21 Savage & Morray",FALSE,65,2,69,my.life,10
+Kane Brown X blackbear,FALSE,50,50,70,Memory,2
+Pop Smoke Featuring Future,TRUE,0,71,71,Mr. Jones,1
+Migos,FALSE,62,23,72,Straightenin,10
+Nio Garcia X J Balvin X Bad Bunny,FALSE,66,41,73,AM,4
+Young Thug & Gunna,FALSE,64,18,74,Ski,14
+Billie Eilish,FALSE,39,39,75,NDA,2
+Olivia Rodrigo,FALSE,68,15,76,Happier,9
+Rod Wave,FALSE,81,11,77,Tombstone,17
+Tai Verdes,FALSE,83,78,78,A-O-K,3
+DaBaby,FALSE,67,50,79,Red Light Green Light,4
+Pop Smoke,TRUE,0,80,80,More Time,1
+"Lil Baby, Lil Durk & Travis Scott",FALSE,75,16,81,Hats Off,7
+Pop Smoke Featuring Rick Ross & The-Dream,TRUE,0,82,82,Manslaughter,1
+Blake Shelton,FALSE,82,67,83,Minimum Wage,11
+H.E.R. Featuring Chris Brown,FALSE,79,64,84,Come Through,7
+"Los Legendarios, Wisin & Jhay Cortez",FALSE,77,62,85,Fiel,6
+Pop Smoke Featuring Dua Lipa,TRUE,0,86,86,Demeanor,1
+Sleepy Hallow,TRUE,0,87,87,2055,1
+Olivia Rodrigo,FALSE,76,12,88,Brutal,9
+Dua Lipa,TRUE,0,89,89,Love Again,1
+Old Dominion,FALSE,85,85,90,I Was On A Boat That Day,3
+"Tyler, The Creator Featuring YoungBoy Never Broke Again & Ty Dolla $ign",FALSE,69,14,91,WUSYANAME,4
+Willow Featuring Travis Barker,FALSE,93,76,92,transparentsoul,6
+Aaron Lewis,FALSE,0,14,93,Am I The Only One,2
+City Girls,FALSE,80,51,94,Twerkulator,7
+Elvie Shane,FALSE,90,88,95,My Boy,4
+Bella Poarch,FALSE,84,56,96,Build A Bitch,10
+Pop Smoke Featuring Bizzy Banks,TRUE,0,97,97,30,1
+Chris Stapleton,FALSE,91,90,98,You Should Probably Leave,3
+Olivia Rodrigo,FALSE,87,24,99,"Jealousy, Jealousy",9
+Jameson Rodgers Featuring Luke Combs,FALSE,95,95,100,Cold Beer Calling My Name,3

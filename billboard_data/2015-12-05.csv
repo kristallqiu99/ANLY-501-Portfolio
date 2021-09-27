@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Adele,False,1,1,1,Hello,4
+Justin Bieber,False,3,2,2,Sorry,4
+Drake,False,2,2,3,Hotline Bling,16
+Justin Bieber,True,0,4,4,Love Yourself,1
+Justin Bieber,False,6,1,5,What Do You Mean?,12
+The Weeknd,False,4,1,6,The Hills,26
+Shawn Mendes,False,5,4,7,Stitches,26
+Fetty Wap Featuring Remy Boyz,False,7,4,8,679,21
+Taylor Swift,False,8,5,9,Wildest Dreams,13
+Alessia Cara,False,11,10,10,Here,16
+Meghan Trainor Featuring John Legend,False,9,9,11,Like I'm Gonna Lose You,20
+Elle King,False,10,10,12,Ex's & Oh's,20
+Selena Gomez,False,14,13,13,Same Old Love,10
+Ariana Grande,False,13,7,14,Focus,3
+Ellie Goulding,False,15,15,15,On My Mind,9
+Drake & Future,False,16,12,16,Jumpman,9
+The Weeknd,False,12,1,17,Can't Feel My Face,24
+Silento,False,18,3,18,Watch Me,39
+Justin Bieber,False,27,19,19,I'll Show You,3
+R. City Featuring Adam Levine,False,17,6,20,Locked Away,18
+Major Lazer & DJ Snake Featuring MO,False,19,4,21,Lean On,33
+Missy Elliott Featuring Pharrell Williams,False,91,22,22,WTF (Where They From),2
+Travis Scott,False,24,23,23,Antidote,11
+Mark Ronson Featuring Bruno Mars,False,36,1,24,Uptown Funk!,54
+Thomas Rhett,False,25,25,25,Die A Happy Man,9
+X Ambassadors,False,21,17,26,Renegades,32
+iLoveMemphis,False,23,15,27,Hit The Quan,14
+Post Malone,False,28,28,28,White Iverson,11
+Fetty Wap,False,22,2,29,Trap Queen,44
+Jordan Smith,True,0,30,30,Great Is Thy Faithfulness,1
+Justin Bieber Featuring Halsey,True,0,31,31,The Feeling,1
+Selena Gomez Featuring A$AP Rocky,False,26,5,32,Good For You,22
+Chris Young,False,44,33,33,I'm Comin' Over,21
+Skrillex & Diplo With Justin Bieber,False,49,8,34,Where Are U Now,38
+Future Featuring Drake,False,31,28,35,Where Ya At,18
+Demi Lovato,False,32,31,36,Confident,7
+One Direction,False,40,10,37,Perfect,5
+Bryson Tiller,False,42,38,38,Don't,8
+Fetty Wap Featuring Monty,False,35,7,39,My Way,20
+One Direction,False,29,3,40,Drag Me Down,16
+Wiz Khalifa Featuring Charlie Puth,False,33,1,41,See You Again,37
+Justin Bieber,True,0,42,42,Mark My Words,1
+Justin Bieber,True,0,43,43,Purpose,1
+Sam Hunt,False,43,42,44,Break Up In A Small Town,7
+Fetty Wap,False,41,33,45,Again,15
+Ed Sheeran,False,37,10,46,Photograph,28
+OMI,False,34,1,47,Cheerleader,31
+Calvin Harris & Disciples,False,38,27,48,How Deep Is Your Love,18
+Justin Bieber Featuring Big Sean,True,0,49,49,No Pressure,1
+Rudimental Featuring Ed Sheeran,False,48,48,50,Lay It All On Me,7
+Tory Lanez,False,57,51,51,Say It,5
+J. Cole,False,50,50,52,No Role Modelz,14
+Justin Bieber,True,0,53,53,Company,1
+Justin Bieber Featuring Travi$ Scott,True,0,54,54,No Sense,1
+DeJ Loaf Featuring Big Sean,False,54,54,55,Back Up,7
+Carrie Underwood,False,46,43,56,Smoke Break,13
+"Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz",False,30,12,57,Downtown,13
+Cam,False,51,50,58,Burning House,19
+DLOW,False,61,59,59,Do It Like Me,2
+Dan + Shay,False,62,60,60,Nothin' Like You,15
+Blake Shelton,False,59,59,61,Gonna,10
+The Chainsmokers Featuring Rozes,False,64,62,62,Roses,5
+Ty Dolla $ign Featuring Future & Rae Sremmurd,False,63,63,63,Blase,10
+Old Dominion,False,53,44,64,Break Up With Him,20
+Rae Sremmurd,False,58,56,65,Come Get Her,10
+Chris Stapleton,False,20,20,66,Tennessee Whiskey,3
+Justin Bieber,True,0,67,67,Life Is Worth Living,1
+Drake,False,56,21,68,Back To Back,16
+twenty one pilots,False,69,69,69,Stressed Out,9
+Luke Bryan,False,52,30,70,Strip It Down,16
+Nelly Featuring Jeremih,False,66,66,71,The Fix,8
+Coldplay,False,55,55,72,Adventure Of A Lifetime,2
+Jason Aldean,False,74,63,73,Gonna Know We Were Here,6
+Justin Bieber,True,0,74,74,Children,1
+Daya,False,71,71,75,Hide Away,9
+Drake & Future,False,70,52,76,Big Rings,9
+Brothers Osborne,False,72,72,77,Stay A Little Longer,7
+Bryson Tiller,False,76,76,78,Exchange,4
+Chris Brown,False,68,60,79,Liquor,12
+Cole Swindell,False,60,59,80,Let Me See Ya Girl,16
+Justin Bieber,True,0,81,81,Been You,1
+Jana Kramer,False,77,77,82,I Got The Boy,6
+One Direction,True,0,83,83,If I Could Fly,1
+Hailee Steinfeld,False,67,30,84,Love Myself,15
+Tim McGraw,False,80,80,85,Top Of The World,6
+The Weeknd,False,0,86,86,In The Night,2
+One Direction,True,0,87,87,Olivia,1
+Justin Bieber Featuring Nas,True,0,88,88,We Are,1
+G-Eazy x Bebe Rexha,False,89,83,89,"Me, Myself & I",3
+Justin Bieber,True,0,90,90,Get Used To It,1
+Drake,False,78,58,91,Right Hand,10
+LOCASH,False,90,88,92,I Love This Life,4
+DNCE,False,86,79,93,Cake By The Ocean,5
+One Direction,True,0,94,94,A.M.,1
+Fetty Wap,False,84,57,95,RGF Island,9
+One Direction,True,0,96,96,Temporary Fix,1
+Shawn Mendes & Camila Cabello,True,0,97,97,I Know What You Did Last Summer,1
+Justin Bieber,True,0,98,98,Trust,1
+Flo Rida,False,96,96,99,My House,2
+One Direction,True,0,100,100,Never Enough,1

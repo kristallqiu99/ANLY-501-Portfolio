@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Justin Bieber,False,1,1,1,Sorry,13
+Justin Bieber,False,3,2,2,Love Yourself,10
+Adele,False,2,1,3,Hello,13
+twenty one pilots,False,4,4,4,Stressed Out,18
+Alessia Cara,False,6,5,5,Here,25
+Shawn Mendes,False,8,4,6,Stitches,35
+Selena Gomez,False,5,5,7,Same Old Love,19
+The Chainsmokers Featuring Rozes,False,11,8,8,Roses,14
+Drake,False,7,2,9,Hotline Bling,25
+Justin Bieber,False,10,1,10,What Do You Mean?,21
+Meghan Trainor Featuring John Legend,False,9,8,11,Like I'm Gonna Lose You,29
+Flo Rida,False,23,12,12,My House,11
+The Weeknd,False,15,12,13,In The Night,11
+Drake & Future,False,12,12,14,Jumpman,18
+Bryson Tiller,False,13,13,15,Don't,17
+G-Eazy x Bebe Rexha,False,19,16,16,"Me, Myself & I",12
+Post Malone,False,16,14,17,White Iverson,20
+The Weeknd,False,14,1,18,The Hills,35
+Travis Scott,False,17,16,19,Antidote,20
+Fetty Wap Featuring Remy Boyz,False,18,4,20,679,30
+Selena Gomez,False,37,21,21,Hands To Myself,7
+DNCE,False,22,22,22,Cake By The Ocean,14
+Tory Lanez,False,26,23,23,Say It,14
+Shawn Mendes & Camila Cabello,False,20,20,24,I Know What You Did Last Summer,10
+Thomas Rhett,False,24,21,25,Die A Happy Man,18
+Charlie Puth,False,34,26,26,One Call Away,8
+Ellie Goulding,False,21,13,27,On My Mind,18
+Silento,False,29,3,28,Watch Me,48
+Elle King,False,25,10,29,Ex's & Oh's,29
+Daya,False,31,30,30,Hide Away,18
+Yo Gotti Featuring Nicki Minaj,False,36,31,31,Down In The DM,8
+The Weeknd,False,27,1,32,Can't Feel My Face,33
+Sam Hunt,False,33,29,33,Break Up In A Small Town,16
+Taylor Swift,False,28,5,34,Wildest Dreams,22
+Adele,False,41,22,35,When We Were Young,9
+Major Lazer & DJ Snake Featuring MO,False,32,4,36,Lean On,42
+Wiz Khalifa Featuring Charlie Puth,False,38,1,37,See You Again,46
+One Direction,False,35,10,38,Perfect,14
+Bryson Tiller,False,44,39,39,Exchange,13
+Demi Lovato,False,30,21,40,Confident,16
+J. Cole,False,43,36,41,No Role Modelz,23
+Rachel Platten,False,46,38,42,Stand By You,10
+Fetty Wap,False,47,33,43,Again,24
+Luke Bryan Featuring Karen Fairchild,False,48,44,44,Home Alone Tonight,9
+Young Thug,False,52,45,45,Best Friend,9
+Brothers Osborne,False,54,46,46,Stay A Little Longer,16
+Coldplay,False,50,39,47,Adventure Of A Lifetime,11
+R. City Featuring Adam Levine,False,49,6,48,Locked Away,27
+Chris Brown,False,51,49,49,Back To Sleep,6
+Taylor Swift,False,55,18,50,Out Of The Woods,5
+Ariana Grande,False,53,7,51,Focus,12
+Fall Out Boy,False,57,48,52,Irresistible,10
+DLOW,False,58,45,53,Do It Like Me,11
+Jason Derulo,False,62,54,54,Get Ugly,5
+Jeremih,False,64,55,55,Oui,3
+LOCASH,False,59,56,56,I Love This Life,13
+Granger Smith,False,65,57,57,Backroad Song,7
+Robin Schulz Featuring Francesco Yates,False,68,58,58,Sugar,3
+Jana Kramer,False,56,56,59,I Got The Boy,15
+Carrie Underwood,False,70,60,60,Heartbeat,3
+DeJ Loaf Featuring Big Sean,False,60,47,61,Back Up,16
+Kevin Gates,False,71,62,62,2 Phones,3
+Drake & Future,False,63,52,63,Big Rings,18
+Zac Brown Band,False,69,64,64,Beautiful Drug,9
+Keith Urban,False,72,65,65,Break On Me.,4
+Nelly Featuring Jeremih,False,66,62,66,The Fix,17
+Bryson Tiller,False,74,67,67,Sorry Not Sorry,6
+Dawin,False,79,68,68,Dessert,7
+Brett Eldredge,False,94,69,69,Drunk On Your Love,2
+Cole Swindell,False,82,69,70,You Should Be Here,6
+Kelsea Ballerini,False,75,71,71,Dibs,12
+Panic! At The Disco,False,0,68,72,Emperor's New Clothes,3
+Lil Dicky Featuring Fetty Wap & Rich Homie Quan,False,77,71,73,$ave Dat Money,13
+Jason Aldean,False,61,54,74,Gonna Know We Were Here,15
+Justin Bieber,False,67,19,75,I'll Show You,12
+Kevin Gates,False,83,76,76,Really Really,5
+Missy Elliott Featuring Pharrell Williams,False,73,22,77,WTF (Where They From),11
+Florida Georgia Line,False,84,78,78,Confession,4
+Mike Posner,True,0,79,79,I Took A Pill In Ibiza,1
+Chris Stapleton,False,97,80,80,Nobody To Blame,3
+Tori Kelly,False,90,80,81,Hollow,6
+Empire Of The Sun,True,0,82,82,Walking On A Dream,1
+Andy Grammer,False,81,62,83,Good To Be Alive (Hallelujah),6
+David Guetta Featuring Sia & Fetty Wap,False,98,84,84,Bang My Head,2
+Eric Church,False,86,84,85,Mr. Misunderstood,4
+James Bay,False,87,86,86,Let It Go,5
+Halsey,False,76,60,87,New Americana,17
+2 Chainz,False,85,85,88,Watch Out,4
+Panic! At The Disco,True,0,89,89,Victorious,1
+Randy Houser,False,93,90,90,We Went,5
+Big Sean Featuring Chris Brown & Ty Dolla $ign,False,89,84,91,Play No Games,12
+Panic! At The Disco,True,0,92,92,Death Of A Bachelor,1
+Rudimental Featuring Ed Sheeran,False,88,48,93,Lay It All On Me,16
+Drake,False,91,58,94,Right Hand,19
+DJ Snake Featuring Bipolar Sunshine,True,0,95,95,Middle,1
+Lukas Graham,True,0,96,96,7 Years,1
+Rae Sremmurd,False,96,56,97,Come Get Her,19
+iLoveMemphis,True,0,98,98,Lean & Dabb,1
+J Balvin,False,100,84,99,Ginza,15
+The Weeknd,False,0,60,100,Acquainted,4

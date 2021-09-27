@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Beyonce,False,1,1,1,Irreplaceable,14
+Fall Out Boy,True,0,2,2,"This Ain't A Scene, It's An Arms Race",1
+Nelly Furtado,False,4,3,3,Say It Right,11
+Akon Featuring Snoop Dogg,False,2,1,4,I Wanna Love You,17
+Jim Jones,False,6,5,5,We Fly High,16
+Daughtry,False,21,6,6,It's Not Over,9
+Fergie,False,3,2,7,Fergalicious,18
+Akon Featuring Eminem,False,5,2,8,Smack That,18
+The Fray,False,7,3,9,How To Save A Life,41
+My Chemical Romance,False,9,9,10,Welcome To The Black Parade,19
+Ludacris Featuring Mary J. Blige,False,13,11,11,Runaway Love,10
+Justin Timberlake Featuring T.I.,False,8,1,12,My Love,20
+Justin Timberlake,False,12,12,13,What Goes Around...Comes Around,7
+Corbin Bleu,True,0,14,14,Push It To The Limit,1
+The All-American Rejects,False,10,8,15,It Ends Tonight,17
+Unk,False,15,13,16,Walk It Out,20
+Lloyd Featuring Lil Wayne,False,18,17,17,You,11
+Bow Wow Featuring Chris Brown & Johnta Austin,False,11,9,18,Shortie Like Mine,16
+Gwen Stefani Featuring Akon,False,31,19,19,The Sweet Escape,6
+Fat Joe Featuring Lil Wayne,False,19,19,20,Make It Rain,12
+Hinder,False,14,3,21,Lips Of An Angel,28
+Ciara,False,17,11,22,Promise,11
+KT Tunstall,False,35,23,23,Suddenly I See,25
+Paula DeAnda Featuring The DEY,False,20,18,24,Walk Away (Remember Me),16
+John Mayer,False,23,15,25,Waiting On The World To Change,28
+Avril Lavigne,False,22,17,26,Keep Holding On,8
+Omarion,False,30,27,27,Ice Box,8
+Justin Timberlake,False,16,1,28,SexyBack,29
+Snow Patrol,False,24,5,29,Chasing Cars,36
+Snoop Dogg Featuring R. Kelly,False,25,20,30,That's That,10
+Carrie Underwood,False,26,16,31,Before He Cheats,21
+Hellogoodbye,False,38,32,32,Here (In Your Arms),12
+Red Hot Chili Peppers,False,33,31,33,Snow ((Hey Oh)),10
+Nickelback,False,28,8,34,Far Away,27
+Augustana,False,37,35,35,Boston,16
+The Pussycat Dolls Featuring Timbaland,False,32,28,36,Wait A Minute,11
+Ludacris Featuring Pharrell,False,27,1,37,Money Maker,24
+Rodney Atkins,False,39,38,38,Watching You,12
+Christina Aguilera,False,29,19,39,Hurt,17
+Stone Sour,False,41,39,40,Through Glass,25
+Brad Paisley,False,42,35,41,She's Everything,16
+Young Jeezy,False,34,14,42,I Luv It,10
+Taylor Swift,False,40,40,43,Tim McGraw,20
+Rascal Flatts,False,43,6,44,What Hurts The Most,51
+Gwen Stefani,False,36,6,45,Wind It Up,12
+The Red Jumpsuit Apparatus,False,52,46,46,Face Down,24
+Keith Urban,False,53,47,47,Stupid Boy,7
+T.I.,False,50,48,48,Top Back,7
+Gym Class Heroes Featuring Patrick Stump,False,83,49,49,Cupid's Chokehold/Breakfast In America,3
+Nickelback,True,0,50,50,If Everyone Cared,1
+Rascal Flatts,False,49,28,51,My Wish,20
+Chris Brown Featuring Jay Biz,False,54,52,52,Poppin',8
+Blue October,False,55,53,53,Into The Ocean,7
+Jordan Pruitt,False,69,54,54,Jump To The Rhythm,2
+Diddy Featuring Christina Aguilera,False,51,47,55,Tell Me,14
+Lil Scrappy Featuring Young Buck,False,46,28,56,Money In The Bank,19
+Robin Thicke,False,67,57,57,Lost Without U,6
+Regina Spektor,False,0,58,58,Fidelity,4
+"""Weird Al"" Yankovic",False,48,9,59,White & Nerdy,17
+Rihanna & Sean Paul,False,65,54,60,Break It Off,8
+Beyonce,False,68,61,61,Listen,5
+Three Days Grace,False,56,56,62,Pain,8
+Jason Aldean,False,59,59,63,Amarillo Sky,15
+Kellie Pickler,False,66,64,64,Red High Heels,8
+Nickelback,False,57,54,65,Rockstar,17
+George Strait,False,63,58,66,It Just Comes Natural,12
+Baby Boy Da Prince Featuring Lil Boosie,False,73,67,67,The Way I Live,6
+Nelly Furtado,False,64,16,68,Maneater,19
+Mat Kearney,False,86,69,69,Nothing Left To Lose,13
+Lil' Boosie Featuring Yung Joc,False,61,61,70,Zoom,8
+Sugarland,False,60,32,71,Want To,18
+Pretty Ricky,False,76,72,72,On The Hotline,4
+Jennifer Hudson,False,81,73,73,And I Am Telling You I'm Not Going,4
+Jason Michael Carroll,False,72,69,74,Alyssa Lies,4
+Trace Adkins,False,74,74,75,Ladies Love Country Boys,7
+Rich Boy Featuring Polow Da Don,False,75,73,76,Throw Some D's,7
+Fergie Featuring Ludacris,False,98,77,77,Glamorous,2
+Tim McGraw,False,62,35,78,My Little Girl,19
+Akon,True,0,79,79,Don't Matter,1
+Rob Thomas,False,79,64,80,Streetcorner Symphony,17
+Hannah Montana,False,78,47,81,If We Were A Movie,8
+Jibbs Featuring Chamillionaire,False,87,82,82,King Kong,4
+Jay-Z Featuring Chrisette Michele,False,70,58,83,Lost One,7
+Craig Morgan,False,90,84,84,Little Bit Of Life,6
+Petey Pablo,False,0,58,85,Show Me The Money,4
+Young Jeezy Featuring R. Kelly,True,0,86,86,Go Getta,1
+Mims,True,0,87,87,This Is Why I'm Hot,1
+Incubus,False,93,66,88,Anna-Molly,8
+Lumidee Featuring Tony Sunshine,True,0,89,89,She's Like The Wind,1
+The Wreckers,False,94,90,90,"My, Oh My",2
+Mary J. Blige,False,96,58,91,Take Me As I Am,16
+Vanessa Hudgens,False,88,55,92,Come Back To Me,19
+P!nk,False,91,89,93,U + Ur Hand,4
+Diddy Featuring Keyshia Cole,True,0,94,94,Last Night,1
+30 Seconds To Mars,True,0,95,95,From Yesterday,1
+Cartel,False,97,89,96,Honestly,4
+Ashley Tisdale,False,77,77,97,He Said She Said,2
+Trent Tomlinson,False,0,96,98,One Wing In The Fire,3
+Cherish,False,85,41,99,Unappreciated,17
+U2 & Green Day,False,0,51,100,The Saints Are Coming,9

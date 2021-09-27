@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Soulja Boy Tell'em,False,2,1,1,Crank That (Soulja Boy),11
+Kanye West,False,1,1,2,Stronger,9
+Timbaland Featuring Keri Hilson,False,3,3,3,The Way I Are,17
+Fergie,False,4,1,4,Big Girls Don't Cry,23
+J. Holiday,False,6,5,5,Bed,10
+50 Cent Featuring Justin Timberlake & Timbaland,False,5,5,6,Ayo Technology,7
+Keyshia Cole Featuring Missy Elliott & Lil Kim,False,7,7,7,Let It Go,14
+Nickelback,False,8,6,8,Rockstar,33
+P!nk,False,9,9,9,Who Knew,16
+Colbie Caillat,False,16,10,10,Bubbly,13
+matchbox twenty,False,12,11,11,How Far We've Come,4
+Plies Featuring T-Pain,False,10,9,12,Shawty,15
+Kanye West Featuring T-Pain,False,14,13,13,Good Life,2
+Plain White T's,False,13,1,14,Hey There Delilah,26
+T-Pain Featuring Akon,False,11,5,15,Bartender,17
+Alicia Keys,False,15,15,16,No One,3
+Justin Timberlake,False,18,17,17,LoveStoned,12
+Baby Bash Featuring T-Pain,False,27,18,18,Cyclone,9
+Maroon 5,False,23,19,19,Wake Up Call,7
+Elliott Yamin,False,22,13,20,Wait For You,23
+Rihanna Featuring Jay-Z,False,17,1,21,Umbrella,24
+Timbaland Featuring OneRepublic,False,33,22,22,Apologize,8
+Fabolous Featuring Ne-Yo,False,19,8,23,Make Me Better,18
+Sean Kingston,False,21,1,24,Beautiful Girls,18
+50 Cent,False,20,20,25,I Get Money,5
+Boys Like Girls,False,26,23,26,The Great Escape,19
+Sean Kingston,False,24,14,27,Me Love,8
+Feist,False,61,28,28,1234,2
+Avril Lavigne,False,29,24,29,When You're Gone,14
+Lifehouse,False,32,26,30,First Time,20
+Hurricane Chris,False,25,7,31,A Bay Bay,16
+Kenny Chesney,False,30,30,32,Don't Blink,3
+Daughtry,False,37,33,33,Over You,7
+Daughtry,False,36,5,34,Home,30
+T.I. Featuring Wyclef Jean,False,38,34,35,You Know What It Is,12
+Maroon 5,False,34,1,36,Makes Me Wonder,25
+T-Pain Featuring Yung Joc,False,35,1,37,Buy U A Drank (Shawty Snappin'),31
+Akon,False,31,7,38,"Sorry, Blame It On Me",10
+Rihanna Featuring Ne-Yo,False,54,39,39,Hate That I Love You,4
+Carrie Underwood,False,39,8,40,Before He Cheats,56
+Fall Out Boy,False,40,11,41,Thnks Fr Th Mmrs,24
+Rihanna,False,28,15,42,Shut Up And Drive,16
+Brad Paisley,False,42,42,43,Online,10
+Carrie Underwood,False,44,17,44,So Small,6
+Finger Eleven,False,45,43,45,Paralyzer,16
+Tim McGraw,False,48,43,46,If You're Reading This,7
+Justin Timberlake Duet With Beyonce,False,56,47,47,Until The End Of Time,12
+Foo Fighters,False,58,48,48,The Pretender,7
+Toby Keith,False,51,49,49,Love Me If You Can,9
+Rascal Flatts,False,55,50,50,Take Me There,9
+Reba McEntire Duet With Kelly Clarkson,False,64,50,51,Because Of You,13
+Linkin Park,False,53,52,52,Bleed It Out,8
+Jennifer Lopez,True,0,53,53,Do It Well,1
+Kanye West,False,41,41,54,Can't Tell Me Nothing,12
+Ne-Yo,False,49,26,55,Do You,17
+Gorilla Zoe,False,65,56,56,Hood Figga,9
+Brooks & Dunn,False,60,57,57,Proud Of The House We Built,9
+Ciara Featuring 50 Cent,False,52,40,58,Can't Leave 'Em Alone,10
+Fabolous Featuring Jermaine Dupri,False,68,59,59,Baby Don't Go,4
+Luke Bryan,False,59,59,60,All My Friends Say,8
+Nelly,False,57,43,61,Wadsyaname,4
+will.i.am,False,43,31,62,I Got It From My Mama,7
+Kat DeLuna Featuring Elephant Man,False,62,29,63,Whine Up,17
+Kenny Chesney,False,50,22,64,Never Wanted Nothing More,14
+Musiq Soulchild,False,66,42,65,teachme,20
+The-Dream,False,82,66,66,Shawty Is A 10,3
+Dierks Bentley,False,70,67,67,Free And Easy (Down The Road I Go),8
+Britney Spears,False,75,68,68,Gimme More,3
+Garth Brooks,False,69,69,69,More Than A Memory,4
+Michael Buble,False,71,46,70,Everything,20
+Three Days Grace,False,74,71,71,Never Too Late,8
+Rodney Atkins,False,63,42,72,These Are My People,16
+James Blunt,True,0,73,73,1973,1
+Chris Brown Featuring T-Pain,False,100,74,74,Kiss Kiss,2
+Paramore,False,73,34,75,Misery Business,10
+Aly & AJ,False,67,17,76,Potential Breakup Song,13
+My Chemical Romance,False,80,67,77,Teenagers,15
+Good Charlotte,False,85,78,78,I Don't Wanna Be In Love (Dance Floor Anthem),3
+Jason Michael Carroll,False,79,79,79,Livin' Our Love Song,4
+UGK Featuring OutKast,False,78,70,80,Int'l Players Anthem (I Choose You),7
+Cassidy Featuring Swizz Beatz,False,95,81,81,My Drink N' My 2 Step,2
+Jonas Brothers,False,76,17,82,S.O.S.,7
+"DJ Khaled Featuring T-Pain, Trick Daddy, Rick Ross & Plies",False,93,83,83,I'm So Hood,2
+Clay Walker,False,89,84,84,Fall,3
+George Strait,False,90,85,85,How 'Bout Them Cowgirls,3
+Juanes,False,99,86,86,Me Enamora,2
+Josh Turner,False,96,87,87,Firecracker,2
+"Wyclef Jean Featuring Akon, Lil Wayne & Niia",False,94,88,88,Sweetest Girl (Dollar Bill),2
+Gym Class Heroes,False,81,46,89,Clothes Off!!,6
+Swizz Beatz,False,84,84,90,Money In The Bank,4
+Playaz Circle Featuring Lil Wayne,True,0,91,91,Duffle Bag Boy,1
+T.I.,False,77,9,92,Big Things Poppin' (Do It),18
+Mims,False,83,32,93,Like This,20
+Gucci Mane,True,0,94,94,Freaky Gurl,1
+Miranda Lambert,True,0,95,95,Famous In A Small Town,1
+Backstreet Boys,False,86,86,96,Inconsolable,2
+Enrique Iglesias,False,97,21,97,Do You Know? (The Ping Pong Song)/Dimelo,19
+R. Kelly Duet With Usher,False,91,20,98,Same Girl,20
+Trey Songz,True,0,99,99,Can't Help But Wait,1
+Cupid,False,87,66,100,Cupid Shuffle,12

@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Eminem,False,1,1,1,Lose Yourself,9
+"Missy ""Misdemeanor"" Elliott",False,2,2,2,Work It,12
+No Doubt Featuring Lady Saw,False,3,3,3,Underneath It All,14
+LL Cool J,False,4,4,4,Luv U Better,15
+Santana Featuring Michelle Branch,False,7,5,5,The Game Of Love,9
+Jennifer Lopez Featuring Styles & Jadakiss,False,8,6,6,Jenny From The Block,8
+"Cam'Ron Featuring Juelz Santana, Freekey Zekey & Toya",False,5,3,7,Hey Ma,14
+Sean Paul,False,9,8,8,Gimme The Light,31
+Nelly Featuring Kelly Rowland,False,6,1,9,Dilemma,21
+Madonna,False,10,8,10,Die Another Day,7
+Jay-Z Featuring Beyonce Knowles,False,12,11,11,'03 Bonnie & Clyde,6
+"Nelly Featuring Kyjuan, Ali & Murphy Lee",False,23,12,12,Air Force Ones,4
+Erykah Badu Featuring Common,False,16,13,13,Love Of My Life (An Ode To Hip Hop),13
+Nivea Featuring Brian & Brandon Casey,False,22,14,14,Don't Mess With My Man,17
+Creed,False,14,6,15,One Last Breath,26
+Dixie Chicks,False,18,16,16,Landslide,11
+Avril Lavigne,False,13,10,17,Sk8er Boi,12
+Justin Timberlake,False,15,11,18,Like I Love You,13
+Musiq,False,17,17,19,dontchange,13
+Puddle Of Mudd,False,24,20,20,She Hates Me,8
+Clipse,False,21,21,21,When The Last Time,12
+Kelly Clarkson,False,11,1,22,A Moment Like This,11
+Avril Lavigne,False,19,2,23,Complicated,27
+Ashanti,False,20,15,24,Baby,19
+Keith Urban,False,26,23,25,Somebody Like You,16
+Rascal Flatts,False,30,26,26,These Days,9
+Kelly Rowland,False,32,27,27,Stole,10
+TLC,False,33,28,28,Girl Talk,6
+John Mayer,False,35,29,29,Your Body Is A Wonderland,5
+Eve Featuring Alicia Keys,False,25,2,30,Gangsta Lovin',21
+Daniel Bedingfield,False,31,10,31,Gotta Get Thru This,19
+Nappy Roots Featuring Anthony Hamilton,False,28,21,32,Po' Folks,20
+George Strait,False,36,33,33,She'll Leave You With A Smile,9
+Shania Twain,False,34,34,34,I'm Gonna Getcha Good!,7
+Toby Keith,False,37,35,35,Who's Your Daddy?,9
+Aaliyah,False,29,16,36,I Care 4 U,15
+matchbox twenty,False,38,37,37,Disease,7
+Angie Martinez Featuring Lil' Mo & Sacario,False,27,15,38,If I Could Go!,24
+Christina Aguilera,False,62,39,39,Beautiful,2
+P!nk,False,53,40,40,Family Portrait,3
+Erick Sermon Featuring Redman,False,46,41,41,React,7
+Vanessa Carlton,False,39,5,42,A Thousand Miles,40
+DJ Sammy & Yanou Featuring Do,False,42,8,43,Heaven,27
+Ginuwine,False,43,33,44,Stingy,18
+Nirvana,False,45,45,45,You Know You're Right,7
+Montgomery Gentry,False,40,40,46,My Town,10
+Tim McGraw,False,52,47,47,Red Rag Top,8
+Diamond Rio,False,44,28,48,Beautiful Mess,17
+Red Hot Chili Peppers,False,49,49,49,The Zephyr Song,4
+"P. Diddy & Ginuwine Featuring Loon, Mario Winans & Tammy Ruggeri",False,48,4,50,I Need A Girl (Part Two),26
+Foo Fighters,False,51,51,51,All My Life,5
+Norah Jones,False,55,52,52,Don't Know Why,10
+Jaheim Featuring Tha Rayne,False,57,53,53,Fabulous,3
+Faith Hill,False,50,33,54,Cry,14
+Aaliyah,True,0,55,55,Miss You,1
+Stone Sour,False,56,56,56,Bother,5
+Ja Rule Featuring Bobby Brown,False,72,57,57,Thug Lovin',2
+Mark Wills,False,69,58,58,19 Somethin',2
+Uncle Kracker,False,60,59,59,In A Little While,5
+Disturbed,False,58,58,60,Prayer,10
+Michelle Branch,False,47,21,61,Goodbye To You,14
+Eve,True,0,62,62,Satisfaction,1
+Emerson Drive,False,66,63,63,Fall Into Me,3
+Alan Jackson,False,41,35,64,Work In Progress,15
+3 Doors Down,False,67,65,65,When I'm Gone,2
+R. Kelly,False,79,66,66,Ignition,4
+B2K & P. Diddy,True,0,67,67,"Bump, Bump, Bump",1
+50 Cent,True,0,68,68,Wanksta,1
+Christina Aguilera Featuring Redman,False,68,48,69,Dirrty,11
+Terri Clark,False,76,70,70,I Just Wanna Be Mad,4
+Isyss,False,78,71,71,Single For The Rest Of My Life,6
+Our Lady Peace,False,61,44,72,Somewhere Out There,15
+Audioslave,False,77,73,73,Cochise,2
+Kenny Chesney,True,0,74,74,A Lot Of Things Different,1
+"Big Tymers Featuring Tateeze, Boo & Gotti",False,63,46,75,Oh Yeah!,14
+System Of A Down,False,73,55,76,Aerials,16
+Chevelle,True,0,77,77,The Red,1
+Vanessa Carlton,False,59,30,78,Ordinary Day,15
+Eminem,False,64,4,79,Cleanin' Out My Closet,18
+Lasgo,False,80,80,80,Something,5
+WC Featuring Nate Dogg,False,81,81,81,The Streets,10
+Benzino,False,82,82,82,Rock The Party,8
+Oakenfold Featuring Shifty Shellshock,False,54,41,83,Starry Eyed Surprise,7
+Lifehouse,False,84,84,84,Spin,3
+Baby Featuring P. Diddy,False,85,85,85,Do That...,3
+Toni Braxton Featuring Loon,False,86,86,86,Hit The Freeway,4
+Snoop Dogg,False,87,87,87,From Tha Chuuuch To Da Palace,4
+Busta Rhymes Featuring Spliff Star,False,91,88,88,Make It Clap,4
+Las Ketchup,False,65,54,89,The Ketchup Song (Hey Hah),8
+Martina McBride,False,70,45,90,Where Would You Be,13
+Kid Rock Featuring Sheryl Crow Or Allison Moorer,True,0,91,91,Picture,1
+India.Arie,False,92,89,92,Little Things,10
+Fabolous Featuring P. Diddy & Jagged Edge,False,75,20,93,Trade It All,16
+Whitney Houston,False,94,94,94,One Of Those Days,3
+Rebecca Lynn Howard,False,74,71,95,Forgive,4
+Pearl Jam,False,71,43,96,I Am Mine,8
+Fat Joe Featuring Ginuwine,False,83,77,97,Crush Tonight,7
+Phil Vassar,False,90,48,98,American Child,15
+Styles,False,88,22,99,Good Times,20
+Mario,False,89,74,100,Braid My Hair,8

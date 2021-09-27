@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+The Black Eyed Peas,False,1,1,1,I Gotta Feeling,15
+"Jay-Z, Rihanna & Kanye West",False,4,2,2,Run This Town,8
+Jay Sean Featuring Lil Wayne,False,2,2,3,Down,12
+Taylor Swift,False,6,2,4,You Belong With Me,22
+Jay-Z + Alicia Keys,False,50,5,5,Empire State Of Mind,2
+Miley Cyrus,False,3,2,6,Party In The U.S.A.,6
+Lady Gaga,False,18,7,7,Paparazzi,4
+"Drake Featuring Kanye West, Lil Wayne & Eminem",True,0,8,8,Forever,1
+Kings Of Leon,False,5,4,9,Use Somebody,34
+Jason Derulo,False,7,7,10,Whatcha Say,6
+Mariah Carey,False,8,7,11,Obsessed,11
+Pitbull,False,9,8,12,Hotel Room Service,14
+Shakira,False,11,11,13,She Wolf,10
+Drake,False,13,2,14,Best I Ever Had,20
+Keri Hilson Featuring Kanye West & Ne-Yo,False,12,3,15,Knock You Down,26
+Cobra Starship Featuring Leighton Meester,False,10,7,16,Good Girls Go Bad,17
+Drake Featuring Trey Songz & Lil Wayne,False,48,17,17,Successful,10
+Beyonce,False,33,18,18,Sweet Dreams,9
+Fabolous Featuring The-Dream,False,14,14,19,Throw It In The Bag,16
+Mario Featuring Gucci Mane & Sean Garrett,False,17,14,20,Break Up,14
+Jordin Sparks,False,16,10,21,Battlefield,19
+Green Day,False,26,22,22,21 Guns,13
+Flo Rida Featuring Ne-Yo,False,19,19,23,Be On You,10
+Michael Franti & Spearhead Featuring Cherine Anderson,False,21,21,24,Say Hey (I Love You),9
+Jason Aldean,False,20,18,25,Big Green Tractor,15
+The Black Eyed Peas,False,15,1,26,Boom Boom Pow,28
+Justin Bieber,False,29,27,27,One Time,9
+Pitbull,False,25,2,28,I Know You Want Me (Calle Ocho),30
+Boys Like Girls,False,22,22,29,Love Drunk,12
+Daughtry,False,24,15,30,No Surprise,20
+Kelly Clarkson,False,35,31,31,Already Gone,8
+Zac Brown Band,False,31,31,32,Toes,9
+Katy Perry,False,27,9,33,Waking Up In Vegas,21
+The Fray,False,32,32,34,Never Say Never,15
+Colbie Caillat,False,23,12,35,Fallin' For You,12
+P!nk,False,37,17,36,Please Don't Leave Me,23
+Muse,False,0,37,37,Uprising,2
+Maxwell,False,34,33,38,Pretty Wings,21
+Toby Keith,False,36,36,39,American Ride,8
+Drake Featuring Lil Wayne & Young Jeezy,True,0,40,40,I'm Going In,1
+Jay-Z + Mr. Hudson,False,75,41,41,Young Forever,2
+Sean Kingston,False,28,5,42,Fire Burning,20
+Lady Gaga,False,49,1,43,Poker Face,40
+Dorrough,False,30,27,44,Ice Cream Paint Job,17
+Keith Urban,False,43,43,45,Only You Can Love Me This Way,10
+Owl City,False,58,46,46,Fireflies,5
+Cascada,False,39,39,47,Evacuate The Dancefloor,6
+Uncle Kracker,False,47,47,48,Smile,7
+Jason Mraz,False,38,6,49,I'm Yours,75
+Leona Lewis,True,0,50,50,Happy,1
+Lady Antebellum,False,59,51,51,Need You Now,6
+Chris Young,False,55,52,52,Gettin' You Home,6
+Justin Moore,False,44,44,53,Small Town USA,16
+Gucci Mane Featuring Plies Or OJ Da Juiceman,False,52,52,54,Wasted,3
+David Guetta Featuring Akon,False,60,55,55,Sexy Chick,7
+Linkin Park,False,40,6,56,New Divide,18
+Rob Thomas,False,41,23,57,Her Diamonds,18
+Jeremih,False,51,51,58,Imma Star (Everywhere We Are),9
+Kid Cudi Featuring MGMT & Ratatat,True,0,59,59,Pursuit Of Happiness (Nightmare),1
+George Strait,False,53,53,60,Living For The Night,15
+LMFAO,True,0,61,61,La La La,1
+Trey Songz Featuring Gucci Mane & Soulja Boy Tell'em,False,56,51,62,LOL :-),3
+Ester Dean Featuring Chris Brown,False,94,63,63,Drop It Low,2
+Kenny Chesney With Dave Matthews,False,65,64,64,I'm Alive,5
+Brad Paisley,False,67,65,65,Welcome To The Future,7
+Mariah Carey,True,0,66,66,I Want To Know What Love Is,1
+Breaking Benjamin,False,57,40,67,I Will Not Bow,3
+Iyaz,False,66,66,68,Replay,5
+New Boyz,False,54,24,69,You're A Jerk,14
+Luke Bryan,False,76,70,70,Do I,3
+Darius Rucker,False,61,30,71,Alright,19
+Eric Church,False,71,63,72,Love Your Love The Most,13
+Mary J. Blige Featuring Drake,False,70,63,73,The One,9
+"Mary Mary Featuring Kierra ""KiKi"" Sheard",False,74,74,74,God In Me,12
+The Black Eyed Peas,True,0,75,75,Meet Me Halfway,1
+Pearl Jam,False,84,56,76,The Fixer,4
+Beyonce,False,72,39,77,Ego,16
+Blake Shelton,False,77,76,78,I'll Just Hold On,12
+Young Money,False,64,10,79,Every Girl,20
+Randy Houser,False,69,53,80,Boots On,17
+LMFAO,False,73,51,81,I'm In Miami Trick,17
+Rascal Flatts,False,62,37,82,Summer Nights,17
+Whitney Houston,False,88,70,83,I Look To You,6
+Pleasure P,False,81,81,84,Under,4
+3OH!3 Featuring Katy Perry,False,80,80,85,Starstrukk,5
+R. Kelly Featuring Keri Hilson,False,85,85,86,Number One,4
+Love And Theft,False,79,65,87,Runaway,4
+Three Days Grace,False,91,88,88,Break,2
+Keyshia Cole Duet With Monica,False,86,70,89,Trust,13
+Bon Jovi,True,0,90,90,We Weren't Born To Follow,1
+Darryl Worley,False,90,87,91,Sounds Like Life To Me,8
+Selena Gomez & The Scene,False,96,92,92,Falling Down,4
+Kid Cudi Featuring Kanye West & Common,False,68,43,93,Make Her Say,15
+Taylor Swift,False,0,65,94,Fifteen,3
+The All-American Rejects,True,0,95,95,I Wanna,1
+Carrie Underwood,True,0,96,96,Cowboy Casanova,1
+David Cook,False,97,63,97,Come Back To Me,19
+Ginuwine,False,87,63,98,Last Chance,16
+Alice In Chains,True,0,99,99,Check My Brain,1
+Mat Kearney,False,0,91,100,Closer To Love,7

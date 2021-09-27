@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Meghan Trainor,False,1,1,1,All About That Bass,11
+Taylor Swift,False,2,1,2,Shake It Off,5
+"Jessie J, Ariana Grande & Nicki Minaj",False,5,3,3,Bang Bang,8
+Nicki Minaj,False,3,2,4,Anaconda,7
+Iggy Azalea Featuring Rita Ora,False,4,4,5,Black Widow,12
+Sam Smith,False,6,2,6,Stay With Me,24
+Ariana Grande Featuring Zedd,False,7,4,7,Break Free,12
+Charli XCX,False,10,8,8,Boom Clap,16
+Sia,False,11,8,9,Chandelier,20
+Jeremih Featuring YG,False,12,10,10,Don't Tell 'Em,13
+Clean Bandit Featuring Jess Glynne,False,13,11,11,Rather Be,15
+MAGIC!,False,9,1,12,Rude,22
+Tove Lo,False,16,13,13,Habits (Stay High),17
+Maroon 5,False,8,6,14,Maps,14
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona,False,14,12,15,Bailando,21
+Bobby Shmurda,False,18,16,16,Hot Boy,8
+Nico & Vinz,False,15,4,17,Am I Wrong,23
+Jennifer Lopez Featuring Iggy Azalea Or Pitbull,True,0,18,18,Booty,1
+Echosmith,False,21,19,19,Cool Kids,11
+Iggy Azalea Featuring Charli XCX,False,17,1,20,Fancy,29
+Jason Aldean,False,20,12,21,Burnin' It Down,9
+Ed Sheeran,False,25,22,22,Don't,15
+Ariana Grande Featuring Iggy Azalea,False,19,2,23,Problem,21
+John Legend,False,23,1,24,All Of Me,50
+Coldplay,False,26,10,25,A Sky Full Of Stars,21
+Katy Perry,False,27,24,26,This Is How We Do,8
+Chris Brown Featuring Usher & Rick Ross,False,36,27,27,New Flame,10
+Florida Georgia Line,False,28,11,28,Dirt,11
+Pharrell Williams,False,29,1,29,Happy,38
+Rich Gang Featuring Young Thug & Rich Homie Quan,False,30,30,30,Lifestyle,10
+Pitbull Featuring John Ryan,False,46,31,31,Fireball,7
+Disclosure Featuring Sam Smith,False,24,7,32,Latch,27
+Jason Derulo,False,48,33,33,Trumpets,17
+Tinashe Featuring ScHoolboy Q,False,32,24,34,2 On,20
+Drake,False,35,35,35,0 To 100 / The Catch Up,9
+Calvin Harris Featuring John Newman,False,31,31,36,Blame,2
+5 Seconds Of Summer,False,40,16,37,Amnesia,12
+Rae Sremmurd,False,37,36,38,No Flex Zone,8
+Becky G,False,34,16,39,Shower,16
+Kenny Chesney,False,33,23,40,American Kids,14
+T.I. Featuring Iggy Azalea,False,39,33,41,No Mediocre,14
+Sam Hunt,False,44,42,42,Leave The Night On,13
+Katy Perry Featuring Juicy J,False,38,1,43,Dark Horse,53
+Luke Bryan,False,43,43,44,Roller Coaster,10
+ScHoolboy Q Featuring BJ The Chicago Kid,False,41,38,45,Studio,16
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,False,47,9,46,Loyal,36
+OneRepublic,False,45,2,47,Counting Stars,66
+Dustin Lynch,False,42,42,48,"Where It's At (Yep, Yep)",20
+Jason Derulo Featuring Snoop Dogg,False,51,5,49,Wiggle,21
+Cole Swindell,False,52,50,50,Hope You Get Lonely Tonight,14
+Maroon 5,False,56,51,51,Animals,5
+Mr. Probz,False,58,52,52,Waves,5
+Fall Out Boy,False,22,22,53,Centuries,2
+Vance Joy,False,55,54,54,Riptide,13
+Blake Shelton,False,60,55,55,Neon Light,5
+Lady Antebellum,False,49,31,56,Bartender,18
+Chase Rice,False,63,57,57,Ready Set Roll,17
+Milky Chance,False,61,58,58,Stolen Dance,9
+Miranda Lambert Duet With Carrie Underwood,False,59,19,59,Somethin' Bad,18
+Kiesza,False,53,51,60,Hideaway,10
+OneRepublic,False,54,15,61,Love Runs Out,20
+Lil Wayne Featuring Drake,False,64,26,62,Believe Me,17
+Jason Aldean,True,0,63,63,Gonna Know We Were Here,1
+T.I. Featuring Young Thug,False,68,63,64,About The Money,7
+Dierks Bentley,False,62,27,65,Drunk On A Plane,19
+Frankie Ballard,False,65,65,66,Sunshine & Whiskey,11
+Childish Gambino,False,71,67,67,V. 3005,16
+Maddie & Tae,False,67,67,68,Girl In A Country Song,7
+Demi Lovato Featuring Cher Lloyd,False,57,26,69,Really Don't Care,16
+Hozier,False,69,69,70,Take Me To Church,6
+Tim McGraw Featuring Faith Hill,False,66,41,71,Meanwhile Back At Mama's,17
+Brantley Gilbert Featuring Justin Moore & Thomas Rhett,False,70,67,72,Small Town Throwdown,15
+August Alsina,True,0,73,73,No Love,1
+Trey Songz Featuring Nicki Minaj,False,77,74,74,"Touchin, Lovin",3
+Fifth Harmony,False,75,43,75,Bo$$,11
+Migos,False,72,69,76,Fight Night,11
+Mary Lambert,False,81,77,77,Secrets,3
+Little Big Town,False,74,74,78,Day Drinking,9
+Train,False,91,79,79,Angel In Blue Jeans,2
+Nick Jonas,False,78,78,80,Jealous,2
+"DJ Khaled Featuring Chris Brown, August Alsina, Future & Jeremih",False,83,81,81,Hold You Down,3
+Keith Urban,False,80,80,82,Somewhere In My Car,4
+Florida Georgia Line,True,0,83,83,Sun Daze,1
+Sam Smith,False,93,69,84,I'm Not The Only One,3
+Rich Homie Quan Featuring Problem,False,79,74,85,Walk Thru,5
+TeeFLii Featuring 2 Chainz,False,86,86,86,24 Hours,4
+Beyonce Featuring Nicki Minaj Or Chimamanda Ngozi Adichie,False,84,82,87,***Flawless,4
+The Script,True,0,88,88,Superheroes,1
+Nicki Minaj,False,73,24,89,Pills N Potions,18
+Tyga Featuring Young Thug,False,87,85,90,Hookah,6
+Colbie Caillat,False,95,55,91,Try,5
+Big & Rich,False,96,92,92,Look At You,3
+Kid Ink Featuring Chris Brown,False,89,60,93,Main Chick,19
+The Swon Brothers,False,90,88,94,Later On,6
+Meghan Trainor,False,94,94,95,Dear Future Husband,2
+Eli Young Band,False,82,79,96,Dust,9
+Lil Jon Featuring Tyga,False,92,92,97,Bend Ova,2
+Chris Brown,True,0,98,98,X,1
+Wiz Khalifa Featuring Snoop Dogg & Ty Dolla $ign,True,0,99,99,You And Your Friends,1
+Trey Songz,False,0,84,100,Foreign,10

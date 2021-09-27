@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Christina Aguilera,False,1,1,1,Come On Over Baby (All I Want Is You),14
+Madonna,False,2,1,2,Music,13
+Creed,False,3,3,3,With Arms Wide Open,26
+3 Doors Down,False,4,4,4,Kryptonite,31
+P!nk,False,5,5,5,Most Girls,13
+'N Sync,False,11,6,6,This I Promise You,6
+Destiny's Child,False,15,7,7,Independent Women Part I,7
+Destiny's Child,False,6,3,8,"Jumpin', Jumpin'",26
+Samantha Mumba,False,10,9,9,Gotta Tell You,9
+Mya,False,17,10,10,Case Of The Ex (Whatcha Gonna Do),12
+Erykah Badu,False,8,6,11,Bag Lady,12
+Faith Hill,False,16,12,12,The Way You Love Me,27
+Mystikal,False,13,13,13,Shake Ya Ass,13
+Sisqo,False,9,1,14,Incomplete,20
+Backstreet Boys,False,24,15,15,Shape Of My Heart,4
+Ja Rule Featuring Christina Milian,False,22,16,16,Between Me And You,8
+Nelly,False,12,7,17,(Hot S**t) Country Grammar,28
+Ricky Martin,False,21,18,18,She Bangs,5
+Profyle,False,14,14,19,Liar,8
+matchbox twenty,False,19,1,20,Bent,28
+Ruff Endz,False,23,5,21,No More,19
+98 Degrees,False,7,2,22,Give Me Just One Night (Una Noche),12
+Vertical Horizon,False,26,23,23,You're A God,11
+Debelah Morgan,False,31,24,24,Dance With Me,15
+Janet,False,20,1,25,Doesn't Really Matter,21
+Barenaked Ladies,False,29,26,26,Pinch Me,9
+R. Kelly,False,32,27,27,I Wish,6
+Everclear,False,18,11,28,Wonderful,18
+Kandi,False,28,24,29,Don't Think I'm Not,14
+LeAnn Rimes,False,25,11,30,I Need You,24
+Travis Tritt,False,33,31,31,Best Of Intentions,12
+Nelly,False,38,32,32,E.I.,5
+Toni Braxton,False,37,2,33,He Wasn't Man Enough,34
+SoulDecision Featuring Thrust,False,30,22,34,Faded,18
+John Michael Montgomery,False,35,35,35,The Little Girl,9
+Lil Bow Wow Featuring Xscape,False,27,20,36,Bounce With Me,12
+BBMak,False,36,13,37,Back Here,28
+matchbox twenty,False,43,38,38,If You're Gone,3
+Bon Jovi,False,34,33,39,It's My Life,13
+Ludacris Featuring Shawnna,False,49,40,40,What's Your Fantasy,6
+Baha Men,False,44,40,41,Who Let The Dogs Out,16
+Dream,False,47,42,42,He Loves U Not,6
+Creed,False,39,7,43,Higher,53
+George Strait,False,40,40,44,Go On,11
+JAY-Z,False,58,45,45,I Just Wanna Love U (Give It 2 Me),2
+Phil Vassar,False,53,46,46,Just Another Day In Paradise,6
+Faith Hill,False,48,2,47,Breathe,53
+Nine Days,False,41,6,48,Absolutely (Story Of A Girl),27
+Sting Featuring Cheb Mami,False,42,17,49,Desert Rose,26
+Dixie Chicks,False,56,50,50,Without You,5
+Aaron Tippin,False,46,42,51,Kiss This,11
+Brad Paisley,False,52,52,52,We Danced,4
+Wyclef Jean Featuring Mary J. Blige,False,61,53,53,911,5
+Vince Gill,False,54,54,54,Feels Like Love,10
+Musiq,False,65,55,55,Just Friends (Sunny),4
+Tim McGraw,False,62,56,56,My Next Thirty Years,3
+"Shaggy Feat. Ricardo ""RikRok"" Ducent",True,0,57,57,It Wasn't Me,1
+Evan And Jaron,True,0,58,58,Crazy For This Girl,1
+Jo Dee Messina,False,51,25,59,That's The Way,20
+Martina McBride,False,60,60,60,There You Are,9
+Kenny Chesney,False,67,61,61,I Lost It,3
+Papa Roach,False,66,60,62,Last Resort,15
+Beenie Man Featuring Mya,False,72,63,63,Girls Dem Sugar,3
+Sara Evans,False,71,64,64,Born To Fly,3
+Toni Braxton,False,63,32,65,Just Be A Man About It,15
+Yolanda Adams,False,59,57,66,Open My Heart,11
+Aaron Carter,False,55,35,67,Aaron's Party (Come Get It),11
+Usher,True,0,68,68,Pop Ya Collar,1
+U2,False,68,68,69,Beautiful Day,5
+Avant Featuring KeKe Wyatt,True,0,70,70,My First Love,1
+Shyne Featuring Barrington Levy,False,57,57,71,Bad Boyz,9
+3 Doors Down,False,76,72,72,Loser,3
+The Wallflowers,False,73,73,73,Sleepwalker,2
+Fuel,False,77,74,74,Hemorrhage (In My Hands),2
+Alan Jackson,True,0,75,75,www.memory,1
+Changing Faces,False,64,64,76,That Other Woman,6
+Red Hot Chili Peppers,False,75,69,77,Californication,15
+Eminem Featuring Dido,True,0,78,78,Stan,1
+Kelly Price,False,79,79,79,You Should've Told Me,7
+Marc Anthony,False,74,70,80,My Baby You,8
+Patty Loveless,False,82,81,81,That's The Kind Of Mood I'm In,8
+Common,False,70,44,82,The Light,14
+LeAnn Rimes,False,78,71,83,Can't Fight The Moonlight,9
+Carl Thomas,False,83,80,84,Summer Rain,7
+Billy Ray Cyrus,False,88,85,85,You Won't Be Lonely Now,7
+SHeDAISY,False,80,43,86,I Will...But,17
+Don Henley,False,87,58,87,Taking You Home,20
+Faith Hill With Tim McGraw,False,69,54,88,Let's Make Love,13
+Alan Jackson,False,84,37,89,It Must Be Love,20
+Joe,False,85,63,90,Treat Her Like A Lady,14
+Cam'ron,False,96,91,91,What Means The World To You,4
+Madison Avenue,False,93,88,92,Don't Call Me Baby,18
+Jay-Z Featuring Memphis Bleek & Amil,False,91,76,93,Hey Papi,13
+Chris Cagle,False,94,94,94,My Love Goes On And On,3
+Toby Keith,False,81,54,95,Country Comes To Town,14
+3LW,True,0,96,96,No More (Baby I'ma Do Right),1
+Third Eye Blind,False,90,69,97,Deep Inside Of You,10
+Chante Moore,False,98,98,98,Straight Up,2
+DMX Featuring Sisqo,False,89,49,99,What You Want,19
+Sister Hazel,False,95,59,100,Change Your Mind,17

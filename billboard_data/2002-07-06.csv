@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Nelly,False,1,1,1,Hot In Herre,10
+Eminem,False,2,2,2,Without Me,9
+Ashanti,False,3,1,3,Foolish,21
+Cam'Ron Featuring Juelz Santana,False,5,4,4,Oh Boy,12
+Chad Kroeger Featuring Josey Scott,False,8,5,5,Hero,8
+Jimmy Eat World,False,6,5,6,The Middle,17
+P. Diddy Featuring Usher & Loon,False,4,2,7,I Need A Girl (Part One),17
+Vanessa Carlton,False,7,5,8,A Thousand Miles,19
+Truth Hurts Featuring Rakim,False,9,9,9,Addictive,12
+Jennifer Lopez Featuring Nas,False,10,10,10,I'm Gonna Be Alright,11
+Avril Lavigne,False,18,11,11,Complicated,6
+Big Tymers,False,12,12,12,Still Fly,13
+"P. Diddy & Ginuwine Featuring Loon, Mario Winans & Tammy Ruggeri",False,21,13,13,I Need A Girl (Part Two),5
+Dirty Vegas,False,14,14,14,Days Go By,9
+Fat Joe Featuring Ashanti,False,11,2,15,What's Luv?,21
+Musiq,False,17,16,16,halfcrazy,16
+No Doubt,False,13,13,17,Hella Good,12
+Brandy,False,23,18,18,Full Moon,10
+Sheryl Crow,False,19,19,19,Soak Up The Sun,13
+Puddle Of Mudd,False,20,5,20,Blurry,29
+Michelle Branch,False,16,6,21,All You Wanted,20
+Usher,False,15,3,22,U Don't Have To Call,22
+Default,False,22,13,23,Wasting My Time,27
+Mario,False,37,24,24,Just A Friend 2002,7
+DJ Sammy & Yanou Featuring Do,False,38,25,25,Heaven,6
+"Irv Gotti Presents The Inc. Featuring Ja Rule, Ashanti, Charli Baltimore & Vita",False,40,26,26,Down 4 U,3
+P!nk,False,24,8,27,Don't Let Me Get Me,18
+Mary J. Blige Featuring Ja Rule,False,25,12,28,Rainy Dayz,15
+The Calling,False,26,5,29,Wherever You Will Go,35
+George Strait,False,28,27,30,Living And Living Well,14
+Tweet,False,31,31,31,Call Me,6
+Brad Paisley,False,32,32,32,I'm Gonna Miss Her (The Fishin' Song),10
+"Ja Rule Featuring Charli ""Chuck"" Baltimore",False,27,21,33,Down A** Chick,13
+B2K,False,34,34,34,Gots Ta Be,11
+Aaliyah,False,29,25,35,More Than A Woman,23
+John Mayer,False,41,36,36,No Such Thing,6
+Kenny Chesney,False,42,37,37,The Good Stuff,5
+Nickelback,False,35,1,38,How You Remind Me,44
+Alan Jackson,False,36,28,39,Drive (For Daddy Gene),17
+Linkin Park,False,30,2,40,In The End,36
+N.O.R.E.,False,44,41,41,Nothin',7
+Toby Keith,False,47,42,42,"Courtesy Of The Red, White And Blue (The Angry American)",5
+Lonestar,False,45,43,43,Not A Day Goes By,9
+Shakira,False,39,9,44,Underneath Your Clothes,17
+Gary Allan,False,48,45,45,The One,8
+Craig David,False,46,46,46,Walking Away,7
+Red Hot Chili Peppers,False,51,47,47,By The Way,4
+Ashanti,False,78,48,48,Happy,6
+Brooks & Dunn,False,54,49,49,My Heart Is Lost To You,7
+Paulina Rubio,False,50,41,50,Don't Say Goodbye,10
+Busta Rhymes Featuring P. Diddy & Pharrell,False,33,11,51,Pass The Courvoisier Part II,19
+Amerie,False,56,52,52,Why Don't We Fall In Love,5
+Creed,False,59,53,53,One Last Breath,5
+Jaheim Featuring Next,False,52,28,54,Anything,20
+Kellie Coffey,False,62,55,55,When You Lie Next To Me,6
+Dixie Chicks,False,64,56,56,Long Time Gone,3
+Enrique Iglesias,False,58,12,57,Escape,20
+Donell Jones,False,60,54,58,You Know That I Love You,11
+Clipse,False,65,59,59,Grindin',7
+Ruff Endz,False,49,49,60,Someone To Love You,9
+P!nk,True,0,61,61,Just Like A Pill,1
+Steve Azar,False,55,35,62,I Don't Have To Be Me ('til Monday),14
+Darryl Worley,False,67,63,63,I Miss My Friend,4
+Avant,False,53,27,64,Makin' Good Love,16
+Goo Goo Dolls,False,57,18,65,Here Is Gone,16
+Puddle Of Mudd,False,66,66,66,Drift & Die,7
+Khia Featuring DSD,False,69,67,67,"My Neck, My Back",7
+Nickelback,False,63,42,68,Too Bad,17
+Tim McGraw,True,0,69,69,Unbroken,1
+Ludacris Featuring Mystikal & Infamous 2.0,False,76,70,70,Move B***h,5
+Dave Matthews Band,False,73,71,71,Where Are You Going,4
+Andy Griggs,False,74,72,72,Tonight I Wanna Be Your Man,2
+Tracy Byrd,True,0,73,73,Ten Rounds With Jose Cuervo,1
+Celine Dion,False,70,22,74,A New Day Has Come,19
+Emerson Drive,False,68,35,75,I Should Be Sleeping,17
+Hoobastank,True,0,76,76,Running Away,1
+Tommy Shane Steiner,False,75,39,77,What If She's An Angel,20
+Ying Yang Twins,False,72,56,78,Say I Yi Yi,10
+Joe Nichols,False,82,79,79,The Impossible,6
+Joe,False,81,63,80,What If A Woman,9
+Marc Anthony,True,0,81,81,I've Got You,1
+Soluna,False,91,82,82,For All Time,3
+Staind,False,80,63,83,For You,19
+Phil Vassar,False,84,37,84,That's When I Love You,20
+Angie Martinez Featuring Lil' Mo & Sacario,False,85,85,85,If I Could Go!,3
+Pilar Montenegro,False,86,74,86,Quitame Ese Hombre,7
+Korn,False,79,72,87,Here To Stay,7
+Kylie Minogue,False,95,88,88,Love At First Sight,2
+Tanto Metro & Devonte,False,89,87,89,Give It To Her,15
+Sean Paul,False,93,90,90,Gimme The Light,10
+System Of A Down,False,90,70,91,Toxicity,10
+Nappy Roots,False,96,51,92,Awnaw,18
+Angie Stone,False,92,79,93,Wish I Didn't Miss You,16
+Carolyn Dawn Johnson,False,83,54,94,I Don't Want You To Go,9
+Will Smith Featuring Tra-Knox,False,77,77,95,Black Suits Comin' (Nod Ya Head),2
+Lil Wayne,True,0,96,96,Way Of Life,1
+Naughty By Nature Featuring 3LW,False,88,53,97,Feels Good (Don't Worry Bout A Thing),15
+Nas,False,87,43,98,One Mic,12
+Hoobastank,False,100,68,99,Crawling In The Dark,19
+Scarface Featuring Jay-Z & Beanie Sigel,False,94,79,100,Guess Who's Back,8

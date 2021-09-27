@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Beyonce Featuring Jay Z,False,1,1,1,Crazy In Love,11
+Ashanti,False,3,2,2,Rock Wit U (Awww Baby),13
+Chingy,False,4,3,3,Right Thurr,12
+Lil' Kim Featuring 50 Cent,False,2,2,4,Magic Stick,15
+Lumidee,False,5,5,5,"Never Leave You - Uh Ooh, Uh Oooh!",10
+matchbox twenty,False,6,5,6,Unwell,20
+50 Cent,False,13,7,7,P.I.M.P.,10
+Ginuwine,False,10,8,8,In Those Jeans,8
+Uncle Kracker Featuring Dobie Gray,False,12,9,9,Drift Away,19
+Kelly Clarkson,False,9,9,10,Miss Independent,12
+Evanescence Featuring Paul McCoy,False,7,5,11,Bring Me To Life,21
+The Black Eyed Peas,False,14,12,12,Where Is The Love?,8
+Monica,False,11,10,13,So Gone,15
+Fabolous Featuring Tamia Or Ashanti,False,15,14,14,Into You,8
+Sean Paul,False,8,1,15,Get Busy,24
+Lil Jon & The East Side Boyz Featuring Ying Yang Twins,False,19,16,16,Get Low,14
+Sean Paul,False,22,17,17,Like Glue,9
+"Nelly, P. Diddy & Murphy Lee",False,25,18,18,Shake Ya Tailfeather,6
+Michelle Branch,False,21,19,19,Are You Happy Now?,10
+Pharrell Featuring Jay-Z,False,29,20,20,Frontin',8
+Jewel,False,20,20,21,Intuition,13
+50 Cent Featuring Nate Dogg,False,16,1,22,21 Questions,20
+Clay Aiken,False,17,1,23,This Is The Night,6
+Mary J. Blige Featuring Method Man,False,28,24,24,Love At 1st Sight,5
+Alan Jackson & Jimmy Buffett,False,35,25,25,It's Five O'Clock Somewhere,6
+Brooks & Dunn,False,31,26,26,Red Dirt Road,10
+Thalia Featuring Fat Joe,False,27,27,27,I Want You,8
+Busta Rhymes & Mariah Carey Featuring The Flipmode Squad,False,18,3,28,I Know What You Want,22
+3 Doors Down,False,26,4,29,When I'm Gone,37
+Shania Twain,False,36,30,30,Forever And For Always,11
+Lonestar,False,32,23,31,My Front Porch Looking In,16
+Brad Paisley,False,40,32,32,Celebrity,8
+Train,False,39,33,33,Calling All Angels,11
+Toby Keith Duet With Willie Nelson,False,34,22,34,Beer For My Horses,14
+Frankie J,False,23,19,35,Don't Wanna Try,17
+Kenny Chesney,False,41,36,36,"No Shoes, No Shirt, No Problems",6
+Wayne Wonder,False,30,11,37,No Letting Go,30
+Jason Mraz,False,45,38,38,The Remedy (I Won't Worry),14
+Justin Timberlake,False,37,5,39,Rock Your Body,20
+R. Kelly,False,33,2,40,Ignition,39
+Mya,False,49,41,41,My Love Is Like... Wo,6
+R. Kelly,False,53,42,42,Thoia Thoing,3
+Fabolous Featuring Mike Shorey & Lil' Mo,False,24,4,43,Can't Let You Go,22
+Aaliyah,False,47,44,44,Come Over,8
+Bow Wow Featuring Baby,False,55,45,45,Let's Get Down,5
+50 Cent,False,44,1,46,In Da Club,30
+Luther Vandross,False,52,47,47,Dance With My Father,6
+David Banner Featuring Lil' Flip,False,48,48,48,Like A Pimp,15
+Dierks Bentley,False,58,49,49,What Was I Thinkin',7
+Daniel Bedingfield,False,43,15,50,If You're Not The One,18
+Simple Plan,False,51,51,51,Addicted,6
+Jimmy Wayne,False,42,32,52,Stay Gone,15
+Tim McGraw,False,62,53,53,Real Good Man,4
+Counting Crows Featuring Vanessa Carlton,False,50,42,54,Big Yellow Taxi,19
+Ruben Studdard,False,38,2,55,Flying Without Wings,6
+Buddy Jewell,False,61,56,56,Help Pour Out The Rain (Lacey's Song),7
+Trapt,False,59,52,57,Headstrong,18
+Ludacris,False,46,32,58,Act A Fool,9
+Christina Aguilera,False,54,20,59,Fighter,17
+The Ataris,False,71,60,60,The Boys Of Summer,2
+Brian McComas,False,65,61,61,99.9% Sure (I've Never Been Here Before),4
+Heather Headley,False,64,55,62,I Wish I Wasn't,14
+Santana Featuring Alex Band Or Chad Kroeger,False,77,63,63,Why Don't You & I,2
+The All-American Rejects,False,60,60,64,"Swing, Swing",7
+Chevelle,False,66,65,65,Send The Pain Below,13
+Justin Timberlake,True,0,66,66,Senorita,1
+Trace Adkins,False,67,67,67,Then They Do,3
+Tyrese,False,69,68,68,Signs Of Love Makin',2
+Jaheim,False,63,20,69,Put That Woman First,20
+Bone Crusher Featuring Killer Mike & T.I.,False,57,26,70,Never Scared,18
+Linkin Park,False,73,71,71,Faint,2
+Jane's Addiction,False,72,72,72,Just Because,2
+Montgomery Gentry,False,56,47,73,Speed,20
+Christina Aguilera Featuring Lil' Kim,True,0,74,74,Can't Hold Us Down,1
+Good Charlotte,False,75,75,75,Girls And Boys,2
+Wynonna,False,70,70,76,What The World Needs,5
+Eagles,True,0,77,77,Hole In The World,1
+Staind,True,0,78,78,So Far Away,1
+The White Stripes,False,80,76,79,Seven Nation Army,11
+Randy Travis,False,74,31,80,Three Wooden Crosses,18
+Rascal Flatts,False,78,30,81,Love You Out Loud,18
+Blu Cantrell Featuring Sean Paul,False,82,81,82,Breathe,14
+Floetry,False,86,24,83,Say Yes,19
+Joe Budden,False,79,38,84,Pump It Up,16
+Diamond Rio,False,89,31,85,I Believe,20
+R. Kelly Featuring Big Tigger,False,76,16,86,Snake,15
+Craig Morgan,False,90,59,87,Almost Home,10
+Tamia,True,0,88,88,Officially Missing You,1
+Da Brat Featuring Cherish,False,91,44,89,In Love Wit Chu,15
+Jeff Bates,False,68,59,90,The Love Song,11
+The Isley Brothers Featuring Ronald Isley,False,85,49,91,What Would You Do?,18
+Jennifer Lopez,False,93,32,92,I'm Glad,14
+Tracy Byrd,False,83,77,93,The Truth About Men,5
+Cold,False,92,87,94,Stupid Girl,16
+Chris Cagle,False,96,41,95,What A Beautiful Day,19
+Lil' Mo Featuring Fabolous,False,88,37,96,4 Ever,20
+George Strait,False,81,69,97,Tell Me Something Bad About Tulsa,7
+2Pac Featuring Trick Daddy,False,95,69,98,Still Ballin,18
+T.I.,True,0,99,99,24's,1
+Eminem,False,97,14,100,Sing For The Moment,18

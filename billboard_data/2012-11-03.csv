@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Maroon 5,False,1,1,1,One More Night,18
+PSY,False,2,2,2,Gangnam Style,7
+fun.,False,4,3,3,Some Nights,35
+Taylor Swift,False,5,1,4,We Are Never Ever Getting Back Together,11
+Ke$ha,False,8,5,5,Die Young,4
+Justin Bieber Featuring Big Sean,False,6,6,6,As Long As You Love Me,18
+Alex Clare,False,7,7,7,Too Close,30
+Rihanna,False,11,8,8,Diamonds,4
+Ne-Yo,False,12,9,9,Let Me Love You (Until You Learn To Love Yourself),12
+P!nk,False,9,5,10,Blow Me (One Last Kiss),16
+Chris Brown,False,14,11,11,Don't Wake Me Up,17
+Owl City & Carly Rae Jepsen,False,10,8,12,Good Time,17
+Taylor Swift,True,0,13,13,State Of Grace,1
+Ellie Goulding,False,15,2,14,Lights,44
+Bruno Mars,False,33,15,15,Locked Out Of Heaven,3
+Neon Trees,False,16,6,16,Everybody Talks,32
+Phillip Phillips,False,19,9,17,Home,17
+"Kanye West, Jay-Z, Big Sean",False,18,12,18,Clique,7
+Flo Rida,False,17,1,19,Whistle,23
+Train,False,24,20,20,50 Ways To Say Goodbye,15
+Carrie Underwood,False,20,20,21,Blown Away,16
+Miguel,False,26,22,22,Adorn,12
+Taylor Swift,False,3,3,23,I Knew You Were Trouble.,2
+Flo Rida,False,51,24,24,I Cry,4
+Carly Rae Jepsen,False,23,1,25,Call Me Maybe,35
+Gotye Featuring Kimbra,False,22,1,26,Somebody That I Used To Know,42
+The Lumineers,False,32,27,27,Ho Hey,20
+Katy Perry,False,25,2,28,Wide Awake,22
+Florida Georgia Line Featuring Nelly,False,34,29,29,Cruise,10
+David Guetta Featuring Sia,False,28,7,30,Titanium,28
+One Direction,False,21,3,31,Live While We're Young,3
+Maroon 5 Featuring Wiz Khalifa,False,29,2,32,Payphone,27
+"Kanye West, Big Sean, Pusha T, 2 Chainz",False,27,13,33,Mercy,29
+Mumford & Sons,False,30,23,34,I Will Wait,11
+Imagine Dragons,False,39,33,35,It's Time,20
+Enrique Iglesias Featuring Sammy Adams,False,37,24,36,Finally Found You,6
+"French Montana Featuring Rick Ross, Drake, Lil Wayne",False,38,37,37,Pop That,15
+Hunter Hayes,False,36,16,38,Wanted,26
+Demi Lovato,False,31,16,39,Give Your Heart A Break,29
+Lee Brice,False,41,40,40,Hard To Love,19
+Ed Sheeran,False,43,41,41,The A Team,15
+Luke Bryan,False,45,42,42,Kiss Tomorrow Goodbye,9
+2 Chainz Featuring Drake,False,40,24,43,No Lie,24
+Jason Mraz,False,42,8,44,I Won't Give Up,42
+Adele,False,13,8,45,Skyfall,3
+Juicy J Featuring Lil Wayne & 2 Chainz,False,53,46,46,Bandz A Make Her Dance,6
+Alicia Keys Featuring Nicki Minaj,False,48,37,47,Girl On Fire,7
+Trey Songz Featuring T.I.,False,46,43,48,2 Reasons,16
+2 Chainz Featuring Kanye West,False,52,49,49,Birthday Song,11
+T.I. Featuring Lil Wayne,True,0,50,50,Ball,1
+Nicki Minaj,False,35,15,51,Pound The Alarm,13
+Frank Ocean,False,55,39,52,Thinkin Bout You,15
+Future,False,50,50,53,Turn On The Lights,11
+Kelly Clarkson,True,0,54,54,Catch My Breath,1
+Kendrick Lamar,False,61,55,55,Swimming Pools (Drank),10
+OneRepublic,False,59,56,56,Feel Again,8
+Jake Owen,False,57,57,57,The One That Got Away,11
+David Guetta Featuring Chris Brown & Lil Wayne,False,56,44,58,I Can Only Imagine,11
+Christina Aguilera,False,58,34,59,Your Body,5
+Miranda Lambert,False,65,60,60,Fastest Girl In Town,13
+Easton Corbin,False,63,59,61,Lovin' You Is Fun,16
+Rascal Flatts,False,64,59,62,Come Wake Me Up,13
+Jason Aldean,False,44,12,63,Take A Little Ride,14
+Ellie Goulding,False,75,64,64,Anything Could Happen,2
+Brandy Featuring Chris Brown,False,69,65,65,Put It Down,10
+Muse,False,60,60,66,Madness,9
+Kip Moore,False,68,67,67,Beer Money,5
+Cher Lloyd,False,62,12,68,Want U Back,19
+Usher,False,72,69,69,Numb,5
+The Script Featuring will.i.am,False,71,70,70,Hall Of Fame,4
+Justin Bieber Featuring Nicki Minaj,False,0,71,71,Beauty And A Beat,2
+Lil Wayne Featuring Detail,False,76,58,72,No Worries,7
+Eric Church,False,73,73,73,Creepin',9
+Little Big Town,False,67,22,74,Pontoon,20
+Swedish House Mafia Featuring John Martin,False,80,68,75,Don't You Worry Child,5
+Justin Moore,False,78,76,76,Til My Last Day,6
+Taylor Swift,False,54,6,77,Red,3
+Taylor Swift,False,70,7,78,Begin Again,4
+Beyonce,False,79,78,79,Dance For You,7
+Tim McGraw,False,66,57,80,Truck Yeah,16
+Trey Songz,False,82,77,81,Dive In,8
+Macklemore & Ryan Lewis Featuring Wanz,False,96,82,82,Thrift Shop,3
+Mumford & Sons,False,74,60,83,Babel,4
+Brad Paisley,False,81,73,84,Southern Comfort Zone,3
+Passion Pit,False,86,85,85,Take A Walk,8
+Randy Houser,False,87,86,86,How Country Feels,3
+Rick Ross Featuring Wale & Drake,False,88,87,87,Diced Pineapples,3
+Greg Bates,False,85,85,88,Did It For The Girl,5
+Gary Allan,False,84,78,89,Every Storm (Runs Out Of Rain),3
+Kenny Chesney,False,92,90,90,El Cerrito Place,2
+Zac Brown Band,False,97,91,91,Goodbye In Her Eyes,2
+Jason Aldean,True,0,92,92,Night Train,1
+Imagine Dragons,False,90,90,93,Radioactive,8
+matchbox twenty,False,83,40,94,She's So Mean,17
+"DJ Drama Featuring 2 Chainz, Meek Mill & Jeremih",False,89,89,95,My Moment,3
+Calvin Harris Featuring Florence Welch,True,0,96,96,Sweet Nothing,1
+Karmin,False,77,62,97,Hello,8
+Bridgit Mendler,True,0,98,98,Ready Or Not,1
+Meek Mill Featuring Drake,False,93,57,99,Amen,18
+Mumford & Sons,False,91,81,100,Whispers In The Dark,4

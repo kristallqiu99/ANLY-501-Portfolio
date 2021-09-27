@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Lorde,False,1,1,1,Royals,20
+Eminem Featuring Rihanna,False,2,2,2,The Monster,3
+Miley Cyrus,False,3,1,3,Wrecking Ball,13
+Avicii,False,5,4,4,Wake Me Up!,21
+Katy Perry,False,4,1,5,Roar,15
+OneRepublic,False,7,6,6,Counting Stars,22
+Imagine Dragons,False,9,7,7,Demons,30
+Drake Featuring Majid Jordan,False,6,4,8,"Hold On, We're Going Home",15
+Lady Gaga,False,10,4,9,Applause,14
+Pitbull Featuring Ke$ha,False,15,10,10,Timber,6
+Passenger,False,12,11,11,Let Her Go,16
+"Mike WiLL Made-It Featuring Miley Cyrus, Wiz Khalifa & Juicy J",False,17,11,12,23,9
+One Direction,False,11,6,13,Story Of My Life,3
+Jay Z Featuring Justin Timberlake,False,14,4,14,Holy Grail,19
+Robin Thicke Featuring T.I. + Pharrell,False,18,1,15,Blurred Lines,31
+Katy Perry,False,21,16,16,Unconditionally,4
+The Neighbourhood,False,29,17,17,Sweater Weather,23
+Lady Gaga Featuring R. Kelly,False,48,13,18,Do What U Want,4
+YG Featuring Jeezy & Rich Homie Quan,False,24,19,19,My Hitta,7
+Imagine Dragons,False,23,3,20,Radioactive,64
+Capital Cities,False,20,8,21,Safe And Sound,29
+Zedd Featuring Hayley Williams,False,34,22,22,Stay The Night,9
+AWOLNATION,False,35,17,23,Sail,63
+Chris Brown Featuring Nicki Minaj,False,27,23,24,Love More,17
+Bon Jovi,False,0,1,25,Livin' On A Prayer,22
+Lana Del Rey & Cedric Gervais,False,22,6,26,Summertime Sadness,19
+Sara Bareilles,False,37,27,27,Brave,23
+Selena Gomez,False,33,28,28,Slow Down,15
+Paramore,False,25,24,29,Still Into You,19
+Jason Derulo,False,36,30,30,Marry Me,7
+Macklemore & Ryan Lewis Featuring ScHoolboy Q & Hollis,False,39,31,31,White Walls,9
+Eminem,False,13,7,32,Rap God,5
+Keith Urban And Miranda Lambert,False,26,26,33,We Were Us,10
+Miley Cyrus,False,38,2,34,We Can't Stop,24
+Luke Bryan,False,30,15,35,That's My Kind Of Night,14
+Blake Shelton,False,28,28,36,Mine Would Be You,16
+Florida Georgia Line,False,47,37,37,Stay,5
+A Great Big World & Christina Aguilera,False,16,16,38,Say Something,2
+Rihanna,False,80,39,39,What Now,4
+Matthew Schuler,True,0,40,40,Hallelujah,1
+Justin Timberlake,False,43,37,41,TKO,9
+Sage The Gemini Featuring IamSu!,False,44,29,42,Gas Pedal,17
+Eminem,False,19,3,43,Berzerk,12
+Justin Timberlake,False,41,2,44,Mirrors,40
+Drake Featuring 2 Chainz & Big Sean,False,52,20,45,All Me,8
+Sevyn Streeter Featuring Chris Brown,False,49,46,46,It Won't Stop,7
+Katy Perry Featuring Juicy J,False,50,17,47,Dark Horse,9
+Ellie Goulding,False,57,48,48,Burn,11
+Bruno Mars,False,40,22,49,Gorilla,12
+Justin Bieber,True,0,50,50,All Bad,1
+Taylor Swift,False,32,6,51,Red,20
+Joe Nichols,False,58,52,52,Sunny And 75,12
+Bastille,False,66,53,53,Pompeii,14
+Tim McGraw,False,42,42,54,Southern Girl,17
+Eli Young Band,False,61,55,55,Drunk Last Night,11
+August Alsina Featuring Trinidad James,False,59,48,56,I Luv This Sh*t,11
+Parmalee,False,65,57,57,Carolina,9
+Taylor Swift Featuring Ed Sheeran,False,55,32,58,Everything Has Changed,20
+Eminem,False,31,16,59,Survival,6
+Cassadee Pope,False,60,37,60,Wasting All These Tears,11
+David Nail,False,70,61,61,Whatever She's Got,7
+Sage The Gemini,False,68,52,62,Red Nose,18
+Big Sean Featuring Lil Wayne & Jhene Aiko,False,63,38,63,Beware,17
+Chris Young,False,56,45,64,Aw Naw,18
+JAY-Z,False,71,39,65,Tom Ford,19
+John Legend,False,97,66,66,All Of Me,6
+Future,False,69,55,67,Honest,10
+Kid Ink Featuring Chris Brown,False,0,68,68,Show Me,2
+The Band Perry,False,67,67,69,Don't Let Me Be Lonely,5
+Ylvis,False,54,6,70,The Fox,11
+Lady Gaga,False,8,8,71,Dope,2
+Jason Aldean,False,62,26,72,Night Train,20
+Zendaya,False,74,61,73,Replay,13
+Zac Brown Band,False,77,74,74,Sweet Annie,5
+Rich Homie Quan,False,73,50,75,Type Of Way,18
+Juicy J Featuring Wale & Trey Songz,False,75,74,76,Bounce It,12
+Eric Church,False,51,51,77,The Outsiders,4
+Cole Swindell,False,84,78,78,Chillin' It,5
+Britney Spears,False,64,12,79,Work B**ch!,9
+B.o.B Featuring 2 Chainz,False,78,64,80,HeadBand,23
+Darius Rucker,False,85,81,81,Radio,5
+Eric Paslay,False,83,82,82,Friday Night,5
+Martin Garrix,False,81,75,83,Animals,9
+Luke Bryan,False,79,79,84,Drink A Beer,2
+Lorde,False,88,69,85,Team,8
+Lorde,False,86,71,86,Tennis Court,7
+Lady Antebellum,False,87,87,87,Compass,2
+Travie McCoy Featuring Jason Mraz,False,82,82,88,Rough Water,4
+Drake,False,0,51,89,The Language,4
+Ariana Grande Featuring Big Sean,False,93,84,90,Right There,4
+Jake Owen,False,90,83,91,Days Of Gold,6
+ScHoolboy Q Featuring Kendrick Lamar,False,95,92,92,Collard Greens,4
+American Authors,True,0,93,93,Best Day Of My Life,1
+Hunter Hayes Featuring Jason Mraz,False,91,91,94,Everybody's Got Somebody But Me,2
+Prince Royce,False,96,78,95,Darte Un Beso,12
+Drake Featuring JAY-Z,False,0,65,96,Pound Cake / Paris Morton Music 2,7
+One Direction,False,92,2,97,Best Song Ever,17
+Romeo Santos,False,0,79,98,Propuesta Indecente,7
+Jon Pardi,True,0,99,99,Up All Night,1
+Daughtry,False,0,70,100,Waiting For Superman,2

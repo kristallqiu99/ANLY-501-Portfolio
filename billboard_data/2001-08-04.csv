@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Destiny's Child,False,7,1,1,Bootylicious,9
+Mariah Carey Featuring Cameo,False,60,2,2,Loverboy,7
+Blu Cantrell,False,2,2,3,Hit 'Em Up Style (Oops!),14
+O-Town,False,3,3,4,All Or Nothing,9
+Usher,False,1,1,5,U Remind Me,8
+Eve Featuring Gwen Stefani,False,4,3,6,Let Me Blow Ya Mind,15
+Train,False,6,5,7,Drops Of Jupiter (Tell Me),21
+Lifehouse,False,8,2,8,Hanging By A Moment,26
+112,False,5,4,9,Peaches & Cream,17
+Alicia Keys,False,14,10,10,Fallin',8
+Jagged Edge With Nelly,False,11,11,11,Where The Party At,10
+Jennifer Lopez Featuring Ja Rule,False,19,12,12,I'm Real,5
+Staind,False,13,13,13,It's Been Awhile,17
+Incubus,False,9,9,14,Drive,25
+City High,False,10,8,15,What Would You Do?,20
+Sugar Ray,False,16,16,16,When It's Over,10
+Janet,False,17,17,17,Someone To Call My Lover,7
+Craig David,False,18,18,18,Fill Me In,9
+D12,False,20,19,19,Purple Hills,7
+"Missy ""Misdemeanor"" Elliott",False,15,7,20,Get Ur Freak On,20
+Jessica Simpson,False,21,15,21,Irresistible,12
+Willa Ford,False,27,22,22,I Wanna Be Bad,9
+Uncle Kracker,False,23,5,23,Follow Me,22
+"Christina Aguilera, Lil' Kim, Mya & P!nk",False,12,1,24,Lady Marmalade,17
+Nelly Featuring City Spud,False,22,3,25,Ride Wit Me,24
+Luther Vandross,False,31,26,26,Take You Out,3
+Jimmy Cozier,False,26,26,27,She's All I Got,8
+Erick Sermon Featuring Marvin Gaye,False,25,22,28,Music,10
+Lil' Mo Featuring Fabolous,False,24,11,29,Superwoman Pt. II,19
+Blake Shelton,False,33,30,30,Austin,11
+Dave Matthews Band,False,35,31,31,The Space Between,12
+R. Kelly Featuring Jay-Z,False,28,6,32,Fiesta,19
+The Isley Brothers Featuring Ronald Isley,False,41,33,33,Contagious,4
+Eve 6,False,30,30,34,Here's To The Night,9
+Dido,False,29,3,35,Thank You,30
+"Missy ""Misdemeanor"" Elliott",False,49,36,36,One Minute Man,4
+Lonestar,False,32,24,37,I'm Already There,14
+Jamie O'Neal,False,42,38,38,When I Think About Angels,9
+Montgomery Gentry,False,37,37,39,She Couldn't Change Me,18
+JAY-Z,False,59,40,40,Izzo (H.O.V.A.),2
+American Hi-Fi,False,43,41,41,Flavor Of The Weak,7
+Nelly Furtado,False,40,9,42,I'm Like A Bird,23
+Janet,False,39,1,43,All For You,21
+Toby Keith,False,44,44,44,I'm Just Talkin' About Tonight,8
+Backstreet Boys,False,34,27,45,More Than That,11
+Toya,False,45,32,46,I Do!!,10
+matchbox twenty,False,48,5,47,If You're Gone,42
+Lee Ann Womack,False,46,14,48,I Hope You Dance,48
+Faith Hill,False,38,10,49,There You'll Be,11
+Ray J Featuring Lil' Kim,False,36,30,50,Wait A Minute,11
+Keith Urban,False,51,51,51,Where The Blacktop Ends,8
+Ludacris Featuring Nate Dogg,False,55,52,52,Area Codes,4
+Mary J. Blige,False,76,53,53,Family Affair,2
+Cyndi Thomson,False,54,54,54,What I Really Meant To Say,10
+'N Sync,False,47,19,55,Pop,10
+Smash Mouth,False,63,56,56,I'm A Believer,3
+Brad Paisley,False,52,51,57,Two People Fell In Love,15
+Jaheim,False,58,58,58,Just In Case,6
+Faith Evans Featuring Carl Thomas,False,56,56,59,Can't Believe,14
+"P. Diddy, Black Rob & Mark Curry",False,70,60,60,Bad Boy For Life,2
+Jo Dee Messina,False,62,59,61,Downtime,8
+Jill Scott,False,67,62,62,The Way,5
+The Wiseguys,True,0,63,63,Start The Commotion,1
+Dream,False,57,39,64,This Is Me,13
+Enya,False,65,65,65,Only Time,4
+Fuel,False,73,66,66,Bad Day,2
+Violator Featuring Busta Rhymes,False,75,66,67,What It Is,6
+Aaliyah Featuring Timbaland,False,61,59,68,We Need A Resolution,10
+Brooks & Dunn,False,69,69,69,Only In America,3
+Babyface,False,53,31,70,There She Goes,13
+Trick Daddy,False,91,71,71,I'm A Thug,3
+3 Doors Down,False,72,72,72,Be Like That,2
+Sara Evans,False,66,35,73,I Could Not Ask For More,16
+Blink-182,False,74,74,74,The Rock Show,2
+Ginuwine,False,79,75,75,Differences,2
+Lil' Romeo,False,50,3,76,My Baby,12
+Chris Cagle,False,71,71,77,Laredo,5
+Tool,False,68,68,78,Schism,7
+Tim McGraw,False,64,25,79,Grown Men Don't Cry,19
+Rascal Flatts,False,77,76,80,While You Loved Me,6
+Trisha Yearwood,True,0,81,81,I Would've Loved You Anyway,1
+Lee Ann Womack,False,81,81,82,Why They Call It Falling,3
+Jennifer Lopez,False,78,18,83,Play,18
+matchbox twenty,False,85,48,84,Mad Season,14
+Dante Thomas Featuring Pras,False,89,85,85,Miss California,4
+Ja Rule Featuring Lil' Mo,False,93,40,86,I Cry,14
+Alan Jackson,False,80,52,87,When Somebody Loves You,15
+Fabolous Featuring Nate Dogg,False,97,88,88,Can't Deny It,3
+Gary Allan,False,87,42,89,Right Where I Need To Be,18
+Snoop Dogg Featuring Tyrese & Mr. Tan,False,90,90,90,Just A Baby Boy,4
+Tyrese,False,82,48,91,I Like Them Girls,18
+Darude,False,92,92,92,Sandstorm,3
+George Strait,False,84,51,93,If You Can Do Anything Else,17
+Samantha Mumba,False,83,49,94,"Baby, Come Over (This Is Our Night)",13
+Gigi D'Agostino,True,0,95,95,I'll Fly With You (L'amour Toujours),1
+Azul Azul,False,88,70,96,La Bomba,18
+Trick Pony,False,98,97,97,On A Night Like This,2
+Coo Coo Cal,True,0,98,98,My Projects,1
+Ian Van Dahl Featuring Marsha,True,0,99,99,Castles In The Sky,1
+Lionel Richie,False,94,70,100,Angel,14

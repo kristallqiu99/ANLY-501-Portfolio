@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Ariana Grande,False,1,1,1,7 Rings,10
+Post Malone,False,4,2,2,Wow.,14
+Post Malone & Swae Lee,False,3,1,3,Sunflower (Spider-Man: Into The Spider-Verse),23
+Halsey,False,2,1,4,Without Me,25
+Cardi B & Bruno Mars,False,5,3,5,Please Me,6
+Marshmello & Bastille,False,6,2,6,Happier,32
+J. Cole,False,9,4,7,Middle Child,10
+Blueface,False,11,8,8,Thotiana,11
+Jonas Brothers,False,8,1,9,Sucker,4
+Lady Gaga & Bradley Cooper,False,7,1,10,Shallow,26
+"benny blanco, Halsey & Khalid",False,12,9,11,Eastside,37
+Meek Mill Featuring Drake,False,10,6,12,Going Bad,17
+Panic! At The Disco,False,14,4,13,High Hopes,34
+Ariana Grande,False,15,2,14,"Break Up With Your Girlfriend, I'm Bored",7
+Lil Nas X Featuring Billy Ray Cyrus,False,32,15,15,Old Town Road,4
+Khalid,False,18,16,16,Better,28
+Sam Smith & Normani,False,17,17,17,Dancing With A Stranger,11
+Travis Scott,False,13,1,18,Sicko Mode,34
+YNW Melly,False,16,14,19,Murder On My Mind,10
+Ava Max,False,20,20,20,Sweet But Psycho,15
+Ariana Grande,False,19,1,21,"Thank U, Next",21
+21 Savage,False,21,12,22,A Lot,14
+Maroon 5 Featuring Cardi B,False,22,1,23,Girls Like You,44
+Dean Lewis,False,23,23,24,Be Alright,22
+Luke Combs,False,25,23,25,Beautiful Crazy,20
+Lil Baby & Gunna,False,24,4,26,Drip Too Hard,28
+Ellie Goulding X Diplo Featuring Swae Lee,False,28,27,27,Close To Me,19
+Cardi B,False,26,13,28,Money,23
+Post Malone,False,27,3,29,Better Now,48
+Lauren Daigle,False,29,29,30,You Say,37
+Mustard & Migos,False,34,31,31,Pure Water,9
+5 Seconds Of Summer,False,33,7,32,Youngblood,43
+Pinkfong,False,37,32,33,Baby Shark,13
+Bad Bunny Featuring Drake,False,30,5,34,MIA,24
+A Boogie Wit da Hoodie,False,36,32,35,Look Back At It,16
+Calboy,False,39,36,36,Envy Me,15
+Juice WRLD,False,35,27,37,Robbery,6
+Kodak Black Featuring Travis Scott & Offset,False,31,2,38,ZEZE,24
+Dan + Shay,False,38,21,39,Tequila,47
+Khalid,False,41,40,40,Talk,7
+Billie Eilish,False,46,14,41,Bury A Friend,9
+YNW Melly Featuring Kanye West,False,43,42,42,Mixed Personalities,10
+City Girls,False,50,43,43,Act Up,4
+A Boogie Wit da Hoodie Featuring 6ix9ine,False,45,38,44,Swervin,14
+"Cardi B, Bad Bunny & J Balvin",False,44,1,45,I Like It,51
+Yo Gotti Featuring Lil Baby,False,49,46,46,Put A Date On It,9
+Juice WRLD,False,40,2,47,Lucid Dreams,46
+"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",False,42,11,48,Taki Taki,26
+Daddy Yankee & Katy Perry Featuring Snow,False,48,48,49,Con Calma,8
+City Girls Featuring Cardi B,False,51,29,50,Twerk,12
+Brett Young,False,53,51,51,Here Tonight,12
+The Chainsmokers Featuring 5 Seconds Of Summer,False,54,52,52,Who Do You Love,7
+Marshmello Featuring CHVRCHES,False,79,53,53,Here With Me,3
+Chase Rice,False,61,54,54,Eyes On You,6
+YK Osiris,False,56,55,55,Worth It,6
+Imagine Dragons,False,59,56,56,Bad Liar,5
+Lil Baby,False,58,28,57,Close Friends,22
+Summer Walker X Drake,False,52,37,58,Girls Need Love,5
+Kane Brown,False,69,59,59,Good As You,5
+Kelsea Ballerini,False,77,60,60,Miss Me More,8
+FLETCHER,False,68,61,61,Undrunk,3
+Ella Mai,False,65,62,62,Shot Clock,9
+P!nk,False,89,54,63,Walk Me Home,4
+Chris Stapleton,False,47,47,64,Millionaire,16
+Jake Owen,False,81,65,65,Down To The Honkytonk,13
+Morgan Wallen,False,75,66,66,Whiskey Glasses,4
+Michael Ray,False,78,67,67,One That Got Away,5
+Scotty McCreery,False,64,42,68,This Is It,16
+Thomas Rhett,False,80,52,69,Look What God Gave Her,4
+Lil Baby,False,57,46,70,Pure Cocaine,14
+Riley Green,False,72,71,71,There Was This Girl,5
+NAV Featuring The Weeknd,True,0,72,72,Price On My Head,1
+Khalid & Kane Brown,False,70,57,73,Saturday Nights,8
+Old Dominion,False,76,74,74,Make It Sweet,13
+Lil Peep & iLoveMakonnen Featuring Fall Out Boy,False,84,75,75,I've Been Waiting,3
+Jason Aldean,False,74,46,76,Girl Like You,18
+Maren Morris,False,82,61,77,GIRL,4
+Logic,True,0,78,78,Confessions Of A Dangerous Mind,1
+Jordan Davis,False,63,46,79,Take It From Me,13
+Rich The Kid,False,0,80,80,Splashin,5
+Jon Pardi,False,85,81,81,Night Shift,6
+Lil Skies,False,71,39,82,I,4
+Lee Brice,False,88,83,83,Rumor,3
+Billie Eilish,False,87,59,84,Wish You Were Gay,4
+"benny blanco, Tainy, Selena Gomez & J Balvin",False,66,66,85,I Can't Get Enough,4
+Juice WRLD,False,60,38,86,Hear Me Calling,4
+Ski Mask The Slump God,False,90,87,87,Faucet Failure,5
+Florida Georgia Line,False,93,80,88,Talk You Out Of It,6
+NAV Featuring Meek Mill,True,0,89,89,Tap,1
+Pedro Capo X Farruko,False,91,90,90,Calma,3
+Chris Brown,False,73,35,91,Undecided,12
+Cody Johnson,False,95,91,92,On My Way To You,7
+Anuel AA & Karol G,False,94,68,93,Secreto,8
+Kodak Black,False,92,46,94,Calling My Spirit,17
+Polo G Featuring Lil Tjay,True,0,95,95,Pop Out,1
+Billie Eilish & Khalid,False,98,64,96,Lovely,21
+Mabel,True,0,97,97,Don't Call Me Up,1
+Bebe Rexha,True,0,98,98,Last Hurrah,1
+Juice WRLD,False,67,41,99,Empty,3
+Carrie Underwood,False,100,83,100,Love Wins,10

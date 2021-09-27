@@ -1,0 +1,50 @@
+---
+title: "Data Cleaning in R"
+author: "Yuejiao Qiu"
+date: "9/26/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Concat the hot 100 charts of each month
+```{r}
+library(dplyr)
+library(readr)
+data_frame <- list.files(path="billboard_data/", full.names = TRUE) %>% 
+  lapply(read_csv) %>% 
+  bind_rows 
+```
+
+```{r}
+# Total 26,000 observations
+head(data_frame)
+```
+
+## Remove overlapping rows with respect to song title
+```{r}
+data_frame_unique <-  data_frame[!duplicated(data_frame$title),]
+
+# Total 6331 observations
+head(data_frame_unique)
+```
+## Drop useless columns
+```{r}
+# We want to know which song by which artist has featured on the chart
+# So keep only two columns - title & artist
+hit_songs <- subset(data_frame_unique, select = c(title, artist))
+head(hit_songs)
+```
+## Label these songs as hit -1
+```{r}
+hit_songs$hit <-  rep(1, nrow(hit_songs))
+head(hit_songs)
+```
+
+## Output the dataframe
+```{r}
+write.csv(hit_songs, 'hit_songs_2000_20210925.csv', row.names = FALSE)
+```
+

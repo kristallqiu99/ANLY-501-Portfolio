@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+John Legend,False,1,1,1,All Of Me,32
+Iggy Azalea Featuring Charli XCX,False,3,2,2,Fancy,11
+Ariana Grande Featuring Iggy Azalea,False,4,3,3,Problem,3
+Pharrell Williams,False,2,1,4,Happy,20
+DJ Snake & Lil Jon,False,6,5,5,Turn Down For What,21
+Katy Perry Featuring Juicy J,False,5,1,6,Dark Horse,35
+Jason Derulo Featuring 2 Chainz,False,7,3,7,Talk Dirty,22
+Justin Timberlake,False,8,8,8,Not A Bad Thing,12
+Michael Jackson & Justin Timberlake,False,22,9,9,Love Never Felt So Good,3
+Coldplay,False,43,10,10,A Sky Full Of Stars,3
+Calvin Harris,False,14,11,11,Summer,9
+Paramore,False,10,10,12,Ain't It Fun,12
+Idina Menzel,False,9,5,13,Let It Go,25
+Coldplay,False,53,14,14,Magic,11
+Bastille,False,11,5,15,Pompeii,40
+Ed Sheeran,False,15,14,16,Sing,6
+Nico & Vinz,False,18,17,17,Am I Wrong,5
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,False,12,9,18,Loyal,18
+American Authors,False,13,11,19,Best Day Of My Life,27
+Jason Derulo Featuring Snoop Dogg,False,24,20,20,Wiggle,3
+Luke Bryan,False,19,14,21,Play It Again,10
+Rixton,False,16,14,22,Me And My Broken Heart,8
+Katy Perry,False,25,23,23,Birthday,6
+OneRepublic,False,17,2,24,Counting Stars,48
+MKTO,False,26,25,25,Classic,14
+Florida Georgia Line Ft. Jason Derulo & Luke Bryan,False,23,16,26,This Is How We Roll,15
+Naughty Boy Featuring Sam Smith,False,20,19,27,La La La,13
+MAGIC!,False,39,28,28,Rude,4
+Coldplay,False,0,29,29,Midnight,3
+Brantley Gilbert,False,29,20,30,Bottoms Up,22
+Lorde,False,21,6,31,Team,34
+5 Seconds Of Summer,False,37,32,32,She Looks So Perfect,7
+Trey Songz,False,27,22,33,Na Na,17
+Pitbull Featuring G.R.L.,False,30,30,34,Wild Wild Love,12
+Pitbull Featuring Ke$ha,False,28,1,35,Timber,32
+Disclosure Featuring Sam Smith,False,34,34,36,Latch,9
+Kid Ink Featuring Chris Brown,False,31,13,37,Show Me,28
+Rascal Flatts,False,48,38,38,Rewind,18
+Beyonce,False,32,23,39,Partition,19
+Avicii,False,36,4,40,Wake Me Up!,47
+Imagine Dragons,False,40,6,41,Demons,56
+Passenger,False,35,5,42,Let Her Go,42
+One Direction,False,38,6,43,Story Of My Life,29
+Jake Owen,False,55,44,44,Beachin',8
+Eminem Featuring Nate Ruess,False,0,45,45,Headlights,8
+Thomas Rhett,False,41,41,46,Get Me Some Of That,19
+5 Seconds Of Summer,True,0,47,47,Don't Stop,1
+Christina Perri,False,42,31,48,Human,15
+Sam Smith,False,69,49,49,Stay With Me,6
+Eminem Featuring Rihanna,False,49,1,50,The Monster,29
+Jhene Aiko,False,46,43,51,The Worst,15
+"Future Featuring Pharrell, Pusha T & Casino",False,50,46,52,Move That Doh,10
+Miranda Lambert,False,54,41,53,Automatic,13
+KONGOS,False,62,54,54,Come With Me Now,7
+Young Money Featuring Drake,False,52,50,55,Trophies,11
+Tiesto,False,58,56,56,Red Lights,10
+Brett Eldredge,False,60,57,57,Beat Of The Music,15
+Keith Urban,False,56,41,58,Cop Car,16
+Neon Trees,False,59,51,59,Sleeping With A Friend,12
+Blake Shelton Featuring Gwen Sebastian,False,57,57,60,My Eyes,3
+YG Featuring Drake,False,64,54,61,Who Do You Love?,10
+Sia,False,75,62,62,Chandelier,2
+Eric Church,False,51,36,63,Give Me Back My Hometown,19
+Justin Moore,False,66,64,64,Lettin' The Night Roll,13
+Lee Brice,False,67,65,65,I Don't Dance,5
+Austin Mahone Featuring Pitbull,False,63,49,66,Mmm Yeah,13
+Tyler Farr,False,72,67,67,Whiskey In My Water,8
+Chris Young,False,76,68,68,Who I Am With You,4
+OneRepublic,False,0,69,69,Love Runs Out,2
+Shakira,False,68,58,70,Empire,8
+Jerrod Niemann,False,65,34,71,Drink To That All Night,20
+KCamp Featuring 2 Chainz,False,80,72,72,Cut Her Off,6
+Usher,False,70,70,73,Good Kisser,2
+Tinashe Featuring ScHoolboy Q,False,89,74,74,2 On,2
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona,False,84,75,75,Bailando,3
+Young Thug,False,73,47,76,Stoner,14
+Iggy Azalea,False,86,77,77,Work,3
+Joe Nichols,False,87,78,78,Yeah,4
+Wiz Khalifa,False,85,79,79,We Dem Boyz,5
+Fitz And The Tantrums,False,74,67,80,The Walker,12
+Brad Paisley,False,88,81,81,River Bank,2
+Billy Currington,False,91,82,82,We Are Tonight,4
+The Black Keys,False,83,77,83,Fever,3
+Craig Campbell,False,93,84,84,Keep Them Kisses Comin',3
+Jay Z Featuring Beyonce,False,92,77,85,Part II (On The Run),14
+Dustin Lynch,False,0,86,86,"Where It's At (Yep, Yep)",2
+Ed Sheeran,True,0,87,87,One,1
+Phillip Phillips,False,98,58,88,Raging Fire,5
+Ingrid Michaelson,False,97,82,89,Girls Chase Boys,6
+Imagine Dragons,False,0,79,90,On Top Of The World,15
+Dierks Bentley,True,0,91,91,Drunk On A Plane,1
+Kid Ink Featuring Chris Brown,True,0,92,92,Main Chick,1
+Shakira Featuring Rihanna,False,78,15,93,Can't Remember To Forget You,18
+The Band Perry,True,0,94,94,Chainsaw,1
+One Direction,False,99,68,95,You & I,5
+Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard,False,94,73,96,Or Nah,9
+Sara Bareilles,False,81,81,97,I Choose You,2
+Jake Worthington,True,0,98,98,Heaven,1
+Craig Morgan,False,0,99,99,Wake Up Lovin' You,2
+Future Featuring Kanye West,False,0,100,100,I Won,2

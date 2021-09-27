@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Usher,False,1,1,1,U Got It Bad,20
+Nickelback,False,2,1,2,How You Remind Me,22
+Ja Rule Featuring Ashanti,False,3,3,3,Always On Time,12
+P!nk,False,4,4,4,Get The Party Started,15
+Creed,False,5,5,5,My Sacrifice,15
+Shakira,False,7,6,6,"Whenever, Wherever",15
+Linkin Park,False,11,7,7,In The End,14
+Alicia Keys,False,8,8,8,A Woman's Worth,15
+The Calling,False,9,9,9,Wherever You Will Go,13
+No Doubt Featuring Bounty Killer,False,12,10,10,Hey Baby,9
+Mary J. Blige,False,6,1,11,Family Affair,28
+Jennifer Lopez Featuring Ja Rule,False,16,12,12,Ain't It Funny,6
+Enrique Iglesias,False,10,3,13,Hero,19
+Michael Jackson,False,14,14,14,Butterflies,12
+Ginuwine,False,13,4,15,Differences,28
+Craig David,False,20,16,16,7 Days,9
+Ludacris,False,22,17,17,Roll Out (My Business),13
+City High Featuring Eve,False,23,18,18,Caramel,17
+Ja Rule Featuring Case,False,17,6,19,Livin' It Up,23
+Aaliyah,False,19,14,20,Rock The Boat,22
+Fat Joe Featuring R. Kelly,False,15,15,21,We Thuggin',15
+Brandy,False,42,22,22,What About Us?,2
+'N Sync,False,18,11,23,Gone,20
+Five For Fighting,False,21,14,24,Superman (It's Not Easy),23
+OutKast Featuring Killer Mike,False,25,25,25,The Whole World,7
+Busta Rhymes,False,26,26,26,Break Ya Neck,13
+Jewel,False,27,27,27,Standing Still,12
+Mary J. Blige,False,36,28,28,No More Drama,8
+Steve Holy,False,30,29,29,Good Morning Beautiful,10
+LeAnn Rimes,False,43,30,30,Can't Fight The Moonlight,29
+Mr. Cheeks,False,34,31,31,"Lights, Camera, Action!",17
+Nelly,False,24,22,32,#1,16
+Alan Jackson,False,28,28,33,Where Were You (When The World Stopped Turning),11
+Toya,False,29,16,34,I Do!!,36
+George Strait,False,37,34,35,Run,15
+Alicia Keys,False,31,1,36,Fallin',34
+Mystikal,False,40,37,37,Bouncin' Back (Bumpin' Me Against The Wall),8
+Aaron Tippin,False,32,20,38,Where The Stars And Stripes And The Eagle Fly,16
+Puddle Of Mudd,False,47,39,39,Blurry,7
+Staind,False,38,5,40,It's Been Awhile,43
+Brad Paisley,False,44,41,41,Wrapped Around,12
+Enya,False,35,10,42,Only Time,30
+Train,False,41,5,43,Drops Of Jupiter (Tell Me),47
+Nelly Furtado,False,33,5,44,Turn Off The Light,25
+R. Kelly,False,48,45,45,The World's Greatest,6
+Fabolous,False,46,46,46,Young'n (Holla Back),10
+Lifehouse,False,45,2,47,Hanging By A Moment,52
+"Missy ""Misdemeanor"" Elliott Featuring Ginuwine & Tweet",False,49,48,48,Take Away,8
+Jennifer Lopez Featuring Ja Rule,False,39,1,49,I'm Real,31
+Kylie Minogue,False,64,50,50,Can't Get You Out Of My Head,2
+Jo Dee Messina With Tim McGraw,False,52,51,51,Bring On The Rain,9
+Brooks & Dunn,False,56,52,52,The Long Goodbye,7
+Jermaine Dupri & Ludacris,False,57,53,53,Welcome To Atlanta,6
+Toby Keith,False,50,28,54,I Wanna Talk About Me,17
+Garth Brooks,False,51,46,55,Wrapped Up In You,15
+Tim McGraw,False,59,56,56,The Cowboy In Me,4
+KeKe Wyatt Featuring Avant,False,62,57,57,Nothing In This World,5
+P.O.D.,False,58,41,58,Alive,14
+Angie Stone,False,60,52,59,Brotha,13
+Martina McBride,False,65,60,60,Blessed,4
+B2K,False,80,43,61,Uh Huh,5
+Mobb Deep Featuring 112,False,67,62,62,Hey Luv (Anything),2
+Glenn Lewis,False,63,63,63,Don't You Forget It,10
+Dixie Chicks,False,66,64,64,Some Days You Gotta Dance,3
+Alanis Morissette,True,0,65,65,Hands Clean,1
+JAY-Z,False,71,66,66,Jigga,2
+Trace Adkins,False,54,44,67,I'm Tryin',16
+Tracy Byrd,False,68,68,68,Just Let Me Be In Love,4
+Default,False,74,69,69,Wasting My Time,5
+Lenny Kravitz,False,61,31,70,Dig In,17
+Aaliyah,True,0,71,71,More Than A Woman,1
+Joe Diffie,False,72,72,72,In Another World,3
+Jonell & Method Man,False,75,62,73,Round And Round,8
+Faith Evans,False,77,74,74,I Love You,2
+Joe,False,70,68,75,Let's Stay Home Tonight,7
+Destiny's Child,False,55,10,76,Emotion,19
+Rascal Flatts,True,0,77,77,I'm Movin' On,1
+"Janet Featuring Missy Elliott, P. Diddy & Carly Simon",False,53,28,78,Son Of A Gun,11
+Incubus,False,69,60,79,Wish You Were Here,20
+The Offspring,False,78,77,80,Defy You,5
+U2,False,79,52,81,Stuck In A Moment You Can't Get Out Of,19
+Jagged Edge,False,76,58,82,Goodbye,12
+Method Man & Redman,False,81,72,83,Part II,7
+System Of A Down,False,82,76,84,Chop Suey,5
+David Ball,False,73,36,85,Riding With Private Malone,15
+Backstreet Boys,False,84,28,86,Drowning,16
+Corey Featuring Lil' Romeo,False,96,87,87,Hush Lil' Lady,2
+Juvenile,False,85,65,88,From Her Mama (Mama Got A**),13
+Master P Featuring Weebie,False,91,63,89,Ooohhhwee,6
+Staind,False,88,62,90,Fade,16
+Faith Evans,False,87,38,91,You Gets No Love,18
+Nas,False,89,89,92,Got Ur Self A...,8
+Puddle Of Mudd,False,90,68,93,Control,17
+George Harrison,True,0,94,94,My Sweet Lord,1
+Lonestar,False,92,63,95,With Me,15
+DMX Featuring Faith Evans,True,0,96,96,I Miss You,1
+NB Ridaz Featuring Angelina,False,97,97,97,Runaway,3
+Kevin Denney,True,0,98,98,That's Just Jessie,1
+Lil Bow Wow Featuring Jagged Edge & Fundisha,False,93,93,99,Thank You,5
+JAY-Z,False,94,17,100,"Girls, Girls, Girls",17

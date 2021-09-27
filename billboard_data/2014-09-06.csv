@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Taylor Swift,True,0,1,1,Shake It Off,1
+Nicki Minaj,False,39,2,2,Anaconda,3
+Meghan Trainor,False,2,2,3,All About That Bass,7
+Sam Smith,False,3,2,4,Stay With Me,20
+MAGIC!,False,1,1,5,Rude,18
+Iggy Azalea Featuring Rita Ora,False,8,6,6,Black Widow,8
+Ariana Grande Featuring Zedd,False,4,4,7,Break Free,8
+Sia,False,9,8,8,Chandelier,16
+"Jessie J, Ariana Grande & Nicki Minaj",False,10,6,9,Bang Bang,4
+Nico & Vinz,False,6,4,10,Am I Wrong,19
+Iggy Azalea Featuring Charli XCX,False,5,1,11,Fancy,25
+Charli XCX,False,11,10,12,Boom Clap,12
+Ariana Grande Featuring Iggy Azalea,False,7,2,13,Problem,17
+Maroon 5,False,12,6,14,Maps,10
+Clean Bandit Featuring Jess Glynne,False,14,13,15,Rather Be,11
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona,False,15,12,16,Bailando,17
+Disclosure Featuring Sam Smith,False,13,7,17,Latch,23
+Jeremih Featuring YG,False,18,18,18,Don't Tell 'Em,9
+Becky G,False,17,16,19,Shower,12
+John Legend,False,16,1,20,All Of Me,46
+Pharrell Williams,False,19,1,21,Happy,34
+Jason Aldean,False,20,12,22,Burnin' It Down,5
+Tove Lo,False,30,23,23,Habits (Stay High),13
+Florida Georgia Line,False,24,11,24,Dirt,7
+Echosmith,False,31,25,25,Cool Kids,7
+Demi Lovato Featuring Cher Lloyd,False,26,26,26,Really Don't Care,12
+Kenny Chesney,False,25,23,27,American Kids,10
+Calvin Harris,False,21,7,28,Summer,23
+Tinashe Featuring ScHoolboy Q,False,27,24,29,2 On,16
+Katy Perry Featuring Juicy J,False,23,1,30,Dark Horse,49
+OneRepublic,False,22,15,31,Love Runs Out,16
+Coldplay,False,34,10,32,A Sky Full Of Stars,17
+Dierks Bentley,False,28,27,33,Drunk On A Plane,15
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,False,32,9,34,Loyal,32
+Lady Antebellum,False,33,31,35,Bartender,14
+Katy Perry,False,57,36,36,This Is How We Do,4
+Chris Brown Featuring Usher & Rick Ross,False,38,37,37,New Flame,6
+Rich Gang Featuring Young Thug & Rich Homie Quan,False,44,38,38,Lifestyle,6
+T.I. Featuring Iggy Azalea,False,42,39,39,No Mediocre,10
+Jason Derulo Featuring Snoop Dogg,False,29,5,40,Wiggle,17
+OneRepublic,False,37,2,41,Counting Stars,62
+DJ Snake & Lil Jon,False,35,4,42,Turn Down For What,35
+Bobby Shmurda,False,52,43,43,Hot Boy,4
+KONGOS,False,36,31,44,Come With Me Now,21
+ScHoolboy Q Featuring BJ The Chicago Kid,False,40,38,45,Studio,12
+5 Seconds Of Summer,False,54,16,46,Amnesia,8
+Ed Sheeran,False,51,46,47,Don't,11
+Sam Hunt,False,48,48,48,Leave The Night On,9
+Wiz Khalifa,False,58,43,49,We Dem Boyz,19
+Nicki Minaj,False,61,24,50,Pills N Potions,14
+Tim McGraw Featuring Faith Hill,False,47,41,51,Meanwhile Back At Mama's,13
+Ingrid Michaelson,False,59,52,52,Girls Chase Boys,20
+Drake,False,53,53,53,0 To 100 / The Catch Up,5
+Luke Bryan,False,60,53,54,Roller Coaster,6
+Dustin Lynch,False,63,55,55,"Where It's At (Yep, Yep)",16
+Lee Brice,False,41,33,56,I Don't Dance,19
+Lil Wayne Featuring Drake,False,45,26,57,Believe Me,13
+Miranda Lambert Duet With Carrie Underwood,False,56,19,58,Somethin' Bad,14
+Cole Swindell,False,55,55,59,Hope You Get Lonely Tonight,10
+Kiesza,False,65,60,60,Hideaway,6
+Vance Joy,False,64,61,61,Riptide,9
+Rae Sremmurd,False,68,62,62,No Flex Zone,4
+Chase Rice,False,66,63,63,Ready Set Roll,13
+Fifth Harmony,False,72,43,64,Bo$$,7
+Brad Paisley,False,62,54,65,River Bank,16
+Milky Chance,False,71,66,66,Stolen Dance,5
+Brantley Gilbert Featuring Justin Moore & Thomas Rhett,False,70,67,67,Small Town Throwdown,11
+Pitbull Featuring John Ryan,False,88,68,68,Fireball,3
+Migos,False,76,69,69,Fight Night,7
+Joe Nichols,False,69,41,70,Yeah,18
+Kid Ink Featuring Chris Brown,False,67,60,71,Main Chick,15
+Frankie Ballard,False,80,72,72,Sunshine & Whiskey,7
+Iggy Azalea,False,77,54,73,Work,17
+Maddie & Tae,False,78,71,74,Girl In A Country Song,3
+Childish Gambino,False,79,70,75,V. 3005,12
+Michael Jackson & Justin Timberlake,False,73,9,76,Love Never Felt So Good,17
+Rita Ora,False,83,77,77,I Will Never Let You Down,4
+Ed Sheeran,False,81,13,78,Sing,20
+T.I. Featuring Young Thug,False,91,79,79,About The Money,3
+Jason Derulo,False,85,56,80,Trumpets,13
+Blake Shelton,True,0,81,81,Neon Light,1
+Little Big Town,False,89,78,82,Day Drinking,5
+KCamp Featuring 2 Chainz,False,87,49,83,Cut Her Off,20
+Billy Currington,False,75,60,84,We Are Tonight,18
+Tyga Featuring Young Thug,False,94,85,85,Hookah,2
+Maroon 5,True,0,86,86,Animals,1
+Hozier,False,96,87,87,Take Me To Church,2
+Mr. Probz,True,0,88,88,Waves,1
+Eric Church,False,93,89,89,Cold One,3
+Eli Young Band,False,97,90,90,Dust,5
+Usher,False,95,65,91,Good Kisser,16
+"Juicy J, Wiz Khalifa & Ty Dolla $ign Featuring Kill The Noise & Madsonik",False,84,84,92,Shell Shocked,2
+Pharrell Williams,False,82,23,93,Come Get It Bae,14
+Tiesto Featuring Matthew Koma,False,90,49,94,Wasted,12
+Chris Young,False,92,48,95,Who I Am With You,18
+"Steve Aoki, Chris Lake & Tujamo Featuring Kid Ink",True,0,96,96,Delirious (Boneless),1
+The Swon Brothers,False,100,97,97,Later On,2
+Trey Songz,False,98,84,98,Foreign,8
+Rich Homie Quan Featuring Problem,True,0,99,99,Walk Thru,1
+Shakira,False,0,53,100,Dare (La La La),11

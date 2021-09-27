@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Adele,False,2,1,1,Set Fire To The Rain,21
+Rihanna Featuring Calvin Harris,False,1,1,2,We Found Love,18
+Flo Rida,False,3,3,3,Good Feeling,17
+David Guetta Featuring Nicki Minaj,False,10,4,4,Turn Me On,8
+Katy Perry,False,6,3,5,The One That Got Away,15
+Bruno Mars,False,4,3,6,It Will Rain,17
+LMFAO,False,5,1,7,Sexy And I Know It,21
+Kelly Clarkson,False,21,8,8,Stronger (What Doesn't Kill You),5
+Jay Z Kanye West,False,7,5,9,Ni**as in Paris,24
+Jessie J,False,15,10,10,Domino,15
+Tyga,False,8,8,11,Rack City,9
+Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,False,9,9,12,"Young, Wild & Free",15
+Maroon 5 Featuring Christina Aguilera,False,14,1,13,Moves Like Jagger,31
+Big Sean Featuring Nicki Minaj,False,11,10,14,Dance (A$$),16
+J. Cole,False,13,13,15,Work Out,21
+LMFAO Featuring Lauren Bennett & GoonRock,False,12,1,16,Party Rock Anthem,44
+David Guetta Featuring Usher,False,18,4,17,Without You,21
+Pitbull Featuring Chris Brown,False,23,18,18,International Love,12
+Adele,False,16,1,19,Someone Like You,29
+Gavin DeGraw,False,19,19,20,Not Over You,24
+Drake Featuring Lil Wayne,False,20,18,21,The Motto,10
+Gym Class Heroes Featuring Adam Levine,False,17,4,22,Stereo Hearts,32
+Selena Gomez & The Scene,False,24,23,23,Love You Like A Love Song,31
+Gym Class Heroes Featuring Neon Hitch,False,33,24,24,Ass Back Home,6
+Rihanna,False,28,14,25,You Da One,11
+Luke Bryan,False,27,22,26,I Don't Want This Night To End,17
+Toby Keith,False,26,15,27,Red Solo Cup,13
+Glee Cast,True,0,28,28,Without You,1
+Hot Chelle Rae Featuring New Boyz,False,30,28,29,I Like It Like That,16
+Drake Featuring Rihanna,False,39,9,30,Take Care,10
+Drake Featuring Nicki Minaj,False,31,9,31,Make Me Proud,15
+Breathe Carolina,False,42,32,32,Blackout,12
+Drake,False,25,13,33,Headlines,24
+Kelly Clarkson,False,32,10,34,Mr. Know It All,20
+Coldplay,False,38,15,35,Paradise,19
+Cobra Starship Featuring Sabi,False,34,7,36,You Make Me Feel...,28
+Chris Young,False,45,37,37,You,14
+Lady Antebellum,False,36,7,38,Just A Kiss,38
+"Pitbull Featuring Ne-Yo, Afrojack & Nayer",False,37,1,39,Give Me Everything,43
+T-Pain Featuring Wiz Khalifa & Lily Allen,False,29,10,40,5 O'Clock,17
+Adele,False,40,1,41,Rolling In The Deep,55
+Foster The People,False,35,3,42,Pumped Up Kicks,39
+Eric Church,False,41,40,43,Drink In My Hand,18
+Taylor Swift,False,47,13,44,Ours,11
+Outasight,False,46,45,45,Tonight Is The Night,9
+Wale Featuring Miguel,False,44,38,46,Lotus Flower Bomb,13
+The Band Perry,False,49,37,47,All Your Life,20
+Colbie Caillat,False,51,48,48,Brighter Than The Sun,23
+Nicki Minaj,False,43,3,49,Super Bass,39
+Gotye Featuring Kimbra,False,58,50,50,Somebody That I Used To Know,3
+Chris Brown Featuring Kevin K-MAC McCall,False,55,51,51,Strip,6
+Tyga Featuring Lil Wayne,True,0,52,52,Faded,1
+Jake Owen,False,56,53,53,Alone With You,7
+Christina Perri,False,54,43,54,A Thousand Years,14
+Zac Brown Band,False,50,35,55,Keep Me In Mind,17
+Glee Cast,True,0,56,56,We Found Love,1
+J. Cole Featuring Trey Songz,False,59,57,57,Can't Get Enough,8
+David Nail Featuring Sarah Buxton,False,52,51,58,Let It Rain,19
+B.o.B Featuring Lil Wayne,False,48,7,59,Strange Clouds,17
+The Fray,False,61,43,60,Heartbeat,14
+Jason Aldean,False,57,38,61,Tattoos On This Town,18
+Glee Cast,True,0,62,62,Moves Like Jagger / Jumpin' Jack Flash,1
+Keith Urban,False,68,63,63,You Gonna Fly,6
+The Wanted,False,85,64,64,Glad You Came,2
+Lady Gaga,False,53,29,65,Marry The Night,11
+Lee Brice,False,66,66,66,A Woman Like You,5
+The Black Keys,False,65,64,67,Lonely Boy,11
+Rick Ross Featuring Nicki Minaj,False,62,62,68,You The Boss,14
+Avicii,False,70,66,69,Levels,10
+Glee Cast,True,0,70,70,The First Time Ever I Saw Your Face,1
+Martina McBride,False,71,61,71,I'm Gonna Love You Through It,16
+Jason Mraz,False,22,8,72,I Won't Give Up,3
+will.i.am Featuring Mick Jagger & Jennifer Lopez,False,64,36,73,T.H.E (The Hardest Ever),6
+Kenny Chesney,False,72,72,74,Reality,11
+Dierks Bentley,False,73,70,75,Home,11
+Young Jeezy Featuring Jay-Z & Andre 3000,False,75,61,76,I Do,5
+Beyonce Featuring Andre 3000,False,69,50,77,Party,16
+Scotty McCreery,False,80,55,78,The Trouble With Girls,11
+Jay Z Kanye West,False,84,79,79,Gotta Have It,3
+Justin Moore,False,77,63,80,Bait A Hook,8
+Beyonce,False,74,20,81,Love On Top,10
+Florence + The Machine,False,79,73,82,Shake It Out,13
+Train,False,60,60,83,Drive By,2
+Ellie Goulding,False,87,84,84,Lights,5
+Hunter Hayes,False,81,78,85,Storm Warning,10
+Edens Edge,False,83,83,86,Amen,6
+Skrillex Featuring Sirah,False,76,74,87,Kyoto,3
+Glee Cast,True,0,88,88,Summer Nights,1
+fun. Featuring Janelle Monae,False,86,53,89,We Are Young,5
+Beyonce,False,82,71,90,Countdown,14
+Taylor Swift Featuring The Civil Wars,False,63,30,91,Safe & Sound,5
+Waka Flocka Flame Featuring Drake,False,89,86,92,Round Of Applause,5
+Brad Paisley,False,88,87,93,Camouflage,8
+Rihanna Featuring Jay-Z,False,100,31,94,Talk That Talk,4
+Montgomery Gentry,False,90,90,95,Where I Come From,3
+Lady Antebellum,False,0,50,96,Dancin' Away With My Heart,2
+Foster The People,False,97,97,97,Don't Stop (Color On The Walls),2
+Mary J. Blige Featuring Drake,True,0,98,98,Mr. Wrong,1
+George Strait,True,0,99,99,Love's Gonna Make It Alright,1
+Jay Z Kanye West Featuring Frank Ocean,True,0,100,100,No Church In The Wild,1

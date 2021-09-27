@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Ke$ha,False,1,1,1,TiK ToK,16
+Taylor Swift,True,0,2,2,Today Was A Fairytale,1
+Lady Gaga,False,2,2,3,Bad Romance,13
+Young Money Featuring Lloyd,False,4,4,4,BedRock,9
+Justin Bieber Featuring Ludacris,True,0,5,5,Baby,1
+Iyaz,False,5,2,6,Replay,23
+David Guetta Featuring Akon,False,6,6,7,Sexy Chick,25
+Jay-Z + Alicia Keys,False,3,1,8,Empire State Of Mind,20
+Rihanna Featuring Jeezy,False,8,8,9,Hard,10
+Train,False,7,7,10,"Hey, Soul Sister",17
+The Black Eyed Peas,False,15,11,11,Imma Be,8
+Ludacris,False,10,10,12,How Low,7
+Owl City,False,9,1,13,Fireflies,23
+Timbaland Featuring Justin Timberlake,False,32,14,14,Carry Out,8
+The Black Eyed Peas,False,11,1,15,I Gotta Feeling,33
+"Jay-Z, Bono, The Edge & Rihanna",True,0,16,16,Stranded (Haiti Mon Amour),1
+Jay Sean Featuring Sean Paul & Lil Jon,False,13,10,17,Do You Remember,12
+Lady Antebellum,False,17,5,18,Need You Now,24
+Trey Songz Featuring Fabolous,False,19,19,19,Say Aah,11
+Lady Gaga Featuring Beyonce,False,20,20,20,Telephone,9
+Ke$ha Featuring 3OH!3,False,12,7,21,Blah Blah Blah,3
+Boys Like Girls Featuring Taylor Swift,False,18,18,22,Two Is Better Than One,14
+Jay Sean Featuring Lil Wayne,False,16,1,23,Down,30
+Orianthi,False,21,21,24,According To You,8
+Jason Derulo,False,14,1,25,Whatcha Say,24
+Kris Allen,False,25,25,26,Live Like We're Dying,13
+Taylor Swift,False,22,2,27,You Belong With Me,40
+Jason Derulo,False,37,28,28,In My Head,7
+"Drake Featuring Kanye West, Lil Wayne & Eminem",False,23,8,29,Forever,19
+Lady Gaga,False,27,6,30,Paparazzi,22
+The Black Eyed Peas,False,30,7,31,Meet Me Halfway,19
+New Boyz Featuring Ray J,False,31,26,32,Tie Me Down,15
+Kelly Clarkson,False,28,13,33,Already Gone,26
+Miley Cyrus,False,26,2,34,Party In The U.S.A.,24
+Britney Spears,False,24,1,35,3,16
+Kings Of Leon,False,33,4,36,Use Somebody,52
+Adam Lambert,False,55,37,37,Whataya Want From Me,6
+Cascada,False,34,25,38,Evacuate The Dancefloor,24
+Beyonce,False,35,10,39,Sweet Dreams,27
+Taylor Swift,False,36,23,40,Fifteen,21
+Michael Buble,False,40,40,41,Haven't Met You Yet,17
+Shinedown,False,43,42,42,If You Only Knew,13
+Jason Aldean,False,41,41,43,The Truth,12
+Birdman Featuring Lil Wayne & Drake,False,38,26,44,Money To Blow,16
+Alicia Keys,False,46,27,45,Try Sleeping With A Broken Heart,10
+Colbie Caillat,False,42,12,46,Fallin' For You,30
+Selena Gomez & The Scene,False,29,29,47,Naturally,5
+Justin Timberlake & Matt Morris Featuring Charlie Sexton,True,0,48,48,Hallelujah,1
+Miranda Lambert,False,47,38,49,White Liar,15
+Melanie Fiona,False,49,49,50,It Kills Me,10
+Pitbull Featuring Akon,False,53,51,51,Shut It Down,8
+Snoop Dogg Featuring The-Dream,False,39,35,52,Gangsta Luv,14
+Josh Turner,False,51,51,53,Why Don't We Just Dance,11
+Snow Patrol Featuring Martha Wainwright,False,86,54,54,Set The Fire To The Third Bar,2
+Carrie Underwood,False,45,11,55,Cowboy Casanova,19
+OneRepublic,False,50,50,56,All The Right Moves,16
+Daughtry,False,48,48,57,Life After You,8
+Tim McGraw,False,54,49,58,Southern Voice,14
+The Script,False,66,59,59,Breakeven,8
+Snoop Dogg,False,64,60,60,I Wanna Rock,7
+Timbaland Featuring Drake,False,82,61,61,Say Something,3
+Mary J. Blige,False,63,62,62,I Am,7
+Justin Bieber,False,52,16,63,One Less Lonely Girl,15
+Jay-Z + Swizz Beatz,False,78,64,64,On To The Next One,2
+Nickelback,False,60,58,65,Never Gonna Be Alone,13
+John Mayer,False,70,66,66,Heartbreak Warfare,7
+Lifehouse,False,71,67,67,Halfway Gone,7
+LMFAO Featuring Lil Jon,False,77,68,68,Shots,7
+Sade,False,58,58,69,Soldier Of Love,2
+Trey Songz Featuring Drake,False,65,42,70,I Invented Sex,14
+Chris Brown Featuring Lil Wayne & Swizz Beatz,False,57,20,71,I Can Transform Ya,16
+Darius Rucker,False,68,64,72,History In The Making,13
+Muse,False,67,37,73,Uprising,20
+Dierks Bentley,False,61,52,74,I Wanna Make You Close Your Eyes,17
+Lil Wayne Featuring Eminem,False,56,18,75,Drop The World,4
+Rob Thomas,False,75,72,76,Someday,12
+Blake Shelton Featuring Trace Adkins,False,73,65,77,Hillbilly Bone,5
+Brad Paisley,False,80,78,78,American Saturday Night,7
+Gucci Mane Featuring Usher,False,62,42,79,Spotlight,13
+Lady Antebellum,True,0,80,80,Our Kind Of Love,1
+Rihanna,True,0,81,81,Redemption Song,1
+Carrie Underwood,False,84,82,82,Temporary Home,5
+Reba,False,69,38,83,Consider Me Gone,17
+Robin Thicke,False,89,79,84,Sex Therapy,6
+Billy Currington,False,87,85,85,That's How Country Boys Roll,8
+Toby Keith,False,85,85,86,Cryin' For Me (Wayman's Song),7
+Ke$ha,False,59,27,87,Your Love Is My Drug,3
+Jake Owen,False,81,70,88,Eight Second Ride,12
+Phoenix,False,91,84,89,1901,8
+Keith Urban,False,92,90,90,'Til Summer Comes Around,2
+Easton Corbin,False,95,91,91,A Little More Country Than That,3
+Pearl Jam,False,99,92,92,Just Breathe,2
+Zac Brown Band,False,98,93,93,Highway 20 Ride,2
+Usher,False,96,31,94,Papers,15
+Three Days Grace,False,94,73,95,Break,20
+Chris Brown,False,83,53,96,Crawl,9
+Lady Antebellum,False,0,97,97,American Honey,3
+50 Cent Featuring Ne-Yo,False,76,28,98,Baby By Me,13
+Shakira Featuring Lil Wayne,False,79,29,99,Give It Up To Me,11
+Rihanna,False,90,9,100,Russian Roulette,14

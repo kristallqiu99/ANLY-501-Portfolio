@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Mark Ronson Featuring Bruno Mars,False,1,1,1,Uptown Funk!,19
+Maroon 5,False,2,2,2,Sugar,10
+Ed Sheeran,False,3,2,3,Thinking Out Loud,24
+Ellie Goulding,False,4,3,4,Love Me Like You Do,11
+Rihanna & Kanye West & Paul McCartney,False,5,4,5,FourFiveSeconds,9
+The Weeknd,False,6,6,6,Earned It (Fifty Shades Of Grey),13
+Taylor Swift,False,7,6,7,Style,15
+Fetty Wap,False,10,8,8,Trap Queen,9
+Pitbull & Ne-Yo,False,9,9,9,Time Of Our Lives,15
+Flo Rida Featuring Sage The Gemini & Lookas,False,13,10,10,G.D.F.R.,19
+Taylor Swift,False,12,1,11,Blank Space,21
+Hozier,False,11,2,12,Take Me To Church,32
+Natalie La Rose Featuring Jeremih,False,15,13,13,Somebody,9
+Nicki Minaj Featuring Drake & Lil Wayne,False,14,14,14,Truffle Butter,9
+WALK THE MOON,False,21,15,15,Shut Up And Dance,19
+Ariana Grande,False,18,16,16,One Last Time,6
+Meghan Trainor,False,17,4,17,Lips Are Movin,22
+Sam Smith,False,8,8,18,Lay Me Down,7
+Usher Featuring Juicy J,False,16,11,19,I Don't Mind,18
+Nick Jonas,False,20,20,20,Chains,8
+Sam Hunt,False,27,21,21,Take Your Time,12
+Chris Brown & Tyga,False,23,22,22,Ayo,11
+Sam Smith,False,19,5,23,I'm Not The Only One,29
+Taylor Swift,False,22,1,24,Shake It Off,31
+Meghan Trainor,False,28,1,25,All About That Bass,37
+Zedd Featuring Selena Gomez,False,24,17,26,I Want You To Know,4
+Jason Derulo,False,45,27,27,Want To Want Me,2
+Kelly Clarkson,False,30,21,28,Heartbeat Song,10
+Fall Out Boy,False,25,10,29,Centuries,28
+Calvin Harris Featuring Ellie Goulding,False,37,30,30,Outside,15
+"Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown",False,29,12,31,Only,21
+Omarion Featuring Chris Brown & Jhene Aiko,False,41,32,32,Post To Be,11
+Big Sean Featuring Drake,False,35,30,33,Blessings,7
+Big Sean Featuring E-40,False,33,11,34,I Don't F**k With You,26
+Maroon 5,False,40,3,35,Animals,31
+Ne-Yo Featuring Juicy J,False,26,19,36,She Knows,18
+Sam Smith,False,34,2,37,Stay With Me,50
+Nick Jonas,False,32,7,38,Jealous,28
+Tove Lo,False,46,39,39,Talking Body,8
+Vance Joy,False,38,30,40,Riptide,39
+Zac Brown Band,False,42,41,41,Homegrown,10
+Beyonce,False,36,13,42,7/11,17
+Cole Swindell,False,48,43,43,Ain't Worth The Whiskey,12
+Lillywood & Robin Schulz,False,39,23,44,Prayer In C,16
+One Direction,False,52,31,45,Night Changes,18
+Sia,False,47,8,46,Chandelier,46
+Meghan Trainor,False,0,47,47,Dear Future Husband,10
+Sia,False,49,17,48,Elastic Heart,11
+Rae Sremmurd,False,50,16,49,No Type,26
+Chris Young,False,57,50,50,Lonely Eyes,14
+Rae Sremmurd Featuring Nicki Minaj & Young Thug,False,61,51,51,Throw Sum Mo,12
+Drake,False,54,26,52,Energy,6
+"Kanye West Featuring Theophilus London, Allan Kingdom & Paul McCartney",False,51,15,53,All Day,3
+Imagine Dragons,False,60,28,54,I Bet My Life,20
+Darius Rucker,False,63,55,55,Homegrown Honey,17
+Andy Grammer,False,77,56,56,"Honey, I'm Good.",4
+Drake,False,66,57,57,Know Yourself,5
+Trey Songz,False,64,58,58,Slow Motion,6
+Sheppard,False,58,58,59,Geronimo,13
+Ciara,False,43,43,60,I Bet,4
+Kendrick Lamar,True,0,61,61,King Kunta,1
+George Ezra,False,72,62,62,Budapest,8
+Drake,False,62,52,63,Legend,6
+O.T. Genasis,False,59,20,64,CoCo,18
+Dierks Bentley,False,71,65,65,Say You Do,10
+Kendrick Lamar,True,0,66,66,The Blacker The Berry,1
+Mumford & Sons,False,31,31,67,Believe,2
+Brett Eldredge,False,53,53,68,Mean To Me,20
+Silento,False,76,69,69,Watch Me,4
+Jason Aldean,False,56,54,70,Just Gettin' Started,17
+Nicki Minaj Featuring Beyonce,False,69,43,71,Feeling Myself,14
+Miranda Lambert,False,55,55,72,Little Red Wagon,6
+Tyler Farr,False,74,73,73,A Guy Walks Into A Bar,12
+Tori Kelly,False,80,74,74,Nobody Love,4
+J. Cole,False,67,58,75,Apparently,14
+Drake,False,78,58,76,10 Bands,6
+A Thousand Horses,False,83,77,77,Smoke,4
+Fifth Harmony Featuring Kid Ink,False,87,78,78,Worth It,5
+Keith Urban Featuring Eric Church,False,84,79,79,Raise 'Em Up,4
+Blake Shelton Featuring Ashley Monroe,False,65,47,80,Lonely Tonight,16
+Billy Currington,False,88,81,81,Don't It,3
+Wiz Khalifa Featuring Charlie Puth,False,100,82,82,See You Again,2
+Kendrick Lamar,True,0,83,83,Alright,1
+twenty one pilots,True,0,84,84,Fairly Local,1
+Fall Out Boy,False,79,72,85,Immortals,5
+Selena Gomez,False,82,6,86,The Heart Wants What It Wants,20
+Carly Rae Jepsen,False,68,48,87,I Really Like You,3
+Empire Cast Featuring Jussie Smollett & Yazz,False,70,47,88,You're So Beautiful,4
+Thomas Rhett,False,75,43,89,Make Me Wanna,19
+Luke Bryan,False,81,41,90,I See You,17
+Kendrick Lamar Featuring George Clinton & Thundercat,True,0,91,91,Wesley's Theory,1
+OneRepublic,False,89,32,92,I Lived,17
+LunchMoney Lewis,False,95,93,93,Bills,2
+"Kendrick Lamar Featuring Bilal, Anna Wise & Thundercat",True,0,94,94,These Walls,1
+Little Big Town,False,90,84,95,Girl Crush,5
+Florida Georgia Line,False,0,62,96,Sippin' On Fire,2
+Eric Paslay,False,92,92,97,She Don't Love You,3
+Skrillex & Diplo With Justin Bieber,False,93,93,98,Where Are U Now,3
+"Kendrick Lamar Featuring Bilal, Anna Wise & Snoop Dogg",True,0,99,99,Institutionalized,1
+James Newton Howard Featuring Jennifer Lawrence,False,73,12,100,The Hanging Tree,17

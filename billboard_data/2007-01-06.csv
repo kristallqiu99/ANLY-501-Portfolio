@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Beyonce,False,1,1,1,Irreplaceable,10
+Akon Featuring Snoop Dogg,False,2,1,2,I Wanna Love You,13
+Fergie,False,4,3,3,Fergalicious,14
+Akon Featuring Eminem,False,3,2,4,Smack That,14
+Justin Timberlake Featuring T.I.,False,5,1,5,My Love,16
+Nelly Furtado,False,6,6,6,Say It Right,7
+The Fray,False,8,3,7,How To Save A Life,37
+Jim Jones,False,7,7,8,We Fly High,12
+Bow Wow Featuring Chris Brown & Johnta Austin,False,9,9,9,Shortie Like Mine,12
+Hinder,False,10,3,10,Lips Of An Angel,24
+The All-American Rejects,False,18,11,11,It Ends Tonight,13
+Justin Timberlake,False,16,1,12,SexyBack,25
+Unk,False,13,13,13,Walk It Out,16
+Ciara,False,11,11,14,Promise,7
+Ludacris Featuring Pharrell,False,15,1,15,Money Maker,20
+My Chemical Romance,False,27,13,16,Welcome To The Black Parade,15
+Snow Patrol,False,17,5,17,Chasing Cars,32
+Paula DeAnda Featuring The DEY,False,22,18,18,Walk Away (Remember Me),12
+Nickelback,False,20,8,19,Far Away,23
+Avril Lavigne,False,19,17,20,Keep Holding On,4
+Gwen Stefani,False,12,6,21,Wind It Up,8
+Ludacris Featuring Mary J. Blige,False,31,22,22,Runaway Love,6
+Justin Timberlake,False,38,23,23,What Goes Around...Comes Around,3
+Carrie Underwood,False,23,16,24,Before He Cheats,17
+Christina Aguilera,False,21,19,25,Hurt,13
+Young Jeezy,False,14,14,26,I Luv It,6
+Fat Joe Featuring Lil Wayne,False,30,27,27,Make It Rain,8
+John Mayer,False,29,20,28,Waiting On The World To Change,24
+Lloyd Featuring Lil Wayne,False,26,26,29,You,7
+Chris Brown,False,28,10,30,Say Goodbye,20
+Red Hot Chili Peppers,False,49,31,31,Snow ((Hey Oh)),6
+Snoop Dogg Featuring R. Kelly,False,24,20,32,That's That,6
+JoJo,False,35,3,33,Too Little Too Late,19
+Lil Scrappy Featuring Young Buck,False,32,28,34,Money In The Bank,15
+The Pussycat Dolls Featuring Timbaland,False,37,35,35,Wait A Minute,7
+Evanescence,False,34,10,36,Call Me When You're Sober,19
+Rascal Flatts,False,33,28,37,My Wish,16
+Daughtry,False,44,38,38,It's Not Over,5
+Stone Sour,False,41,39,39,Through Glass,21
+Brad Paisley,False,36,35,40,She's Everything,12
+Nas Featuring will.i.am,False,56,41,41,Hip Hop Is Dead,3
+OK Go,False,62,38,42,Here It Goes Again,17
+KT Tunstall,False,0,43,43,Suddenly I See,21
+"""Weird Al"" Yankovic",False,55,9,44,White & Nerdy,13
+Rodney Atkins,False,40,40,45,Watching You,8
+Rascal Flatts,False,46,6,46,What Hurts The Most,47
+Tim McGraw,False,43,35,47,My Little Girl,15
+Taylor Swift,False,45,44,48,Tim McGraw,16
+Birdman & Lil Wayne,False,42,21,49,Stuntin' Like My Daddy,17
+"Eminem, 50 Cent, Lloyd Banks & Ca$his",False,25,12,50,You Don't Know,3
+Diddy Featuring Christina Aguilera,False,47,47,51,Tell Me,10
+Sugarland,False,39,32,52,Want To,14
+Omarion,False,57,53,53,Ice Box,4
+Danity Kane,False,53,8,54,Show Stopper,19
+T.I.,False,83,55,55,Top Back,3
+Hellogoodbye,False,63,56,56,Here (In Your Arms),8
+The Killers,False,59,14,57,When You Were Young,20
+Jay-Z Featuring Chrisette Michele,False,60,58,58,Lost One,3
+Nelly Furtado,False,61,16,59,Maneater,15
+JAY-Z,False,52,8,60,Show Me What You Got,12
+Diddy Featuring Nicole Scherzinger,False,48,9,61,Come To Me,17
+Nickelback,False,72,62,62,Rockstar,13
+Chris Brown Featuring Jay Biz,False,64,63,63,Poppin',4
+Rihanna & Sean Paul,False,54,54,64,Break It Off,5
+Cherish,False,51,41,65,Unappreciated,13
+Blue October,False,66,66,66,Into The Ocean,3
+Augustana,False,69,54,67,Boston,12
+Lil' Boosie Featuring Yung Joc,False,70,68,68,Zoom,4
+The Red Jumpsuit Apparatus,False,78,69,69,Face Down,20
+George Strait,False,58,58,70,It Just Comes Natural,8
+Jason Aldean,False,65,65,71,Amarillo Sky,11
+Gwen Stefani Featuring Akon,False,93,72,72,The Sweet Escape,2
+Three Days Grace,False,80,73,73,Pain,4
+Keith Urban,False,82,74,74,Stupid Boy,3
+Kenny Chesney,False,68,41,75,You Save Me,17
+Rich Boy Featuring Polow Da Don,False,86,76,76,Throw Some D's,3
+AFI,False,88,77,77,Love Like Winter,2
+Beyonce Featuring Jay Z,False,74,59,78,Upgrade U,8
+Incubus,False,77,66,79,Anna-Molly,4
+U2 & Green Day,False,75,51,80,The Saints Are Coming,6
+Rob Thomas,False,73,64,81,Streetcorner Symphony,13
+Kellie Pickler,False,94,82,82,Red High Heels,4
+Trace Adkins,False,90,83,83,Ladies Love Country Boys,3
+Regina Spektor,False,98,84,84,Fidelity,2
+Sarah McLachlan,False,71,71,85,River,3
+Baby Boy Da Prince Featuring Lil Boosie,False,100,86,86,The Way I Live,2
+Mat Kearney,False,92,87,87,Nothing Left To Lose,9
+The Killers Featuring Toni Halliday,False,0,54,88,A Great Big Sled,2
+The Fray,False,50,50,89,Happy Xmas (War Is Over),2
+Heartland,False,87,34,90,I Loved Her First,20
+Vanessa Hudgens,False,79,55,91,Come Back To Me,15
+Montgomery Gentry,False,67,57,92,Some People Change,11
+Mary J. Blige,False,76,58,93,Take Me As I Am,14
+Robin Thicke,False,91,91,94,Lost Without U,3
+Beyonce,True,0,95,95,Listen,1
+Chingy Featuring Jermaine Dupri,False,85,59,96,Dem Jeans,8
+Pretty Ricky,True,0,97,97,On The Hotline,1
+Pitbull,False,96,92,98,Ay Chico (Lengua Afuera),5
+Red Hot Chili Peppers,False,0,50,99,Tell Me Baby,17
+RBD,False,0,65,100,Tu Amor,8

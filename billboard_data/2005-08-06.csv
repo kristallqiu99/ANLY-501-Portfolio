@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Mariah Carey,False,1,1,1,We Belong Together,17
+Rihanna,False,2,2,2,Pon de Replay,9
+The Pussycat Dolls Featuring Busta Rhymes,False,4,3,3,Don't Cha,14
+Missy Elliott Featuring Ciara & Fat Man Scoop,False,6,4,4,Lose Control,12
+Bow Wow Featuring Omarion,False,8,5,5,Let Me Hold You,11
+Gwen Stefani,False,3,1,6,Hollaback Girl,19
+Kelly Clarkson,False,7,6,7,Behind These Hazel Eyes,16
+The Black Eyed Peas,False,5,3,8,Don't Phunk With My Heart,16
+Ludacris Featuring Bobby Valentino,False,12,9,9,Pimpin' All Over The World,9
+Fat Joe Featuring Nelly,False,9,9,10,Get It Poppin',10
+Pretty Ricky,False,11,7,11,Grind With Me,17
+D.H.T.,False,14,12,12,Listen To Your Heart,10
+Lifehouse,False,13,13,13,You And Me,25
+50 Cent,False,10,3,14,Just A Lil Bit,20
+Papa Roach,False,18,15,15,Scars,26
+Gorillaz,False,25,16,16,Feel Good Inc,11
+Ciara Featuring Ludacris,False,15,2,17,Oh,20
+Will Smith,False,16,7,18,Switch,23
+Destiny's Child,False,22,19,19,Cater 2 U,15
+Foo Fighters,False,19,18,20,Best Of You,13
+Weezer,False,23,13,21,Beverly Hills,17
+Mike Jones,False,28,22,22,Back Then,10
+Coldplay,False,21,8,23,Speed Of Sound,14
+Jessica Simpson,False,20,14,24,These Boots Are Made For Walkin',4
+Green Day,False,27,19,25,Holiday,18
+Carrie Underwood,False,17,1,26,Inside Your Heaven,6
+Rob Thomas,False,24,6,27,Lonely No More,25
+Toby Keith,False,30,28,28,As Good As I Once Was,10
+Webbie Featuring Bun B,False,33,29,29,Give Me That,14
+Natasha Bedingfield,False,48,30,30,These Words,6
+Fall Out Boy,False,55,31,31,"Sugar, We're Goin' Down",6
+Kelly Clarkson,False,29,2,32,Since U Been Gone,34
+The Killers,False,32,10,33,Mr. Brightside,26
+3 Doors Down,False,31,14,34,Let Me Go,27
+Gwen Stefani,False,50,35,35,Cool,4
+Lil Rob,False,46,36,36,Summer Nights,7
+Faith Hill,False,43,37,37,Mississippi Girl,9
+Baby Bash Featuring Akon,False,38,19,38,Baby I'm Back,24
+Frankie J,False,39,39,39,How To Deal,11
+Howie Day,False,34,20,40,Collide,26
+Sugarland,False,44,41,41,Something More,12
+Gavin DeGraw,False,35,30,42,Chariot,17
+Kanye West,False,69,43,43,Diamonds From Sierra Leone,12
+The Game,False,36,32,44,Dreams,10
+Teairra Mari,False,49,45,45,Make Her Feel Good,10
+Rascal Flatts,False,42,38,46,Fast Cars And Freedom,14
+Backstreet Boys,False,40,13,47,Incomplete,16
+Tony Yayo Featuring 50 Cent,False,52,48,48,So Seductive,7
+Fantasia,False,41,41,49,Free Yourself,15
+Mariah Carey,False,66,50,50,Shake It Off,2
+Shakira Feat. Alejandro Sanz,False,51,51,51,La Tortura,14
+Lyfe Jennings,False,53,52,52,Must Be Nice,9
+Bo Bice,False,26,2,53,Inside Your Heaven,5
+Anna Nalick,False,57,54,54,Breathe (2 AM),15
+David Banner,False,68,55,55,Play,3
+Simple Plan,False,56,49,56,Untitled (How Can This Happen To Me?),12
+Ying Yang Twins Featuring Mike Jones & Mr. ColliPark,False,59,57,57,Badd,4
+Keith Urban,False,54,34,58,Making Memories Of Us,16
+SHeDAISY,False,61,59,59,Don't Worry 'Bout A Thing,6
+Jermaine Dupri,False,75,60,60,Gotta Getcha,4
+Boyz N Da Hood,False,58,56,61,Dem Boyz,7
+Sara Evans,False,63,62,62,A Real Fine Place To Start,5
+Bow Wow Featuring Ciara,True,0,63,63,Like You,1
+50 Cent Feat. Mobb Deep,False,67,64,64,Outta Control (Remix),3
+R. Kelly,False,47,22,65,Trapped In The Closet,14
+System Of A Down,False,62,27,66,B.Y.O.B.,17
+Rob Thomas,False,70,67,67,This Is How A Heart Breaks,4
+The Click Five,False,83,68,68,Just The Girl,2
+George Strait,False,60,54,69,You'll Be There,16
+Brooks & Dunn,False,71,70,70,Play Something Country,6
+Young Jeezy Featuring Mannie Fresh,False,76,71,71,And Then What,3
+Bobby Valentino,False,72,72,72,Tell Me,4
+Keith Anderson,False,64,64,73,Pickin' Wildflowers,10
+My Chemical Romance,False,80,74,74,Helena (So Long & Goodnight),5
+Kanye West Featuring Jamie Foxx,False,92,75,75,Gold Digger,2
+Tim McGraw,False,81,76,76,Do You Want Fries With That,4
+R. Kelly Featuring The Game,False,65,65,77,Playa's Only,5
+Brad Paisley,False,74,74,78,Alcohol,6
+Nine Inch Nails,False,77,31,79,The Hand That Feeds,18
+Staind,False,85,77,80,Right Here,7
+Van Zant,False,87,81,81,Help Somebody,4
+Relient K,False,88,82,82,Be My Escape,2
+Common,False,86,79,83,Go!,5
+Kem,False,89,84,84,I Can't Stop Loving You,11
+Blake Shelton,False,78,73,85,Goodbye Time,9
+Natalie Featuring Baby Bash,False,73,66,86,Energy,8
+The All-American Rejects,True,0,87,87,Dirty Little Secret,1
+Pretty Ricky,True,0,88,88,Your Body,1
+Kenny Chesney,False,79,64,89,Keg In The Closet,10
+Jamie O'Neal,False,99,90,90,Somebody's Hero,2
+P$C Featuring T.I. & Lil Scrappy,True,0,91,91,I'm A King,1
+Charlie Wilson,True,0,92,92,Charlie Last Name: Wilson,1
+"Damian ""Jr. Gong"" Marley",False,96,93,93,Welcome To Jamrock,2
+Dierks Bentley,False,91,47,94,Lot Of Leavin' Left To Do,19
+T.I.,False,82,75,95,ASAP,8
+Montgomery Gentry,True,0,96,96,Something To Be Proud Of,1
+Trisha Yearwood,True,0,97,97,Georgia Rain,1
+Green Day,True,0,98,98,Wake Me Up When September Ends,1
+Seether,False,100,99,99,Remedy,2
+Craig Morgan,True,0,100,100,Redneck Yacht Club,1

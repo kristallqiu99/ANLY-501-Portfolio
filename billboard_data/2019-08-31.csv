@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Shawn Mendes & Camila Cabello,False,2,1,1,Senorita,9
+Billie Eilish,False,1,1,2,Bad Guy,21
+Lizzo,False,4,3,3,Truth Hurts,16
+Lil Nas X Featuring Billy Ray Cyrus,False,3,1,4,Old Town Road,25
+Lil Tecca,False,8,5,5,Ran$om,12
+Khalid,False,5,3,6,Talk,28
+Chris Brown Featuring Drake,False,6,6,7,No Guidance,11
+Ed Sheeran & Justin Bieber,False,7,2,8,I Don't Care,15
+Post Malone Featuring Young Thug,False,9,3,9,Goodbyes,7
+Shawn Mendes,False,10,2,10,If I Can't Have You,16
+Lewis Capaldi,False,14,11,11,Someone You Loved,15
+Jonas Brothers,False,12,1,12,Sucker,25
+Drake Featuring Rick Ross,False,13,7,13,Money In The Grave,10
+Taylor Swift,False,18,2,14,You Need To Calm Down,10
+Post Malone & Swae Lee,False,15,1,15,Sunflower (Spider-Man: Into The Spider-Verse),44
+Blanco Brown,False,17,14,16,The Git Up,11
+DaBaby,False,16,7,17,Suge,21
+Ed Sheeran Featuring Khalid,False,20,18,18,Beautiful People,8
+Taylor Swift,True,0,19,19,Lover,1
+Ariana Grande & Social House,False,19,8,20,Boyfriend,3
+"Young Thug, J. Cole & Travis Scott",False,27,12,21,The London,13
+"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",False,11,11,22,Hot Girl Summer,2
+Sam Smith & Normani,False,22,7,23,Dancing With A Stranger,32
+Lil Baby & DaBaby,False,34,24,24,Baby,5
+Luke Combs,False,23,21,25,Beer Never Broke My Heart,16
+Young Thug Featuring Gunna,True,0,26,26,Hot,1
+Polo G Featuring Lil Tjay,False,24,11,27,Pop Out,22
+Panic! At The Disco,False,21,16,28,"Hey Look Ma, I Made It",19
+Post Malone,False,26,2,29,Wow.,35
+Halsey,False,25,1,30,Without Me,46
+Dan + Shay,False,28,24,31,Speechless,35
+Young Thug Featuring Lil Baby,True,0,32,32,Bad Bad Bad,1
+Normani,True,0,33,33,Motivation,1
+Luke Bryan,False,32,32,34,Knockin' Boots,17
+Saweetie,False,33,33,35,My Type,8
+Sam Smith,False,37,29,36,How Do You Sleep?,5
+Ariana Grande,False,29,1,37,7 Rings,31
+Lil Nas X,False,36,16,38,Panini,9
+Megan Thee Stallion Featuring DaBaby,False,39,39,39,Cash Shit,9
+Jason Aldean,False,41,40,40,Rearview Town,13
+Blake Shelton,False,35,17,41,God's Country,21
+SHAED,False,47,42,42,Trampoline,12
+Dan + Shay,False,31,31,43,All To Myself,16
+Morgan Wallen,False,38,17,44,Whiskey Glasses,25
+NLE Choppa,False,40,36,45,Shotta Flow,18
+Jonas Brothers,False,53,46,46,Only Human,10
+Miley Cyrus,True,0,47,47,Slide Away,1
+"Sech, Darell, Nicky Jam, Ozuna & Anuel AA",False,43,34,48,Otro Trago,11
+Marshmello & Kane Brown,False,46,46,49,One Thing Right,9
+"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",False,44,43,50,China,5
+Justin Moore,False,52,46,51,The Ones That Didn't Make It Back Home,10
+Offset Featuring Cardi B,False,51,39,52,Clout,20
+Sarah Jeffery,False,49,49,53,Queen Of Mean,3
+5 Seconds Of Summer,False,56,48,54,Easier,13
+Young Thug Featuring Lil Uzi Vert,True,0,55,55,What's The Move,1
+Bad Bunny & Tainy,False,54,52,56,Callaita,11
+Wale Featuring Jeremih,False,86,57,57,On Chill,2
+Taylor Swift Featuring Brendon Urie,False,63,2,58,ME!,18
+Chris Lane,False,62,59,59,I Don't Know About You,7
+Young Thug,True,0,60,60,Just How It Is,1
+Young Thug Featuring Gunna,True,0,61,61,Surf,1
+The Chainsmokers & Bebe Rexha,False,60,56,62,Call You Mine,12
+"YG, Tyga & Jon Z",False,57,49,63,Go Loko,16
+Y2K & bbno$,False,70,64,64,Lalala,8
+Katy Perry,False,50,15,65,Never Really Over,12
+Chris Young,False,55,54,66,Raised On Country,12
+Dierks Bentley,False,67,67,67,Living,4
+Cardi B,False,61,16,68,Press,12
+NF,False,65,65,69,Time,5
+Young Thug Featuring Future,True,0,70,70,Sup Mate,1
+Carrie Underwood,False,68,68,71,Southbound,6
+Ellie Goulding & Juice WRLD,False,73,72,72,Hate Me,5
+"Jhay Cortez, J Balvin & Bad Bunny",False,71,71,73,No Me Conoce,7
+Cole Swindell,False,75,74,74,Love You Too Late,3
+Swae Lee Featuring Drake,True,0,75,75,Won't Be Late,1
+Ali Gatie,False,72,70,76,It's You,10
+Kenny Chesney,False,77,77,77,Tip Of My Tongue,6
+Diplo Presents Thomas Wesley Featuring Morgan Wallen,True,0,78,78,Heartless,1
+Mustard & Roddy Ricch,False,79,79,79,Ballin',5
+Matt Stell,False,82,80,80,Prayed For You,3
+"Lunay, Daddy Yankee & Bad Bunny",False,66,66,81,Soltera,15
+Young Thug,True,0,82,82,Light It Up,1
+Doja Cat & Tyga,True,0,83,83,Juicy,1
+Young Thug,True,0,84,84,Lil Baby,1
+Khalid Featuring A Boogie Wit da Hoodie,False,83,81,85,Right Back,4
+"Tyler, The Creator",False,76,13,86,EARFQUAKE,14
+Lil Tjay,False,92,87,87,F.N,2
+Runaway June,False,90,88,88,Buy My Own Drinks,2
+Trippie Redd Featuring Lil Baby & Lil Duke,False,64,64,89,Mac 10,2
+Brantley Gilbert + Lindsay Ell,False,85,85,90,What Happens In A Small Town,3
+Eric Church,False,74,43,91,Some Of It,13
+Young Thug Featuring Machine Gun Kelly,True,0,92,92,Ecstasy,1
+Lady Antebellum,False,96,86,93,What If I Never Get Over You,4
+Ambjaay,False,89,82,94,Uno,3
+Blueface & Rich The Kid,False,78,78,95,Daddy,4
+Keith Urban,False,80,80,96,We Were,3
+DaBaby Featuring Offset,False,93,93,97,Baby Sitter,2
+The Chainsmokers & ILLENIUM Featuring Lennon Stella,False,0,69,98,Takeaway,2
+Russell Dickerson,True,0,99,99,Every Little Thing,1
+Lil Tecca,True,0,100,100,Did It Again,1

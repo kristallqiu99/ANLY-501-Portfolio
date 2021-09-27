@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Jennifer Lopez Featuring Ja Rule,False,1,1,1,Ain't It Funny,15
+Fat Joe Featuring Ashanti,False,5,2,2,What's Luv?,8
+Linkin Park,False,2,2,3,In The End,23
+Ashanti,False,9,4,4,Foolish,8
+'N Sync Featuring Nelly,False,6,5,5,Girlfriend,9
+Nickelback,False,3,1,6,How You Remind Me,31
+Puddle Of Mudd,False,7,6,7,Blurry,16
+Usher,False,12,8,8,U Don't Have To Call,9
+Ja Rule Featuring Ashanti,False,4,1,9,Always On Time,21
+Tweet,False,11,10,10,Oops (Oh My),9
+Kylie Minogue,False,10,7,11,Can't Get You Out Of My Head,11
+The Calling,False,8,5,12,Wherever You Will Go,22
+Brandy,False,13,7,13,What About Us?,11
+Faith Evans,False,15,14,14,I Love You,11
+P!nk,False,22,15,15,Don't Let Me Get Me,5
+Vanessa Carlton,False,23,16,16,A Thousand Miles,6
+Enrique Iglesias,False,17,17,17,Escape,7
+LeAnn Rimes,False,14,11,18,Can't Fight The Moonlight,38
+Michelle Branch,False,24,19,19,All You Wanted,7
+Creed,False,20,4,20,My Sacrifice,24
+Mr. Cheeks,False,16,14,21,"Lights, Camera, Action!",26
+OutKast Featuring Killer Mike,False,27,19,22,The Whole World,16
+Usher,False,18,1,23,U Got It Bad,29
+P. Diddy Featuring Usher & Loon,False,49,24,24,I Need A Girl (Part One),4
+Busta Rhymes Featuring P. Diddy & Pharrell,False,29,25,25,Pass The Courvoisier Part II,6
+Goo Goo Dolls,False,44,26,26,Here Is Gone,3
+Aaliyah,False,25,25,27,More Than A Woman,10
+P.O.D.,False,30,28,28,Youth Of The Nation,9
+Alanis Morissette,False,26,23,29,Hands Clean,10
+Jaheim Featuring Next,False,41,30,30,Anything,7
+Martina McBride,False,31,31,31,Blessed,13
+Craig David,False,21,10,32,7 Days,18
+Shakira,False,53,33,33,Underneath Your Clothes,4
+Default,False,34,34,34,Wasting My Time,14
+Mary J. Blige,False,28,1,35,Family Affair,37
+No Doubt Featuring Bounty Killer,False,19,5,36,Hey Baby,18
+Ludacris Featuring Sleepy Brown,False,45,37,37,Saturday (Oooh! Ooooh!),8
+Celine Dion,False,38,38,38,A New Day Has Come,6
+Toby Keith,False,42,39,39,My List,8
+Chris Cagle,False,43,40,40,"I Breathe In, I Breathe Out",9
+Glenn Lewis,False,32,30,41,Don't You Forget It,19
+Tim McGraw,False,37,33,42,The Cowboy In Me,13
+Enrique Iglesias,False,35,3,43,Hero,28
+Five For Fighting,False,40,14,44,Superman (It's Not Easy),32
+Kenny Chesney,False,52,45,45,Young,9
+KeKe Wyatt Featuring Avant,False,33,27,46,Nothing In This World,14
+Rascal Flatts,False,56,47,47,I'm Movin' On,10
+P!nk,False,36,4,48,Get The Party Started,24
+Shakira,False,39,6,49,"Whenever, Wherever",24
+iio,False,46,46,50,Rapture (Tastes So Sweet),8
+Mary J. Blige Featuring Ja Rule,False,62,51,51,Rainy Dayz,2
+Mary J. Blige,False,48,15,52,No More Drama,17
+Phil Vassar,False,60,53,53,That's When I Love You,7
+Jermaine Dupri & Ludacris,False,51,35,54,Welcome To Atlanta,15
+Brooks & Dunn,False,50,39,55,The Long Goodbye,16
+Jimmy Eat World,False,63,56,56,The Middle,4
+Alan Jackson,False,67,57,57,Drive (For Daddy Gene),4
+Beanie Sigel & Freeway,False,59,58,58,Roc The Mic,7
+Fabolous,False,61,33,59,Young'n (Holla Back),19
+Avant,False,70,60,60,Makin' Good Love,3
+Jo Dee Messina With Tim McGraw,False,57,36,61,Bring On The Rain,18
+B2K,False,55,38,62,Uh Huh,14
+Maxwell,False,65,63,63,This Woman's Work,4
+Steve Holy,False,58,29,64,Good Morning Beautiful,19
+Tommy Shane Steiner,False,66,65,65,What If She's An Angel,7
+Staind,False,71,66,66,For You,6
+Musiq,False,69,67,67,halfcrazy,3
+Hoobastank,False,72,68,68,Crawling In The Dark,6
+Nickelback,False,74,69,69,Too Bad,4
+Travis Tritt,False,73,70,70,Modern Day Bonnie And Clyde,2
+Emerson Drive,False,75,71,71,I Should Be Sleeping,4
+Sharissa,False,77,72,72,Any Other Night,9
+Steve Azar,True,0,73,73,I Don't Have To Be Me ('til Monday),1
+Alicia Keys,True,0,74,74,How Come You Don't Call Me,1
+George Strait,True,0,75,75,Living And Living Well,1
+Alan Jackson,False,79,28,76,Where Were You (When The World Stopped Turning),20
+Dixie Chicks,False,68,55,77,Some Days You Gotta Dance,12
+Kevin Denney,False,85,78,78,That's Just Jessie,10
+Amanda Perez,False,83,79,79,Never,8
+Darren Hayes,False,81,77,80,Insatiable,6
+"Missy ""Misdemeanor"" Elliott Featuring Ginuwine & Tweet",False,82,45,81,Take Away,17
+India.Arie,False,88,47,82,Video,22
+Nappy Roots,False,89,83,83,Awnaw,5
+Corey Featuring Lil' Romeo,False,78,63,84,Hush Lil' Lady,11
+Cher,True,0,85,85,Song For The Lonely,1
+Natalie Imbruglia,False,76,64,86,Wrong Impression,6
+R. Kelly & Jay-Z,False,94,87,87,Take You Home With Me a.k.a. Body,2
+Naughty By Nature Featuring 3LW,False,93,88,88,Feels Good (Don't Worry Bout A Thing),2
+Mystikal,False,86,37,89,Bouncin' Back (Bumpin' Me Against The Wall),17
+Angie Stone,False,90,90,90,Wish I Didn't Miss You,3
+X-Ecutioners,False,92,91,91,It's Goin' Down,5
+R. Kelly,False,87,34,92,The World's Greatest,15
+Mobb Deep Featuring 112,False,84,58,93,Hey Luv (Anything),11
+System Of A Down,False,91,76,94,Chop Suey,14
+Tanto Metro & Devonte,False,96,95,95,Give It To Her,3
+Toya,False,97,96,96,No Matta What (Party All Night),4
+Nas,False,95,87,97,Got Ur Self A...,17
+Ms. Jade,False,98,98,98,Feel The Girl,2
+Cee-Lo,True,0,99,99,Closet Freak,1
+Jonell & Method Man,False,100,62,100,Round And Round,17

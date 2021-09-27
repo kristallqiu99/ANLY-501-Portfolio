@@ -1,0 +1,4 @@
+"0","# We want to know which song by which artist has featured on the chart"
+"0","# So keep only two columns - title & artist"
+"0","hit_songs <- subset(data_frame_unique, select = c(title, artist))"
+"0","head(hit_songs)"

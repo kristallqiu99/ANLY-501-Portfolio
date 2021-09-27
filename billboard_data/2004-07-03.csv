@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Usher,False,1,1,1,Burn,17
+Usher,False,2,2,2,Confessions Part II,10
+Hoobastank,False,3,2,3,The Reason,16
+Alicia Keys,False,5,4,4,If I Ain't Got You,18
+Juvenile Featuring Soulja Slim,False,12,5,5,Slow Motion,10
+Mario Winans Featuring Enya & P. Diddy,False,4,2,6,I Don't Wanna Know,20
+Petey Pablo,False,9,7,7,Freek-A-Leek,27
+Usher Featuring Lil Jon & Ludacris,False,10,1,8,Yeah!,26
+Twista,False,6,6,9,Overnight Celebrity,15
+Maroon 5,False,8,5,10,This Love,21
+Beyonce,False,7,3,11,Naughty Girl,15
+OutKast,False,11,9,12,Roses,17
+Nina Sky Featuring Jabba,False,13,13,13,Move Ya Body,10
+Lloyd Banks,False,14,14,14,On Fire,8
+Britney Spears,False,17,15,15,Everytime,7
+Kanye West,False,16,16,16,Jesus Walks,9
+Kevin Lyttle Featuring Spragga Benz,False,20,17,17,Turn Me On,7
+JoJo,False,21,18,18,Leave (Get Out),13
+Switchfoot,False,19,19,19,Meant To Live,14
+J-Kwon,False,18,2,20,Tipsy,25
+Christina Milian,False,26,21,21,Dip It Low,11
+Los Lonely Boys,False,25,22,22,Heaven,8
+Kanye West Featuring Syleena Johnson,False,15,7,23,All Falls Down,17
+Terror Squad,False,52,24,24,Lean Back,2
+Monica,False,27,25,25,U Should've Known Better,5
+Avril Lavigne,False,22,22,26,Don't Tell Me,14
+JAY-Z,False,23,5,27,Dirt Off Your Shoulder,24
+Evanescence,False,24,7,28,My Immortal,26
+R. Kelly,False,28,19,29,Happy People,13
+Montgomery Gentry,False,36,30,30,If You Ever Stop Loving Me,12
+Toby Keith,False,32,31,31,Whiskey Girl,10
+The Black Eyed Peas,False,29,23,32,Hey Mama,13
+Tim McGraw,False,47,33,33,Live Like You Were Dying,4
+Alicia Keys Featuring Tony! Toni! Tone!,False,44,34,34,Diary,3
+Mase,False,35,32,35,Welcome Back,5
+Lloyd Featuring Ashanti,False,51,36,36,Southside,7
+"Houston Featuring Chingy, Nate Dogg & I-20",False,56,37,37,I Like That,3
+Lonestar,False,38,38,38,Let's Be Us Again,13
+Mis-Teeq,False,43,39,39,Scandalous,7
+3 Doors Down,False,33,5,40,Here Without You,45
+Gretchen Wilson,False,31,22,41,Redneck Woman,13
+Yellowcard,False,37,37,42,Ocean Avenue,8
+Lil' Flip Featuring Lea,False,58,43,43,Sunshine,3
+JAY-Z,False,30,30,44,99 Problems,9
+Pitbull Featuring Lil Jon,False,45,32,45,Culo,11
+Nickelback,False,40,7,46,Someday,46
+Five For Fighting,False,41,28,47,100 Years,21
+David Lee Murphy,False,48,48,48,Loco,9
+Kenny Chesney,False,53,49,49,I Go Back,4
+Beenie Man Featuring Ms. Thing,False,34,26,50,Dude,22
+Ying Yang Twins Featuring Trick Daddy,False,54,51,51,Whats Happnin!,9
+Brandy Featuring Kanye West,False,39,36,52,Talk About Our Love,8
+Twista Featuring R. Kelly,False,75,53,53,So Sexy,2
+John Michael Montgomery,False,46,24,54,Letters From Home,16
+Lil' Flip,False,42,15,55,Game Over (Flip),17
+Velvet Revolver,False,60,56,56,Slither,8
+Brooks & Dunn,False,57,53,57,That's What She Gets For Loving Me,13
+Kenny Chesney & Uncle Kracker,False,59,26,58,When The Sun Goes Down,20
+Counting Crows,False,61,59,59,Accidentally In Love,2
+Reba McEntire,False,65,60,60,Somebody,4
+Ashlee Simpson,True,0,61,61,Pieces Of Me,1
+Brad Paisley Featuring Alison Krauss,False,62,62,62,Whiskey Lullaby,3
+"Jimmy Buffett With Clint Black, Kenny Chesney, Alan Jackson, Toby Keith & George Strait",False,64,63,63,Hey Good Lookin',3
+Mobb Deep,False,68,64,64,Got It Twisted,12
+Billy Currington,False,73,65,65,I Got A Feelin',2
+3 Doors Down,True,0,66,66,Away From The Sun,1
+Slum Village Featuring Kanye West & John Legend,False,80,67,67,Selfish,7
+Rascal Flatts,False,63,21,68,Mayberry,20
+Beastie Boys,False,69,68,69,Ch-Check It Out,8
+D12,True,0,70,70,How Come,1
+Elephant Man,False,66,57,71,Jook Gal (Wine Wine),11
+D12,False,55,6,72,My Band,16
+Nickelback,True,0,73,73,Feelin' Way Too Damn Good,1
+Jet,False,71,55,74,Cold Hard Bitch,14
+Teena Marie Featuring Baby,False,72,70,75,Still In Love,6
+Josh Gracin,True,0,76,76,I Want To Live,1
+Ciara Featuring Petey Pablo,False,94,77,77,Goodies,2
+Jessica Simpson,False,70,20,78,Take My Breath Away,14
+311,False,81,72,79,Love Song,10
+Alanis Morissette,False,76,76,80,Everything,5
+Akon Featuring Styles P.,False,91,81,81,Locked Up,4
+Cassidy Featuring Mashonda,False,83,82,82,Get No Better,9
+Modest Mouse,False,90,83,83,Float On,6
+Seal,False,87,79,84,Love's Divine,19
+Avant,False,79,37,85,Don't Take Your Love Away,17
+Blink-182,False,82,42,86,I Miss You,16
+Linkin Park,False,84,58,87,Lying From You,13
+"Yung Wun Featuring DMX, Lil' Flip & David Banner",False,85,76,88,Tear It Up,11
+Lenny Kravitz,False,78,69,89,Where Are We Runnin'?,6
+Kimberley Locke,False,95,49,90,8th World Wonder,15
+SHeDAISY,False,77,66,91,Passenger Seat,8
+Maria Mena,False,86,86,92,You're The Only One,4
+NB Ridaz Featuring Gemini,False,93,93,93,So Fly,2
+Clay Walker,False,74,61,94,I Can't Sleep,7
+Patti LaBelle,True,0,95,95,New Day,1
+Lionel Richie,False,98,92,96,Just For You,10
+Tracy Lawrence,False,89,42,97,Paint Me A Birmingham,14
+Josh Groban,False,96,73,98,You Raise Me Up,16
+Musiq,False,92,65,99,whoknows,11
+Franz Ferdinand,True,0,100,100,Take Me Out,1

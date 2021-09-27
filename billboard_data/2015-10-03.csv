@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+The Weeknd,False,2,1,1,The Hills,17
+Justin Bieber,False,3,1,2,What Do You Mean?,3
+The Weeknd,False,1,1,3,Can't Feel My Face,15
+Silento,False,4,3,4,Watch Me,30
+Selena Gomez Featuring A$AP Rocky,False,7,5,5,Good For You,13
+R. City Featuring Adam Levine,False,9,6,6,Locked Away,9
+Fetty Wap Featuring Remy Boyz,False,8,7,7,679,12
+OMI,False,5,1,8,Cheerleader,22
+Drake,False,16,9,9,Hotline Bling,7
+Major Lazer & DJ Snake Featuring MO,False,6,4,10,Lean On,24
+Ed Sheeran,False,10,10,11,Photograph,19
+Shawn Mendes,False,14,12,12,Stitches,17
+Taylor Swift,False,12,12,13,Wildest Dreams,4
+Demi Lovato,False,11,11,14,Cool For The Summer,12
+Fetty Wap Featuring Monty,False,15,7,15,My Way,11
+"Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz",False,22,16,16,Downtown,4
+Fetty Wap,False,18,2,17,Trap Queen,35
+Rachel Platten,False,17,6,18,Fight Song,23
+Skrillex & Diplo With Justin Bieber,False,13,8,19,Where Are U Now,29
+WALK THE MOON,False,19,4,20,Shut Up And Dance,45
+iLoveMemphis,False,20,20,21,Hit The Quan,5
+Charlie Puth Featuring Meghan Trainor,False,23,22,22,Marvin Gaye,14
+Wiz Khalifa Featuring Charlie Puth,False,21,1,23,See You Again,28
+One Direction,False,24,3,24,Drag Me Down,7
+Fall Out Boy,False,26,22,25,Uma Thurman,24
+Meek Mill Featuring Chris Brown & Nicki Minaj,False,28,21,26,All Eyes On You,13
+Mark Ronson Featuring Bruno Mars,False,27,1,27,Uptown Funk!,45
+X Ambassadors,False,37,28,28,Renegades,23
+Taylor Swift Featuring Kendrick Lamar,False,25,1,29,Bad Blood,21
+Hailee Steinfeld,False,36,30,30,Love Myself,6
+Rich Homie Quan,False,29,26,31,Flex (Ooh Ooh Ooh),22
+Jason Derulo,False,31,5,32,Want To Want Me,28
+Drake,False,39,21,33,Back To Back,7
+Elle King,False,46,34,34,Ex's & Oh's,11
+Fifth Harmony Featuring Kid Ink,False,30,12,35,Worth It,31
+The Weeknd,False,34,3,36,Earned It (Fifty Shades Of Grey),39
+Ed Sheeran,False,32,2,37,Thinking Out Loud,50
+Andy Grammer,False,38,9,38,"Honey, I'm Good.",30
+Jidenna Featuring Roman GianArthur,False,33,22,39,Classic Man,20
+Luke Bryan,False,49,40,40,Strip It Down,7
+Keith Urban,False,44,41,41,"John Cougar, John Deere, John 3:16",15
+Chris Janson,False,42,41,42,Buy Me A Boat,17
+Selena Gomez,True,0,43,43,Same Old Love,1
+Sam Hunt,False,35,26,44,House Party,16
+Meghan Trainor Featuring John Legend,False,50,45,45,Like I'm Gonna Lose You,11
+Calvin Harris & Disciples,False,45,45,46,How Deep Is Your Love,9
+Future Featuring Drake,False,48,47,47,Where Ya At,9
+Omarion Featuring Chris Brown & Jhene Aiko,False,40,13,48,Post To Be,37
+Maroon 5,False,41,2,49,Sugar,36
+Fetty Wap,False,47,33,50,Again,6
+Jeremih Featuring J. Cole,False,51,44,51,Planez,17
+Brett Eldredge,False,52,52,52,Lose My Mind,15
+Thomas Rhett,False,43,36,53,Crash And Burn,19
+Kenny Chesney,False,55,54,54,Save It For A Rainy Day,9
+Alessia Cara,False,58,55,55,Here,7
+Nick Jonas,False,60,56,56,Levels,4
+Nicky Jam & Enrique Iglesias,False,56,56,57,El Perdon (Forgiveness),26
+K Camp,False,54,54,58,Comfortable,7
+Rae Sremmurd,False,53,49,59,This Could Be Us,15
+Cam,False,59,59,60,Burning House,10
+Maddie & Tae,False,62,61,61,Fly,10
+Old Dominion,False,67,62,62,Break Up With Him,11
+Florida Georgia Line,False,66,63,63,Anything Goes,10
+Flo Rida Featuring Robin Thicke & Verdine White,False,57,43,64,"I Don't Like It, I Love It",13
+Carrie Underwood,False,71,43,65,Smoke Break,4
+Drake,True,0,66,66,Right Hand,1
+Adam Lambert,False,64,64,67,Ghost Town,14
+Little Mix,False,69,67,68,Black Magic,6
+Chris Young,False,73,57,69,I'm Comin' Over,12
+J. Cole,False,76,70,70,No Role Modelz,5
+Post Malone,False,84,71,71,White Iverson,2
+Luke Bryan,False,63,26,72,Kick The Dust Up,18
+Travis Scott,False,75,73,73,Antidote,2
+Cole Swindell,False,78,74,74,Let Me See Ya Girl,7
+Dan + Shay,False,81,75,75,Nothin' Like You,6
+Chase Rice,False,86,76,76,Gonna Wanna Tonight,6
+The Weeknd,False,72,60,77,Acquainted,3
+Chris Brown,False,87,78,78,Liquor,3
+The Weeknd,False,70,54,79,Tell Your Friends,3
+Dustin Lynch,False,65,55,80,Hell Of A Night,16
+Kendrick Lamar,False,82,81,81,Alright,13
+5 Seconds Of Summer,False,61,22,82,She's Kinda Hot,9
+Trey Songz,False,90,83,83,About You,3
+Meek Mill Featuring Drake,False,88,40,84,R.I.C.O.,12
+Ty Dolla $ign Featuring Future & Rae Sremmurd,True,0,85,85,Blase,1
+Blake Shelton,True,0,86,86,Gonna,1
+Lil Wayne & Charlie Puth,True,0,87,87,Nothing But Trouble (Instagram Models),1
+Jess Glynne,True,0,88,88,Hold My Hand,1
+Jake Owen,False,93,74,89,Real Life,13
+The Game Featuring Drake,False,92,90,90,100,7
+Tori Kelly,False,68,51,91,Should've Been Us,10
+Kygo Featuring Conrad,True,0,92,92,Firestone,1
+Zac Brown Band,False,89,40,93,Loving You Easy,17
+J Balvin,False,98,94,94,Ginza,2
+Halsey,False,97,95,95,New Americana,3
+The Weeknd Featuring Lana Del Rey,False,77,47,96,Prisoner,3
+Daya,True,0,97,97,Hide Away,1
+The Weeknd Featuring Ed Sheeran,False,91,91,98,Dark Times,3
+Andrew McMahon In The Wilderness,False,0,99,99,Cecilia And The Satellite,2
+Rae Sremmurd,True,0,100,100,Come Get Her,1

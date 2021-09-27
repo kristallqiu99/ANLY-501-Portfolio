@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Ariana Grande,False,1,1,1,"Thank U, Next",8
+Halsey,False,2,2,2,Without Me,12
+Mariah Carey,False,7,3,3,All I Want For Christmas Is You,30
+Travis Scott,False,3,1,4,Sicko Mode,21
+Post Malone & Swae Lee,False,4,4,5,Sunflower (Spider-Man: Into The Spider-Verse),10
+Panic! At The Disco,False,6,5,6,High Hopes,21
+Marshmello & Bastille,False,5,3,7,Happier,19
+Bobby Helms,False,13,8,8,Jingle Bell Rock,25
+Brenda Lee,False,11,9,9,Rockin' Around The Christmas Tree,27
+Burl Ives,False,12,10,10,A Holly Jolly Christmas,10
+Nat King Cole,False,17,11,11,The Christmas Song (Merry Christmas To You),17
+Lil Baby & Gunna,False,9,4,12,Drip Too Hard,15
+Andy Williams,False,10,10,13,It's The Most Wonderful Time Of The Year,10
+Maroon 5 Featuring Cardi B,False,15,1,14,Girls Like You,31
+Kodak Black Featuring Travis Scott & Offset,False,8,2,15,ZEZE,11
+Gene Autry,False,28,16,16,Rudolph The Red-Nosed Reindeer,4
+Sheck Wes,False,16,6,17,Mo Bamba,18
+Gucci Mane X Bruno Mars X Kodak Black,False,14,11,18,Wake Up In The Sky,15
+Cardi B,False,30,13,19,Money,10
+Dean Martin,False,32,20,20,"Let It Snow, Let It Snow, Let It Snow",4
+"benny blanco, Halsey & Khalid",False,18,16,21,Eastside,24
+Ariana Grande,False,19,12,22,Breathin,19
+Post Malone,False,21,3,23,Better Now,35
+5 Seconds Of Summer,False,20,7,24,Youngblood,30
+Wham!,False,27,25,25,Last Christmas,9
+The Ronettes,False,33,26,26,Sleigh Ride,3
+Juice WRLD,False,23,2,27,Lucid Dreams,33
+Gene Autry,False,35,28,28,Here Comes Santa Claus (Right Down Santa Claus Lane),3
+Jose Feliciano,False,34,29,29,Feliz Navidad,5
+"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",False,25,11,30,Taki Taki,13
+Bad Bunny Featuring Drake,False,26,5,31,MIA,11
+Perry Como,False,41,32,32,(There's No Place Like) Home For The Holidays,2
+Flipp Dinero,False,31,27,33,Leave Me Alone,15
+Bing Crosby,False,48,12,34,White Christmas,15
+Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,False,42,35,35,It's Beginning To Look A Lot Like Christmas,2
+Meek Mill Featuring Drake,False,22,6,36,Going Bad,4
+21 Savage,True,0,37,37,A Lot,1
+Ella Mai,False,29,11,38,Trip,21
+"Cardi B, Bad Bunny & J Balvin",False,40,1,39,I Like It,38
+Elvis Presley,True,0,40,40,Blue Christmas,1
+Dan + Shay,False,36,33,41,Speechless,16
+John & Yoko/The Plastic Ono Band With The Harlem Community Choir,False,45,42,42,Happy Xmas (War Is Over),2
+Darlene Love,False,50,43,43,Christmas (Baby Please Come Home),2
+Kelly Clarkson,False,0,44,44,Underneath The Tree,4
+Chuck Berry,False,0,45,45,Run Rudolph Run,4
+Imagine Dragons,False,43,13,46,Natural,23
+Post Malone,True,0,47,47,Wow.,1
+Khalid & Normani,False,37,9,48,Love Lies,45
+Frank Sinatra,True,0,49,49,Jingle Bells,1
+Bazzi Featuring Camila Cabello,False,38,30,50,Beautiful,21
+Khalid,False,39,29,51,Better,15
+Lady Gaga & Bradley Cooper,False,44,5,52,Shallow,13
+Katy Perry,False,68,53,53,Cozy Little Christmas,2
+Luke Combs,False,51,34,54,She Got The Best Of Me,20
+Lauren Daigle,False,90,55,55,The Christmas Song,2
+Lil Wayne,False,49,7,56,Uproar,13
+A Boogie Wit da Hoodie Featuring 6ix9ine,True,0,57,57,Swervin,1
+21 Savage,True,0,58,58,Can't Leave Without It,1
+Lauren Daigle,False,59,44,59,You Say,24
+Ellie Goulding X Diplo Featuring Swae Lee,False,57,57,60,Close To Me,6
+Jimmie Allen,False,55,46,61,Best Shot,15
+Meek Mill Featuring Jeremih & PnB Rock,False,53,31,62,Dangerous,19
+Dean Lewis,False,63,63,63,Be Alright,9
+Mitchell Tenpenny,False,54,53,64,Drunk Me,20
+A Boogie Wit da Hoodie Featuring Offset & Tyga,True,0,65,65,Startender,1
+A Boogie Wit da Hoodie,False,96,66,66,Look Back At It,3
+21 Savage,True,0,67,67,All My Friends,1
+XXXTENTACION,False,52,16,68,BAD!,7
+Pardison Fontaine Featuring Cardi B,False,64,64,69,Backin' It Up,11
+21 Savage,True,0,70,70,Break Da Law,1
+Ariana Grande,False,24,24,71,Imagine,2
+Tory Lanez & Rich The Kid,False,61,61,72,Talk To Me,9
+21 Savage,True,0,73,73,Monster,1
+Kodak Black,False,46,46,74,Calling My Spirit,4
+Camila Cabello,False,69,69,75,Consequences,8
+Juice WRLD,False,60,44,76,Armed And Dangerous,7
+XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,False,62,28,77,Arms Around You,9
+Mark Ronson Featuring Miley Cyrus,False,56,56,78,Nothing Breaks Like A Heart,4
+Thomas Rhett,False,67,67,79,Sixteen,7
+Dierks Bentley Featuring Brothers Osborne,False,65,65,80,Burning Man,10
+Luke Combs,False,81,58,81,Beautiful Crazy,7
+Billie Eilish,False,77,52,82,When The Party's Over,10
+Ava Max,False,87,83,83,Sweet But Psycho,2
+The Chainsmokers Featuring Kelsea Ballerini,False,66,66,84,This Feeling,11
+Jacquees,False,75,75,85,You,5
+21 Savage,True,0,86,86,1.5,1
+Jason Aldean,False,71,71,87,Girl Like You,5
+21 Savage,True,0,88,88,Out For The Night,1
+Dustin Lynch,False,72,72,89,Good Girl,7
+French Montana Featuring Drake,False,73,47,90,No Stylist,14
+Billie Eilish & Khalid,False,89,78,91,Lovely,9
+Anuel AA & Romeo Santos,False,80,79,92,Ella Quiere Beber,8
+21 Savage,True,0,93,93,Gun Smoke,1
+A Boogie Wit da Hoodie Featuring Juice WRLD,True,0,94,94,Demons And Angels,1
+21 Savage,True,0,95,95,ASMR,1
+Kip Moore,False,78,78,96,Last Shot,6
+Future & Juice WRLD,False,82,26,97,Fine China,10
+Calboy,False,91,91,98,Envy Me,2
+Shawn Mendes X Zedd,False,83,48,99,Lost In Japan,14
+Scotty McCreery,False,84,84,100,This Is It,3

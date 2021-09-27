@@ -1,0 +1,101 @@
+artist,isNew,last,peak,rank,title,week
+Destiny's Child,False,1,1,1,Say My Name,15
+Santana Featuring The Product G&B,False,2,2,2,Maria Maria,8
+Faith Hill,False,4,3,3,Breathe,22
+Lonestar,False,3,1,4,Amazed,35
+'N Sync,False,5,5,5,Bye Bye Bye,10
+Backstreet Boys,False,6,6,6,Show Me The Meaning Of Being Lonely,14
+Montell Jordan,False,9,4,7,Get It On Tonite,24
+Santana Featuring Rob Thomas,False,10,1,8,Smooth,36
+Celine Dion,False,7,6,9,That's The Way It Is,21
+Sisqo,False,13,10,10,Thong Song,10
+P!nk,False,11,11,11,There You Go,5
+Savage Garden,False,8,1,12,I Knew I Loved You,24
+Sonique,False,12,12,13,It Feels So Good,11
+Third Eye Blind,False,16,14,14,Never Let You Go,11
+Macy Gray,False,20,15,15,I Try,7
+Blink-182,False,14,6,16,All The Small Things,18
+Vertical Horizon,False,19,17,17,Everything You Want,11
+Christina Aguilera,False,15,1,18,What A Girl Wants,19
+Blaque,False,18,5,19,Bring It All To Me,24
+Joe,False,23,20,20,I Wanna Know,14
+Brian McKnight,False,21,2,21,Back At One,32
+Marc Anthony,False,22,3,22,I Need To Know,30
+"Missy ""Misdemeanor"" Elliott Featuring NAS, EVE & Q-Tip",False,17,5,23,Hot Boyz,19
+Dixie Chicks,False,29,24,24,Goodbye Earl,3
+Dr. Dre Featuring Eminem,False,25,25,25,Forgot About Dre,11
+Kid Rock,False,26,26,26,Only God Knows Why,7
+Marc Anthony,False,30,27,27,You Sang To Me,6
+Whitney Houston,False,27,27,28,I Learned From The Best,7
+Sammie,False,37,29,29,I Like It,10
+Hoku,False,34,30,30,Another Dumb Blonde,7
+Filter,False,24,12,31,Take A Picture,19
+Toby Keith,False,36,32,32,How Do You Like Me Now?!,10
+Smash Mouth,False,31,11,33,Then The Morning Comes,23
+George Strait,False,39,34,34,The Best Day,10
+Britney Spears,False,33,14,35,From The Bottom Of My Broken Heart,10
+Aaliyah,False,38,35,36,I Don't Wanna,10
+Red Hot Chili Peppers,False,40,37,37,Otherside,8
+Aaliyah,False,53,38,38,Try Again,3
+D'Angelo,False,35,25,39,Untitled (How Does It Feel),11
+Madonna,False,32,29,40,American Pie,7
+Creed,False,43,41,41,Higher,22
+Tracy Lawrence,False,44,42,42,Lessons Learned,10
+Mariah Carey Featuring Joe & 98 Degrees,False,28,1,43,Thank God I Found You,17
+DMX,False,49,44,44,Party Up (Up In Here),6
+Martina McBride,False,48,45,45,Love's The Only House,9
+Tim McGraw,False,41,29,46,My Best Friend,19
+Black Rob,False,52,47,47,Whoa!,5
+Toni Braxton,False,55,48,48,He Wasn't Man Enough,3
+Sugar Ray,False,47,29,49,Falls Apart,12
+Train,False,46,20,50,Meet Virginia,26
+Clint Black With Steve Wariner,False,57,51,51,Been There,7
+Mark Wills,False,45,36,52,Back At One,12
+Jagged Edge,False,51,15,53,He Can't Love U,17
+Jennifer Lopez Featuring Big Pun & Fat Joe,False,54,54,54,Feelin' So Good,7
+Bloodhound Gang,False,62,55,55,The Bad Touch,3
+Eiffel 65,False,42,6,56,Blue (Da Ba Dee),17
+Phil Vassar,False,64,57,57,Carlene,5
+Lonestar,False,50,39,58,Smile,16
+Dixie Chicks,False,56,27,59,Cowboy Take Me Away,19
+Da Brat,False,60,60,60,That's What I'm Looking For,6
+Jo Dee Messina,False,61,53,61,Because You Love Me,10
+Faith Hill,False,66,62,62,The Way You Love Me,4
+Enrique Iglesias,True,0,63,63,Be With You,1
+Carl Thomas,False,75,64,64,I Wish,2
+Kenny Rogers With Alison Krauss & Billy Dean,False,65,65,65,Buy Me A Rose,4
+Eve Featuring Faith Evans,False,59,34,66,Love Is Blind,13
+Andy Griggs,False,69,67,67,She's More,4
+J-Shin Featuring LaTocha Scott,False,58,34,68,One Night Stand,15
+Hot Boys,False,70,65,69,I Need A Hot Girl,7
+Kumbia Kings Featuring A.B. Quintanilla,False,67,62,70,U Don't Love Me,5
+Chely Wright,False,72,71,71,It Was,5
+NAS Featuring Ginuwine,False,74,72,72,You Owe Me,2
+Jessica Simpson Featuring Nick Lachey,True,0,73,73,Where You Are,1
+JAY-Z,False,63,55,74,Anything,6
+Collin Raye,False,85,75,75,Couldn't Last A Moment,3
+Mary Mary,False,90,76,76,Shackles (Praise You),2
+Lenny Kravitz,False,78,77,77,I Belong To You,2
+Ricky Martin Featuring Meja,False,71,67,78,Private Emotion,4
+Kenny Chesney,True,0,79,79,What I Need To Do,1
+The Lox Featuring Timbaland And EVE,False,73,73,80,"Ryde Or Die, Chick",3
+Montgomery Gentry,False,79,79,81,Daddy Won't Sell The Farm,5
+SHeDAISY,False,68,57,82,This Woman Needs,9
+Gerald Levert,False,83,83,83,Mr. Too Damn Good,3
+Dave Hollister,False,84,84,84,Can't Stay,2
+Trisha Yearwood,True,0,85,85,Real Live Woman,1
+Drama,False,80,73,86,"Left, Right, Left",8
+M2M,True,0,87,87,Mirror Mirror,1
+Brian McKnight,False,76,76,88,Stay Or Let It Go,6
+Angie Stone,False,81,56,89,No More Rain (In This Cloud),15
+Snoop Dogg Presents Tha Eastsidaz,False,82,47,90,G'd Up,13
+Ying Yang Twins,False,94,91,91,Whistle While You Twurk,3
+Anastacia,True,0,92,92,I'm Outta Love,1
+Metallica,False,86,74,93,No Leaf Clover,8
+2Pac + Outlawz,False,87,72,94,Baby Don't Cry (Keep Ya Head Up II),6
+Sisqo Featuring Make It Hot,False,88,40,95,Got To Get It,20
+Westlife,True,0,96,96,Swear It Again,1
+Clay Davidson,False,97,97,97,Unconditional,2
+Tamar Braxton,False,98,98,98,If You Don't Wanna Love Me,2
+Ty Herndon,False,99,99,99,No Mercy,3
+Limp Bizkit,False,93,88,100,Re-arranged,18
