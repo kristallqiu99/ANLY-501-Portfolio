@@ -1,4 +1,3 @@
-# install.packages('factoextra')
 library(factoextra)
 library(ggplot2)
 library(stats)
@@ -6,7 +5,7 @@ library(stylo)
 library(qgraph)
 
 setwd('/Users/kristallqiu/Desktop/501/portfolio')
-df <- read.csv('spotify_hitsong_full_1009.csv')[16000:17000,]
+df <- read.csv('spotify_hitsong_full_1009.csv')#[16000:17000,]
 df <- df[!(rowSums(is.na(df))),]
 head(df)
 
@@ -97,6 +96,28 @@ fviz_cluster(km_4, audio_features,
              repel = TRUE,
              geom = 'point',
              ggtheme = theme_minimal())
+
+## Predict on new data
+predict_data <- read.csv('assign3_predict_data.csv')
+head(predict_data)
+predict_audio_features <- scale(predict_data[, c('danceability', 
+                                           'energy',
+                                           'key',
+                                           'loudness',
+                                           'speechiness',
+                                           'acousticness',
+                                           'instrumentalness',
+                                           'liveness',
+                                           'valence',
+                                           'tempo')])
+
+### k = 2
+test_preds_2 <- predict(km_2, predict_audio_features)
+table(test_preds_2, predict_data$name)
+
+### k = 3
+test_preds_3 <- predict(km_3, predict_audio_features)
+table(test_preds_3, predict_data$name)
 
 # Hierarchical clustering
 ## Distance matrices

@@ -1,0 +1,4 @@
+name,artists,id,hit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Intro (Hate On Me),Meek Mill,4s7TIubkdsgdtDEDFEAYVL,1,0.647,0.823,2,-4.074,1,0.0478,0.0387,0,0.74,0.309,150.995,174805,4
+Flocky Flocky (feat. Travis Scott),"Don Toliver, Travis Scott",25r6MZ4Gtd76l43qnZI1DG,0,0.8,0.541,10,-5.05,0,0.0375,0.0252,0,0.146,0.194,135.99,183514,4
+Way 2 Sexy (witih Future & Young Thug),"Drake, Future, Young Thug",0k1WUmIRnG3xU6fvvDVfRG,1,0.803,0.597,11,-6.035,0,0.141,0.000619,4.50E-06,0.323,0.331,136.008,257605,4
