@@ -1,2 +1,0 @@
-"0","hit_songs$hit <-  rep(1, nrow(hit_songs))"
-"0","head(hit_songs)"
