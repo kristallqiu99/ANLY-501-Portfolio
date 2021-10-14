@@ -34,7 +34,7 @@ def fetchData(year):
         poo = selector(requests.get(url, headers=headers, verify=False).text)
 
         data_list = poo.xpath('/html/body/div[6]/div/div/div/ul/li')
-        print('开始采集%s页，共%s数据'%(i,len(data_list)))
+        print('Start scraping Page %s，total %s entries...'%(i,len(data_list)))
         if len(data_list) == 1: break
         for j in data_list:
             a1 = j.xpath('./a/text()').extract_first()
