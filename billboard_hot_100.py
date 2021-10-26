@@ -171,3 +171,15 @@ class Chart:
         for n, entry in enumerate(self.entries):
             s += "\n%s. %s" % (entry.rank, str(entry))
         return s
+
+if __name__ == '__main__':
+    year = [str(i) for i in range(2000, 2021)]
+    mmdd = ['01-31', '02-28', '03-31', '04-30', '05-31', '06-30',
+            '07-31', '08-31', '09-30', '10-31', '11-30', '12-31']
+
+    for y in year[:-1]:
+        for md in mmdd:
+            Chart(y + '-' + md).csv('billboard_data/')
+
+    for md in mmdd[:9]:
+        Chart('2021-' + md).csv('billboard_data/')
