@@ -11,7 +11,7 @@ library(tidyverse)
 library(ggplot2)
 #install.packages('caret')
 library(caret)
-install.packages('cvms')
+#install.packages('cvms')
 library(cvms)
 
 ######## Prepare data######## 
