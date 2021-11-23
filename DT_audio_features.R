@@ -73,8 +73,8 @@ caret:: confusionMatrix(pred, test.data$hit, positive = 'Hit')
 conf_matrix_vis <- function(cm){
   return(plot_confusion_matrix(
     as.tibble(cm$table),
-    target_col = 'Prediction', 
-    prediction_col = "Reference",
+    target_col = 'Reference', 
+    prediction_col = "Prediction",
     counts_col = 'n',
     palette = 'Greens')
     )
