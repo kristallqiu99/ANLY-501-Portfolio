@@ -1,140 +1,138 @@
-library(factoextra)
+library(dplyr)
+library(tidyverse)
 library(ggplot2)
 library(stats)
 library(stylo)
 library(qgraph)
+library(factoextra)
 
 setwd('/Users/kristallqiu/Desktop/501/portfolio')
-df <- read.csv('spotify_hitsong_full_1009.csv')#[16000:17000,]
-df <- df[!(rowSums(is.na(df))),]
+set.seed(123)
+######## Prepare Data ########
+df <- read.csv('audio_features_w_genre_clean.csv') %>%
+  select(c('hit','danceability', 'energy', 'key', 'loudness','mode',
+           'speechiness', 'acousticness', 'instrumentalness',
+           'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature')) %>%
+  drop_na()
+  
+
+hit <- df$hit
+df <- select(df, -c('hit')) %>%
+  scale() %>%
+  as_tibble()
 head(df)
+str(df)
 
-audio_features <- df[, c('danceability', 
-                         'energy',
-                         'key',
-                         'loudness',
-                         'speechiness',
-                         'acousticness',
-                         'instrumentalness',
-                         'liveness',
-                         'valence',
-                         'tempo')]
+########  K-means ########
 
-audio_features <- scale(audio_features)
-head(audio_features)
-
-# K-means
-## optimal k
+#### Optimal K ####
 fviz_nbclust(
-  audio_features, 
+  df, 
   kmeans, 
   k.max = 6,
-  method = "wss",
-  diss = get_dist(audio_features, method = "euclidean")
+  method = 'wss',
+  diss = get_dist(df, method = 'euclidean')
   ) + geom_vline(xintercept = 4, linetype = 2)
 
-fviz_nbclust(audio_features, kmeans, method='silhouette', k.max=6)
+fviz_nbclust(df, kmeans, method='silhouette', k.max=6)
 
 # WSS returns k = 4, Silhouette returns k = 2.
 # k = 2 is reasonable because with pre-knowledge of the data, we know there are 2 groups - hit and non-hit songs.
 # k = 4 also makes sense, since the clustering might be based on the type of songs with common audio features.
-# However, in the elbow method of determining optimal k,
-# k = 3 also seems to be an elbow, as the slope becomes flatter.
+# k = 3 also seems to be an elbow, as the slope becomes slightly flatter.
 
-set.seed(123)
+#### k = 2 ####
+km2 <- kmeans(df, 2, nstart = 24)
+d2 <- cbind(label = hit, cluster = km2$cluster)
+head(d2)
 
-## k = 2
-km_2 <- kmeans(audio_features, 2, nstart = 24)
-d_2 <- cbind(df, cluster = km_2$cluster)
-head(d_2)
+# number of points in each cluster
+table(km2$cluster)
+##     1     2 
+##    5797 13429 
+## this is aligned with the data which contains around 3300 hit songs.
 
-### number of points in each cluster
-table(km_2$cluster)
-# 1-13399 2-4233 this is aligned with the data which contains around 3300 hit songs.
+# accuracy (only applies when k = 2)
+mean((km2$cluster) == -hit+2)
+## 0.6180173
 
-### Visualization
+# visualization
 options(ggrepel.max.overlaps = Inf)
-
-fviz_cluster(km_2, audio_features,
+fviz_cluster(km2, df,
              ellipse.type = 'euclid',
              star.plot = TRUE,
              repel = TRUE,
              geom = 'point',
              ggtheme = theme_minimal())
 
-### Accuracy (only applies when k = 2)
-mean((km_2$cluster - 1) == df$hit)
 
-## k = 3
-km_3 <- kmeans(audio_features, 3, nstart = 24)
-d_3 <- cbind(df, cluster = km_3$cluster)
-head(d_3)
+#### k = 3 ####
+km3 <- kmeans(df, 3, nstart = 24)
 
-### number of points in each cluster
-table(km_3$cluster)
+# number of points in each cluster
+table(km3$cluster)
+##    1     2     3 
+##   5416 12951   859 
 
-### Visualization
-fviz_cluster(km_3, audio_features,
+# visualization
+fviz_cluster(km3, df,
              ellipse.type = 'euclid',
              star.plot = TRUE,
              repel = TRUE,
              geom = 'point',
              ggtheme = theme_minimal())
 
-## k = 4
-km_4 <- kmeans(audio_features, 4, nstart = 24)
-d_4 <- cbind(df, cluster = km_4$cluster)
-head(d_4)
+#### k = 4 ####
+km4 <- kmeans(df, 4, nstart = 24)
 
-### number of points in each cluster
-table(km_4$cluster)
+# number of points in each cluster
+table(km4$cluster)
 
-### Visualization
-fviz_cluster(km_4, audio_features,
+# visualization
+fviz_cluster(km4, df,
              ellipse.type = 'euclid',
              star.plot = TRUE,
              repel = TRUE,
              geom = 'point',
              ggtheme = theme_minimal())
 
-## Predict on new data
-predict_data <- read.csv('assign3_predict_data.csv')
-head(predict_data)
-predict_audio_features <- scale(predict_data[, c('danceability', 
-                                           'energy',
-                                           'key',
-                                           'loudness',
-                                           'speechiness',
-                                           'acousticness',
-                                           'instrumentalness',
-                                           'liveness',
-                                           'valence',
-                                           'tempo')])
+#### Prediction ####
+pred_data <- read.csv('Cluster_audio_features_pred_data.csv') %>%
+  select(c('danceability', 'energy', 'key', 'loudness','mode',
+           'speechiness', 'acousticness', 'instrumentalness',
+           'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature')) %>%
+  scale() %>%
+  as_tibble() %>%
+  mutate(time_signature = as.numeric(c(0.172655957076637,0.172655957076637,0.172655957076637)))
+head(pred_data)
+pred_name <- c('Intro (Hate On Me)',
+               'Flocky Flocky (feat. Travis Scott)',
+               'Way 2 Sexy (witih Future & Young Thug)')
+# k = 2
+test_pred2 <- predict(km2, pred_data)
+table(test_pred2, pred_name)
+# k = 3
+test_pred3 <- predict(km3, pred_data)
+table(test_pred3, pred_name)
 
-### k = 2
-test_preds_2 <- predict(km_2, predict_audio_features)
-table(test_preds_2, predict_data$name)
 
-### k = 3
-test_preds_3 <- predict(km_3, predict_audio_features)
-table(test_preds_3, predict_data$name)
+########  Hierarchical Clustering ########  
+#### distance matrices ####
+df_sample <- sample_n(df, 50)
+euc <- dist(df_sample, method = 'euclidean')
+man <- dist(df_sample, method = 'manhattan')
 
-# Hierarchical clustering
-## Distance matrices
-euc <- dist(audio_features, method = 'euclidean')
-man <- dist(audio_features, method = 'manhattan')
-
-m <- as.matrix(audio_features)
+m <- as.matrix(df_sample)
 cos_sim <- m / sqrt(rowSums(m * m))
 cos_sim <- cos_sim %*% t(cos_sim)
 cos_dist <- as.dist(1 - cos_sim)
 
-### Visualization
-#qgraph(1/as.matrix(euc), layout='spring', vsize=3)
-#qgraph(1/as.matrix(man), layout='spring', vsize=3)
-#qgraph(1/as.matrix(cos_sim), layout='spring', vsize=3)
+# visualization
+qgraph(1/as.matrix(euc), layout='spring', vsize=3)
+qgraph(1/as.matrix(man), layout='spring', vsize=3)
+qgraph(1/as.matrix(cos_dist), layout='spring', vsize=3)
 
-## Hierarchical clustering with Euclidean distance
+#### hierarchical clustering with Euclidean distance #### 
 hc_euc <- hclust(d = euc, method = 'ward.D2')
 
 fviz_dend(hc_euc,
@@ -164,7 +162,7 @@ fviz_dend(hc_euc, k = 5,
           color_labels_by_k = TRUE,
           rect = TRUE)
 
-## Hierarchical clustering with Manhattan distance
+#### hierarchical clustering with Manhattan distance ####
 hc_man <- hclust(d = man, method = 'ward.D2')
 
 fviz_dend(hc_man,
@@ -194,7 +192,7 @@ fviz_dend(hc_man, k = 5,
           color_labels_by_k = TRUE,
           rect = TRUE)
 
-## Hierarchical clustering with Cosine Similarity
+#### hierarchical clustering with Cosine Similarity ####
 hc_cos <- hclust(d = cos_dist, method = 'ward.D2')
 
 fviz_dend(hc_cos,

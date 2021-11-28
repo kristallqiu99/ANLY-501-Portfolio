@@ -1,6 +1,3 @@
-##### Set Up ####
-setwd('/Users/kristallqiu/Desktop/501/portfolio/ARM')
-
 #install.packages('tokenizers')
 library(tokenizers)
 #install.packages('arules')
@@ -19,16 +16,20 @@ library(stringr)
 #install.packages('stopwords')
 library(stopwords)
 
-##### Transaction Data Preparation #####
-lyrics <- na.omit(read.csv('/Users/kristallqiu/Desktop/501/portfolio/merge_w_lyrics_full.csv'))
-TopArtists <- c('Justin Bieber', 'Ed Sheeran', 'The Weekend', 'Dua Lipa')
-TopLyrics <- lyrics[grep(paste(TopArtists, collapse='|'), lyrics$artist_x),'lyrics']
+setwd('/Users/kristallqiu/Desktop/501/portfolio/ARM')
+
+######## Transaction Data Preparation ########
+lyrics <- read.csv('/Users/kristallqiu/Desktop/501/portfolio/lyrics.csv')[!lyrics$lyrics=='',]
+TopArtists <- c('Justin Bieber', 'Ed Sheeran', 'The Weeknd', 'Dua Lipa')
+TopLyrics <- lyrics[grepl(TopArtists[1], lyrics$artists),'lyrics']
+for (artist in TopArtists[2:length(TopArtists)]){
+  TopLyrics <- c(TopLyrics,
+                     lyrics[grepl(artist, lyrics$artists), 'lyrics'])
+}
 
 # text cleaning
 TopLyrics <- gsub('\\n', ' ', TopLyrics)
-TopLyrics <- gsub('EmbedShare URLCopyEmbedCopy', '', TopLyrics)
 TopLyrics <- gsub('[0-9]+', '', TopLyrics)
-TopLyrics
 
 # create the file
 trans <- file('TopLyricsFile.csv')
@@ -56,11 +57,9 @@ close(trans)
 
 # read lyrics transactions as a dataframe
 LyricsDF <- read.csv('TopLyricsFile.csv', 
-                    header = FALSE, sep = ',')
-#head(LyricsDF)
-
-LyricsDF<-LyricsDF %>%
+                    header = FALSE, sep = ',') %>%
   mutate_all(as.character)
+head(LyricsDF)
 
 # clean with grepl - every row in each column
 MyDF<-NULL
@@ -69,32 +68,28 @@ for (i in 1:ncol(LyricsDF)){
   MyList=c(MyList,(nchar(LyricsDF[[i]])<4 | nchar(LyricsDF[[i]])>11))
   MyDF<-cbind(MyDF,MyList) 
 }
-
 LyricsDF[MyDF] <- ''
-#head(LyricsDF,10)
+head(LyricsDF)
 
 # save the dataframe using the write table command 
 write.table(LyricsDF, file = 'UpdatedTopLyricsFile.csv', col.names = FALSE, 
             row.names = FALSE, sep = ',')
 
-##### ARM #####
+######## ARM ######## 
 # read transactions
 lyrics_trans <- read.transactions('UpdatedTopLyricsFile.csv', sep =',', 
                                 format('basket'),  rm.duplicates = TRUE)
 
 # itemsets length = 2
-rule2 = arules::apriori(lyrics_trans, parameter = list(support=.06,
+rule2 <- arules::apriori(lyrics_trans, parameter = list(support=.06,
                                                        conf=0.5,
                                                        minlen=2,
                                                        maxlen=2))
 
 write.csv(DATAFRAME(rule2), 'arules2.csv')
-write.csv(DATAFRAME(head(sort(rule2, by='support', decreasing=TRUE),15)),
-                    'arules2_top15_sup.csv')
-write.csv(DATAFRAME(head(sort(rule2, by='confidence', decreasing=TRUE),15)),
-          'arules2_top15_conf.csv')
-write.csv(DATAFRAME(head(sort(rule2, by='lift', decreasing=TRUE),15)),
-          'arules2_top15_lift.csv')
+write.csv(DATAFRAME(head(sort(rule2, by='support', decreasing=TRUE),15)), 'arules2_top15_sup.csv')
+write.csv(DATAFRAME(head(sort(rule2, by='confidence', decreasing=TRUE),15)), 'arules2_top15_conf.csv')
+write.csv(DATAFRAME(head(sort(rule2, by='lift', decreasing=TRUE),15)), 'arules2_top15_lift.csv')
 
 # itemsets length > 2
 rule3 <- arules::apriori(lyrics_trans, parameter = list(support=.06,
@@ -102,27 +97,20 @@ rule3 <- arules::apriori(lyrics_trans, parameter = list(support=.06,
                                                        minlen=3))
 
 write.csv(DATAFRAME(rule3), 'arules3.csv')
-write.csv(DATAFRAME(head(sort(rule3, by='support', decreasing=TRUE),15)),
-          'arules3_top15_sup.csv')
-write.csv(DATAFRAME(head(sort(rule3, by='confidence', decreasing=TRUE),15)),
-          'arules3_top15_conf.csv')
-write.csv(DATAFRAME(head(sort(rule3, by='lift', decreasing=TRUE),15)),
-          'arules3_top15_lift.csv')
-
+write.csv(DATAFRAME(head(sort(rule3, by='support', decreasing=TRUE),15)), 'arules3_top15_sup.csv')
+write.csv(DATAFRAME(head(sort(rule3, by='confidence', decreasing=TRUE),15)), 'arules3_top15_conf.csv')
+write.csv(DATAFRAME(head(sort(rule3, by='lift', decreasing=TRUE),15)), 'arules3_top15_lift.csv')
 
 rules_all <- arules::apriori(lyrics_trans, parameter = list(support=.06,
                                                         conf=0.85,
                                                         minlen=2))
 
 write.csv(DATAFRAME(rules_all), 'arules_all.csv')
-write.csv(DATAFRAME(head(sort(rules_all, by='support', decreasing=TRUE),15)),
-          'arules_all_top15_sup.csv')
-write.csv(DATAFRAME(head(sort(rules_all, by='confidence', decreasing=TRUE),15)),
-          'arules_all_top15_conf.csv')
-write.csv(DATAFRAME(head(sort(rules_all, by='lift', decreasing=TRUE),15)),
-          'arules_all_top15_lift.csv')
+write.csv(DATAFRAME(head(sort(rules_all, by='support', decreasing=TRUE),15)), 'arules_all_top15_sup.csv')
+write.csv(DATAFRAME(head(sort(rules_all, by='confidence', decreasing=TRUE),15)), 'arules_all_top15_conf.csv')
+write.csv(DATAFRAME(head(sort(rules_all, by='lift', decreasing=TRUE),15)), 'arules_all_top15_lift.csv')
 
-##### Visualizations #####
+######## Visualizations ########
 # igraph
 vis_all = plot(head(sort(rules_all, by='support', decreasing = TRUE), 35), 
                method = 'graph', control = list(verbose = FALSE),
