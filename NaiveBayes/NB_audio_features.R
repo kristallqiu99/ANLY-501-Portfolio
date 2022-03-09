@@ -9,8 +9,9 @@ library(cvms)
 library(klaR)
 
 options(warn=-1)
-setwd('Desktop/501/portfolio')
-df <- read.csv('audio_features_w_genre_clean.csv', stringsAsFactors = T) %>% 
+set.seed(1009)
+
+df <- read.csv('../audio_features_w_genre_clean.csv', stringsAsFactors = T) %>% 
   dplyr::select(-c('name','artists','id','release_date', 'artist_genres')) %>%
   mutate(hit = factor(hit, levels = c(0, 1), label=c('Non-hit', 'Hit')),
          mode=as.factor(mode),
@@ -20,8 +21,6 @@ str(df)
 head(df)
 
 ######## Split the data######## 
-set.seed(1009)
-
 train_test_split <- function(data, size = 0.8, train = TRUE) {
   total_row <- size * nrow(data)
   train_sample <- sample(nrow(data),

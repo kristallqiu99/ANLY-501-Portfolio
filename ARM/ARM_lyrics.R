@@ -16,10 +16,9 @@ library(stringr)
 #install.packages('stopwords')
 library(stopwords)
 
-setwd('/Users/kristallqiu/Desktop/501/portfolio/ARM')
 
 ######## Transaction Data Preparation ########
-lyrics <- read.csv('/Users/kristallqiu/Desktop/501/portfolio/lyrics.csv')[!lyrics$lyrics=='',]
+lyrics <- read.csv('../lyrics.csv')[!lyrics$lyrics=='',]
 TopArtists <- c('Justin Bieber', 'Ed Sheeran', 'The Weeknd', 'Dua Lipa')
 TopLyrics <- lyrics[grepl(TopArtists[1], lyrics$artists),'lyrics']
 for (artist in TopArtists[2:length(TopArtists)]){

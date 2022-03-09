@@ -6,10 +6,10 @@ library(stylo)
 library(qgraph)
 library(factoextra)
 
-setwd('/Users/kristallqiu/Desktop/501/portfolio')
+
 set.seed(123)
 ######## Prepare Data ########
-df <- read.csv('audio_features_w_genre_clean.csv') %>%
+df <- read.csv('../audio_features_w_genre_clean.csv') %>%
   select(c('hit','danceability', 'energy', 'key', 'loudness','mode',
            'speechiness', 'acousticness', 'instrumentalness',
            'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature')) %>%
@@ -97,7 +97,7 @@ fviz_cluster(km4, df,
              ggtheme = theme_minimal())
 
 #### Prediction ####
-pred_data <- read.csv('Cluster_audio_features_pred_data.csv') %>%
+pred_data <- read.csv('../Cluster_audio_features_pred_data.csv') %>%
   select(c('danceability', 'energy', 'key', 'loudness','mode',
            'speechiness', 'acousticness', 'instrumentalness',
            'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature')) %>%

@@ -1,6 +1,3 @@
-getwd()
-setwd('/Users/kristallqiu/Desktop/501/portfolio')
-
 #install.packages('rpart')
 library(rpart)
 library(rpart.plot)
@@ -15,8 +12,8 @@ library(caret)
 library(cvms)
 
 ######## Prepare data######## 
-audio.features <- read.csv('audio_features_w_genre.csv', stringsAsFactors = T) %>% 
-  select(-c('name','artists','id','release_date', 'artist_genres')) %>%
+audio.features <- read.csv('../audio_features_w_genre_clean.csv', stringsAsFactors = T) %>% 
+  dplyr::select(-c('name','artists','id','release_date', 'artist_genres')) %>%
   mutate(hit = factor(hit, levels = c(0, 1), labels = c('Non-hit', 'Hit')))
 str(audio.features)
 head(audio.features)
@@ -67,7 +64,7 @@ feature_importance <- function(model){
 }
 feature_importance(dt1)
 # prediction
-pred <- predict(dt1, select(test.data, -hit), type='class')
+pred <- predict(dt1, dplyr::select(test.data, -hit), type='class')
 caret:: confusionMatrix(pred, test.data$hit, positive = 'Hit')
 
 conf_matrix_vis <- function(cm){
@@ -83,11 +80,11 @@ conf_matrix_vis(confusionMatrix(pred, test.data$hit, positive = 'Hit'))
 
 #### key musical properties ####
 # split data
-train.data2 <- select(train.data, 
+train.data2 <- dplyr::select(train.data, 
                       c('hit','danceability',
                         'energy','key','loudness', 'speechiness','acousticness',
                         'instrumentalness','liveness','valence','tempo'))
-test.data2 <- select(test.data, 
+test.data2 <- dplyr::select(test.data, 
                      c('hit','danceability',
                        'energy','key','loudness', 'speechiness','acousticness',
                        'instrumentalness','liveness','valence','tempo'))
@@ -103,7 +100,7 @@ dev.off()
 # feature importance
 feature_importance(dt2)
 # prediction
-pred2 <- predict(dt2, select(test.data2, -hit), type='class')
+pred2 <- predict(dt2, dplyr::select(test.data2, -hit), type='class')
 confusionMatrix(pred2, test.data2$hit, positive = 'Hit')
 conf_matrix_vis(confusionMatrix(pred2, test.data2$hit, positive = 'Hit'))
 
@@ -118,15 +115,15 @@ png(file='DTPlot/AudioFeaturesDT3.png', width = 1200, height = 700)
 fancyRpartPlot(dt3, sub = NULL)
 dev.off()
 # prediction
-pred3 <- predict(dt3, select(test.data2, -hit), type='class')
+pred3 <- predict(dt3, dplyr::select(test.data2, -hit), type='class')
 confusionMatrix(pred3, test.data2$hit, positive = 'Hit')
 conf_matrix_vis(confusionMatrix(pred3, test.data2$hit, positive = 'Hit'))
 
 #### covid era 2020 - now ####
 # prepare data
-covid.era <- read.csv('audio_features_w_genre.csv') %>%
+covid.era <- read.csv('../audio_features_w_genre.csv') %>%
   subset(as.Date.character(release_date)>='2020-01-01') %>%
-  select(c('hit','danceability','energy','key','loudness','speechiness',
+  dplyr::select(c('hit','danceability','energy','key','loudness','speechiness',
            'acousticness', 'instrumentalness','liveness','valence','tempo')) %>%
   mutate(hit = factor(hit, levels = c(0, 1), labels = c('Non-hit', 'Hit')))
 str(covid.era)
@@ -148,6 +145,6 @@ dev.off()
 # feature importance
 feature_importance(dt4)
 # prediction
-pred4 <- predict(dt4, select(test.data4, -hit), type='class')
+pred4 <- predict(dt4, dplyr::select(test.data4, -hit), type='class')
 confusionMatrix(pred4, test.data4$hit, positive = 'Hit')
 conf_matrix_vis(confusionMatrix(pred4, test.data4$hit, positive = 'Hit'))
